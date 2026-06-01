@@ -1,0 +1,27 @@
+name: Napad feed (preklad PL->SK cez DeepL)
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "30 2 * * *"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Vygenerovat napad feed
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+        run: python napad_scraper.py
+      - name: Ulozit feed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add napad_feed.xml
+          git diff --staged --quiet || git commit -m "Auto-aktualizacia napad feedu"
+          git push
