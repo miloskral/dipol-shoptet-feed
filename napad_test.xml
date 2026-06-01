@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <CODE>PX-DI2028IR2DLPW</CODE>
+    <NAME>PX-DI2028IR2DLPW - IP kamera 2 Mpx</NAME>
+    <SHORT_DESCRIPTION>Ekonomická IP kamera IPOX typu turret, 2 Mpx (Full HD), Dual Light (IR + biele LED), objektív 2,8 mm.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>Ekonomická IP kamera typu turret s plastovým telom značky IPOX, pracujúca v technológii dvojitého prisvietenia (Dual Light). Kombinácia IR diód (infračervené svetlo) a LED diód (biele teplé svetlo) umožňuje v noci čiernobiely alebo farebný obraz. Snímač CMOS, rozlíšenie 1920×1080 (Full HD), pevný objektív 2,8 mm.</p>]]></DESCRIPTION>
+    <MANUFACTURER>IPOX</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>84.04</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/11713_kamera_ip_dome_px_di2028ir2dlpw_2mp_2_8mm_ipox_glowne.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>PX-DI4028IR2DLPW</CODE>
+    <NAME>PX-DI4028IR2DLPW - IP kamera 4 Mpx</NAME>
+    <SHORT_DESCRIPTION>Ekonomická IP kamera IPOX typu turret, 4 Mpx, Dual Light (IR + biele LED), objektív 2,8 mm.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>Ekonomická IP kamera typu turret značky IPOX v technológii Dual Light – IR aj biele LED prisvietenie pre čiernobiely alebo farebný nočný obraz. Snímač CMOS, rozlíšenie 4 Mpx, pevný objektív 2,8 mm.</p>]]></DESCRIPTION>
+    <MANUFACTURER>IPOX</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>122.71</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_kamera_ip_dome_px_dic4028dlpw_4mp_2_8mm_glowne_v3.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>DS-2CD1341G2-LIU</CODE>
+    <NAME>DS-2CD1341G2-LIU 2,8 mm - IP kamera 4 Mpx</NAME>
+    <SHORT_DESCRIPTION>IP kamera Hikvision typu turret, 4 Mpx, pevný objektív 2,8 mm, nočné videnie.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>IP kamera značky Hikvision typu turret s pevným objektívom 2,8 mm a duálnym prisvietením. Rozlíšenie 4 Mpx, nočné videnie, vhodná na vonkajšiu aj vnútornú montáž.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Hikvision</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>136.09</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14744_kamera_ip_turret_dual_ds_2cd1343g2_liu_4mp_2_8mm_glowne.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>PX-DI4028IR2DL/W</CODE>
+    <NAME>PX-DI4028IR2DL/W - IP kamera 4 Mpx (biela)</NAME>
+    <SHORT_DESCRIPTION>IP kamera IPOX typu dome (biela), 4 Mpx, Dual Light, objektív 2,8 mm.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>IP kamera typu dome značky IPOX v bielom prevedení, technológia Dual Light (IR + biele LED). Snímač CMOS, rozlíšenie 4 Mpx, pevný objektív 2,8 mm.</p>]]></DESCRIPTION>
+    <MANUFACTURER>IPOX</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>136.38</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13654_kamera_ip_dome_px_di4028ir2dlw_4mp_glowne_v2.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>DS-2CD1141G2-LIU</CODE>
+    <NAME>DS-2CD1141G2-LIU 2,8 mm - IP kamera 4 Mpx</NAME>
+    <SHORT_DESCRIPTION>IP kamera Hikvision typu dome, 4 Mpx, pevný objektív 2,8 mm, nočné videnie.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>IP kamera Hikvision typu dome s pevným objektívom 2,8 mm. Rozlíšenie 4 Mpx, nočné videnie, robustné prevedenie pre vnútorné aj vonkajšie použitie.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Hikvision</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>145.97</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14743_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>PX-DI6028IR2DL/W</CODE>
+    <NAME>PX-DI6028IR2DL/W - IP kamera 6 Mpx (biela)</NAME>
+    <SHORT_DESCRIPTION>IP kamera IPOX typu dome (biela), 6 Mpx, Dual Light, objektív 2,8 mm.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>IP kamera typu dome značky IPOX v bielom prevedení s technológiou Dual Light. Vysoké rozlíšenie 6 Mpx, snímač CMOS, pevný objektív 2,8 mm.</p>]]></DESCRIPTION>
+    <MANUFACTURER>IPOX</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>150.04</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14428_kamera_ip_dome_px_di6028ir2dlw_6mp_2_8mm_biala_glowne.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>DS-2CD1361G2-LIU</CODE>
+    <NAME>DS-2CD1361G2-LIU 2,8 mm - IP kamera 6 Mpx</NAME>
+    <SHORT_DESCRIPTION>IP kamera Hikvision typu turret, 6 Mpx, pevný objektív 2,8 mm.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>IP kamera Hikvision typu turret s pevným objektívom 2,8 mm a vysokým rozlíšením 6 Mpx. Nočné videnie, vhodná na náročnejší monitoring.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Hikvision</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>150.62</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14780_ds_2cd1363g2_liu2_8mm_kamera_ip_6mpx_hikvision_glowne.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>DS-2CD1161G2-LIU</CODE>
+    <NAME>DS-2CD1161G2-LIU 2,8 mm - IP kamera 6 Mpx</NAME>
+    <SHORT_DESCRIPTION>IP kamera Hikvision typu dome, 6 Mpx, pevný objektív 2,8 mm.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>IP kamera Hikvision typu dome s pevným objektívom 2,8 mm, rozlíšenie 6 Mpx, nočné videnie.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Hikvision</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>161.09</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14779_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>IPC-HDW1239V-A-IL-0280B</CODE>
+    <NAME>IPC-HDW1239V-A-IL-0280B - IP kamera 2 Mpx (Smart Dual)</NAME>
+    <SHORT_DESCRIPTION>IP kamera Dahua typu dome, 2 Mpx, Smart Dual Light, vstavaný mikrofón, objektív 2,8 mm.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>IP kamera značky Dahua typu dome s technológiou Smart Dual Light a vstavaným mikrofónom. Rozlíšenie 2 Mpx, pevný objektív 2,8 mm, inteligentné prepínanie nočného režimu.</p>]]></DESCRIPTION>
+    <MANUFACTURER>Dahua</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>172.72</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_dh_ipc_hdw1239v_a_ii_v2_glowne_bez_podsw.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>PX-DI4028IR3DL/W</CODE>
+    <NAME>PX-DI4028IR3DL/W - IP kamera 4 Mpx (biela, 3,6 mm)</NAME>
+    <SHORT_DESCRIPTION>IP kamera IPOX typu dome (biela), 4 Mpx, Dual Light, objektív 3,6 mm.</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[<p>IP kamera typu dome značky IPOX v bielom prevedení s technológiou Dual Light. Rozlíšenie 4 Mpx, pevný objektív 3,6 mm pre užší záber.</p>]]></DESCRIPTION>
+    <MANUFACTURER>IPOX</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>172.72</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13565_kamera_ip_dual_px_di4036ir3dlw_4mp_3_6mm_biala_ipox_glowne.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+</SHOP>
