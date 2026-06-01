@@ -1,0 +1,28 @@
+{
+ "kategorie": [
+  {
+   "nazov": "Káble",
+   "slug": "kable",
+   "subor": "catalog_kable.json",
+   "pocet": 93
+  },
+  {
+   "nazov": "Monitoring > Káble",
+   "slug": "monitoring-kable",
+   "subor": "catalog_monitoring-kable.json",
+   "pocet": 67
+  },
+  {
+   "nazov": "LAN a WLAN > Káble",
+   "slug": "lan-kable",
+   "subor": "catalog_lan-kable.json",
+   "pocet": 49
+  },
+  {
+   "nazov": "Optické káble",
+   "slug": "opticke-kable",
+   "subor": "catalog_opticke-kable.json",
+   "pocet": 34
+  }
+ ]
+}
