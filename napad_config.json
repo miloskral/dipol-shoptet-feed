@@ -1,0 +1,18 @@
+{
+  "_komentar": "Konfiguracia scraperu napad.pl -> Shoptet (preklad PL->SK cez DeepL). DEEPL_API_KEY je GitHub secret, NIE tu.",
+  "kategorie": [
+    { "nazov_shoptet": "IP kamery", "url": "https://www.napad.pl/935-kamery-kopulkowe" }
+  ],
+  "limit_produktov": 10,
+  "cena": {
+    "marza_koeficient": 1.0,
+    "fallback_kurz": 4.27,
+    "mena": "EUR"
+  },
+  "vystup_xml": "napad_feed.xml",
+  "siet": {
+    "user_agent": "Mozilla/5.0 (compatible; ShoptetFeedBot/1.0)",
+    "pauza_sekundy": 0.5,
+    "timeout_sekundy": 30
+  }
+}
