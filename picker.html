@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dipol → Shoptet · výber produktov do feedu</title>
+<style>
+  :root{
+    --bg:#f5f6f8; --card:#fff; --ink:#1d2733; --muted:#6b7785;
+    --line:#e3e7ec; --brand:#2f6df6; --brand-d:#2257cc; --ok:#1f9d57; --okbg:#e8f7ee;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,Segoe UI,Roboto,Arial,sans-serif}
+  header{background:var(--card);border-bottom:1px solid var(--line);padding:14px 20px;position:sticky;top:0;z-index:20}
+  h1{font-size:18px;margin:0}
+  .sub{color:var(--muted);font-size:13px;margin-top:2px}
+  .wrap{max-width:1100px;margin:0 auto;padding:18px 20px 80px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin-bottom:16px}
+  label{font-weight:600;font-size:13px;color:var(--muted);display:block;margin-bottom:4px}
+  input[type=text],select{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:#fff;width:100%}
+  .row{display:flex;gap:12px;flex-wrap:wrap;align-items:flex-end}
+  .row>div{flex:1;min-width:180px}
+  button{font:inherit;cursor:pointer;border:none;border-radius:8px;padding:9px 14px;background:var(--brand);color:#fff;font-weight:600}
+  button:hover{background:var(--brand-d)}
+  button.ghost{background:#eef1f5;color:var(--ink)}
+  button.ghost:hover{background:#e3e7ec}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  .toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:10px}
+  .toolbar .grow{flex:1;min-width:160px}
+  .count{background:var(--okbg);color:var(--ok);font-weight:700;padding:6px 12px;border-radius:20px;font-size:13px}
+  table{width:100%;border-collapse:collapse;background:var(--card)}
+  th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle}
+  th{position:sticky;top:0;background:#fafbfc;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.03em;z-index:5}
+  td.img img{width:54px;height:54px;object-fit:contain;background:#fff;border:1px solid var(--line);border-radius:6px}
+  td.code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px;color:var(--muted);white-space:nowrap}
+  td.price{white-space:nowrap;font-weight:600;text-align:right}
+  tr.sel{background:#f0f6ff}
+  .chk{width:18px;height:18px;cursor:pointer}
+  .msg{padding:14px;border-radius:8px;background:#fff7e6;border:1px solid #ffe0a3;color:#8a5a00;font-size:14px}
+  .msg.err{background:#fdecec;border-color:#f5b5b5;color:#a12525}
+  .footbar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--line);
+    padding:12px 20px;display:flex;gap:14px;align-items:center;justify-content:space-between;z-index:30}
+  .footbar .left{color:var(--muted);font-size:14px}
+  .pill{display:inline-block;background:#eef1f5;border-radius:14px;padding:3px 10px;margin:2px 4px 2px 0;font-size:12px}
+  .pill b{font-family:ui-monospace,monospace}
+  .pill span{color:#a12525;cursor:pointer;margin-left:6px;font-weight:700}
+  details summary{cursor:pointer;font-weight:600;color:var(--muted)}
+  .hint{color:var(--muted);font-size:12px;margin-top:6px}
+  a{color:var(--brand)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Dipol → Shoptet · výber produktov do feedu</h1>
+  <div class="sub">Zaškrtni produkty, ktoré chceš v e-shope. Z výberu sa vygeneruje XML feed len s nimi.</div>
+</header>
+
+<div class="wrap">
+
+  <div class="card">
+    <div class="row">
+      <div style="flex:2">
+        <label>Zdroj katalógov (GitHub raw URL k priečinku s catalog_*.json)</label>
+        <input id="baseUrl" type="text"
+          value="https://raw.githubusercontent.com/miloskral/dipol-shoptet-feed/main/">
+      </div>
+      <div style="flex:0 0 auto">
+        <button id="loadBtn">Načítať katalógy</button>
+      </div>
+      <div style="flex:0 0 auto">
+        <button class="ghost" id="fileBtn">Nahrať katalóg zo súboru…</button>
+        <input id="fileInput" type="file" accept="application/json,.json" multiple style="display:none">
+      </div>
+    </div>
+    <div class="hint">Katalógy vytvára <code>catalog_scraper.py</code> (beží na GitHube). Ak ešte nie sú nahraté, môžeš sem dočasne nahrať <code>catalog_*.json</code> súbor z disku.</div>
+    <div id="status" style="margin-top:10px"></div>
+  </div>
+
+  <div class="card" id="browseCard" style="display:none">
+    <div class="row" style="margin-bottom:12px">
+      <div>
+        <label>Kategória</label>
+        <select id="catSel"></select>
+      </div>
+    </div>
+    <div class="toolbar">
+      <div class="grow"><input id="search" type="text" placeholder="Hľadať podľa názvu alebo kódu…"></div>
+      <button class="ghost" id="selAll">Vybrať všetko (zobrazené)</button>
+      <button class="ghost" id="selNone">Zrušiť (zobrazené)</button>
+      <span class="count" id="catCount">0</span>
+    </div>
+    <div style="max-height:60vh;overflow:auto;border:1px solid var(--line);border-radius:8px">
+      <table id="tbl">
+        <thead><tr>
+          <th style="width:40px"></th><th style="width:70px">Obrázok</th>
+          <th style="width:150px">Kód</th><th>Názov</th><th style="width:120px">Cena</th>
+        </tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="card" id="selCard" style="display:none">
+    <details>
+      <summary>Vybrané produkty (<span id="selSummaryCount">0</span>)</summary>
+      <div id="selList" style="margin-top:10px"></div>
+    </details>
+  </div>
+
+</div>
+
+<div class="wrap" style="padding-top:0">
+  <div class="card" id="pubCard">
+    <label>Uložiť feed priamo na GitHub (bez sťahovania a nahrávania)</label>
+    <div class="row" style="margin-top:6px">
+      <div style="flex:2">
+        <input id="ghToken" type="password" placeholder="github_pat_… (fine-grained token, Contents: Read and write)">
+      </div>
+      <div style="flex:0 0 auto">
+        <button id="pubBtn" disabled>Uložiť na GitHub</button>
+      </div>
+    </div>
+    <div class="hint">Token vytvoríš raz na GitHube (Settings → Developer settings → Fine-grained tokens) s prístupom <b>Contents: Read and write</b> len pre repo <code>dipol-shoptet-feed</code>. Uloží sa iba v tomto prehliadači a posiela sa výhradne na GitHub API.</div>
+    <div id="pubStatus" style="margin-top:8px"></div>
+  </div>
+</div>
+
+<div class="footbar">
+  <div class="left">Spolu vybraných: <b id="totalCount">0</b> produktov naprieč kategóriami</div>
+  <div>
+    <button class="ghost" id="clearBtn">Vyčistiť výber</button>
+    <button id="genBtn" disabled>Generovať feed (.xml)</button>
+  </div>
+</div>
+
+<script>
+const state = {
+  index: [],                 // [{nazov, slug, subor, pocet}]
+  catalogs: {},              // slug -> {category, slug, products:[...]}
+  current: null,             // slug
+  selected: new Map(),       // code -> {code,name,price,currency,category,shopitem_xml}
+};
+
+const $ = id => document.getElementById(id);
+function setStatus(html, kind){ $('status').innerHTML = html ? `<div class="msg ${kind||''}">${html}</div>` : ''; }
+function joinUrl(base, file){ return base.replace(/\/+$/,'') + '/' + file.replace(/^\/+/,''); }
+
+async function loadIndex(){
+  const base = $('baseUrl').value.trim();
+  setStatus('Načítavam zoznam katalógov…');
+  try{
+    const r = await fetch(joinUrl(base,'catalog_index.json'), {cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const data = await r.json();
+    state.index = data.kategorie || [];
+    if(!state.index.length){ setStatus('Index je prázdny. Spusti najprv catalog_scraper.py.','err'); return; }
+    // načítaj všetky katalógy
+    let ok=0;
+    for(const k of state.index){
+      try{
+        const rr = await fetch(joinUrl(base,k.subor), {cache:'no-store'});
+        if(rr.ok){ state.catalogs[k.slug] = await rr.json(); ok++; }
+      }catch(e){}
+    }
+    if(!ok){ setStatus('Index sa našiel, ale catalog_*.json súbory sa nepodarilo načítať.','err'); return; }
+    setStatus(`Načítaných ${ok} kategórií.`);
+    initBrowse();
+  }catch(e){
+    setStatus('Nepodarilo sa načítať <code>catalog_index.json</code> z tejto URL (' + e.message +
+      '). Skontroluj, či už katalógy bežia na GitHube, alebo použi „Nahrať katalóg zo súboru".','err');
+  }
+}
+
+function ingestCatalog(obj){
+  if(!obj || !obj.slug || !Array.isArray(obj.products)) return false;
+  state.catalogs[obj.slug] = obj;
+  if(!state.index.find(k=>k.slug===obj.slug))
+    state.index.push({nazov:obj.category||obj.slug, slug:obj.slug, subor:'(súbor)', pocet:obj.products.length});
+  return true;
+}
+
+function initBrowse(){
+  const sel = $('catSel'); sel.innerHTML='';
+  state.index.forEach(k=>{
+    if(!state.catalogs[k.slug]) return;
+    const o=document.createElement('option');
+    o.value=k.slug; o.textContent=`${k.nazov} (${(state.catalogs[k.slug].products||[]).length})`;
+    sel.appendChild(o);
+  });
+  $('browseCard').style.display='';
+  $('selCard').style.display='';
+  if(sel.options.length){ state.current=sel.value; renderRows(); }
+}
+
+function currentProducts(){
+  const c = state.catalogs[state.current];
+  return c ? (c.products||[]) : [];
+}
+
+function renderRows(){
+  const q = $('search').value.trim().toLowerCase();
+  const tb = $('rows'); tb.innerHTML='';
+  let shown=0, selectedHere=0;
+  currentProducts().forEach(p=>{
+    if(q && !((p.name||'').toLowerCase().includes(q) || (p.code||'').toLowerCase().includes(q))) return;
+    shown++;
+    const isSel = state.selected.has(p.code);
+    if(isSel) selectedHere++;
+    const tr=document.createElement('tr'); if(isSel) tr.className='sel';
+    tr.innerHTML =
+      `<td><input class="chk" type="checkbox" ${isSel?'checked':''} data-code="${enc(p.code)}"></td>`+
+      `<td class="img">${p.thumb?`<img loading="lazy" src="${enc(p.thumb)}" alt="">`:''}</td>`+
+      `<td class="code">${enc(p.code)}</td>`+
+      `<td>${enc(p.name||'')}</td>`+
+      `<td class="price">${enc(p.price||'')} ${enc(p.currency||'')}</td>`;
+    tr.querySelector('.chk').addEventListener('change', e=>toggle(p, e.target.checked));
+    tb.appendChild(tr);
+  });
+  $('catCount').textContent = `${selectedHere} / ${shown} vybraných`;
+  updateTotals();
+}
+
+function toggle(p, on){
+  if(on) state.selected.set(p.code, p);
+  else state.selected.delete(p.code);
+  const cb = $('rows').querySelector(`.chk[data-code="${cssEsc(p.code)}"]`);
+  if(cb) cb.closest('tr').classList.toggle('sel', on);
+  updateTotals();
+}
+
+function updateTotals(){
+  const n = state.selected.size;
+  $('totalCount').textContent = n;
+  $('selSummaryCount').textContent = n;
+  $('genBtn').disabled = n===0;
+  refreshPubBtn();
+  renderSelList();
+}
+
+function renderSelList(){
+  const box=$('selList'); box.innerHTML='';
+  if(!state.selected.size){ box.innerHTML='<div class="hint">Zatiaľ nič nevybrané.</div>'; return; }
+  [...state.selected.values()].forEach(p=>{
+    const s=document.createElement('span'); s.className='pill';
+    s.innerHTML=`<b>${enc(p.code)}</b> ${enc((p.name||'').slice(0,40))} <span title="Odobrať">✕</span>`;
+    s.querySelector('span').addEventListener('click',()=>{ state.selected.delete(p.code); renderRows(); });
+    box.appendChild(s);
+  });
+}
+
+function buildFeed(){
+  const items=[...state.selected.values()].map(p=>p.shopitem_xml).filter(Boolean);
+  return '<?xml version="1.0" encoding="utf-8"?>\n<SHOP>\n' + items.join('\n') + '\n</SHOP>\n';
+}
+
+function download(){
+  const xml=buildFeed();
+  const blob=new Blob([xml],{type:'application/xml'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='selected_feed.xml';
+  document.body.appendChild(a); a.click(); a.remove();
+  setStatus(`Vygenerovaný feed s ${state.selected.size} produktmi → <b>selected_feed.xml</b>. Nahraj ho na GitHub a Shoptet si ho stiahne.`);
+}
+
+// --- Uloženie feedu priamo na GitHub (bez sťahovania/nahrávania) ---
+const GH = { owner:'miloskral', repo:'dipol-shoptet-feed', branch:'main', path:'selected_feed.xml' };
+const RAW_FEED = `https://raw.githubusercontent.com/${GH.owner}/${GH.repo}/${GH.branch}/${GH.path}`;
+function b64utf8(s){ return btoa(unescape(encodeURIComponent(s))); }
+function pubStatus(html, kind){ $('pubStatus').innerHTML = html ? `<div class="msg ${kind||''}">${html}</div>` : ''; }
+function refreshPubBtn(){ $('pubBtn').disabled = !($('ghToken').value.trim() && state.selected.size); }
+
+async function publishToGitHub(){
+  const token = $('ghToken').value.trim();
+  if(!token){ pubStatus('Najprv vlož GitHub token.','err'); return; }
+  if(!state.selected.size){ pubStatus('Nie je vybraný žiadny produkt.','err'); return; }
+  $('pubBtn').disabled = true;
+  pubStatus('Ukladám na GitHub…');
+  const xml = buildFeed();
+  const api = `https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${GH.path}`;
+  const hdr = { Authorization:'Bearer '+token, Accept:'application/vnd.github+json' };
+  try{
+    let sha;
+    const g = await fetch(api+`?ref=${GH.branch}&t=`+Date.now(), {headers:hdr, cache:'no-store'});
+    if(g.ok){ sha = (await g.json()).sha; }
+    const body = { message:`Picker: selected_feed.xml (${state.selected.size} produktov)`, content:b64utf8(xml), branch:GH.branch };
+    if(sha) body.sha = sha;
+    const r = await fetch(api, {method:'PUT', headers:hdr, body:JSON.stringify(body)});
+    if(r.ok){
+      try{ localStorage.setItem('ghToken', token); }catch(e){}
+      pubStatus(`Uložené na GitHub (${state.selected.size} produktov). V Shoptete nastav automatický import na túto URL:<br><code>${RAW_FEED}</code>`);
+    }else{
+      const t = await r.text();
+      pubStatus(`Chyba pri ukladaní (HTTP ${r.status}). ${t.slice(0,200)}`,'err');
+    }
+  }catch(e){
+    pubStatus('Chyba siete: '+e.message,'err');
+  }
+  refreshPubBtn();
+}
+
+// utils
+function enc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function cssEsc(s){return String(s).replace(/["\\]/g,'\\$&');}
+
+// events
+$('loadBtn').addEventListener('click', loadIndex);
+$('fileBtn').addEventListener('click', ()=>$('fileInput').click());
+$('fileInput').addEventListener('change', async e=>{
+  let ok=0;
+  for(const f of e.target.files){
+    try{ const obj=JSON.parse(await f.text()); if(ingestCatalog(obj)) ok++; }catch(err){}
+  }
+  if(ok){ setStatus(`Načítaných ${ok} katalógov zo súborov.`); initBrowse(); }
+  else setStatus('Súbor sa nepodarilo načítať ako katalóg (chýba slug/products).','err');
+});
+$('catSel').addEventListener('change', e=>{ state.current=e.target.value; $('search').value=''; renderRows(); });
+$('search').addEventListener('input', renderRows);
+$('selAll').addEventListener('click', ()=>{
+  const q=$('search').value.trim().toLowerCase();
+  currentProducts().forEach(p=>{
+    if(q && !((p.name||'').toLowerCase().includes(q)||(p.code||'').toLowerCase().includes(q))) return;
+    state.selected.set(p.code,p);
+  });
+  renderRows();
+});
+$('selNone').addEventListener('click', ()=>{
+  const q=$('search').value.trim().toLowerCase();
+  currentProducts().forEach(p=>{
+    if(q && !((p.name||'').toLowerCase().includes(q)||(p.code||'').toLowerCase().includes(q))) return;
+    state.selected.delete(p.code);
+  });
+  renderRows();
+});
+$('clearBtn').addEventListener('click', ()=>{ state.selected.clear(); renderRows(); });
+$('genBtn').addEventListener('click', download);
+$('pubBtn').addEventListener('click', publishToGitHub);
+$('ghToken').addEventListener('input', refreshPubBtn);
+try{ const t=localStorage.getItem('ghToken'); if(t) $('ghToken').value=t; }catch(e){}
+
+if(location.protocol !== 'file:'){
+  $('baseUrl').value = new URL('.', location.href).href;
+}
+
+loadIndex();
+</script>
+</body>
+</html>
