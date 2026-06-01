@@ -1,0 +1,30 @@
+{
+  "_komentar": "Konfiguracia pre catalog_scraper.py + picker.html. Kazdy oddiel sa vyscrapuje do catalog_<slug>.json. Pridaj/uber kategorie podla potreby (nazov_shoptet = nazov kategorie v Shoptete, url = vypis kategorie na dipol.sk). 'slug' je nepovinny (inak sa odvodi z nazvu).",
+
+  "kategorie": [
+    { "nazov_shoptet": "Káble",                 "slug": "kable",            "url": "https://www.dipol.sk/ponuka-kable,7020.htm" },
+    { "nazov_shoptet": "Monitoring > Káble",    "slug": "monitoring-kable", "url": "https://www.dipol.sk/ponuka-monitoring-hd-tvi-ip-kable,6164.htm" },
+    { "nazov_shoptet": "LAN a WLAN > Káble",    "slug": "lan-kable",        "url": "https://www.dipol.sk/ponuka-lan-a-wlan-kable,6477.htm" },
+    { "nazov_shoptet": "Optické káble",         "slug": "opticke-kable",    "url": "https://www.dipol.sk/ponuka-optika-opticke-kable,7109.htm" }
+  ],
+
+  "_limit_produktov_komentar": "Pre rychly test odkomentuj limit (napr. 15). Pre ostru verziu nechaj vypnute (scrapuje vsetky produkty kategorie).",
+  "limit_produktov": null,
+
+  "cena": {
+    "marza_koeficient": 1.0,
+    "zaokruhlit_na_desatiny": 2,
+    "sadzba_dph": 23,
+    "ceny_su_s_dph": 1,
+    "mena": "EUR"
+  },
+
+  "nacitat_detail_produktu": true,
+
+  "siet": {
+    "user_agent": "Mozilla/5.0 (compatible; ShoptetFeedBot/1.0; +https://example.sk)",
+    "pauza_sekundy": 0.7,
+    "timeout_sekundy": 30,
+    "max_pokusov": 3
+  }
+}
