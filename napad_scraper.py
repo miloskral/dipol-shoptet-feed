@@ -159,6 +159,33 @@ def style_tables(soup_fragment: BeautifulSoup):
         cell["style"] = "border:1px solid #ccc;padding:6px;"
 
 
+def flatten_layout(frag: BeautifulSoup):
+    """Sploští napad Bootstrap layout (row/col/btn/collapse/video...) na čisté,
+    plynulé HTML, ktoré sa korektne zobrazí aj bez napad CSS — bez prekrývania
+    textu cez obrázky. Obsah ostáva, mizne len rozbíjajúca štruktúra."""
+    # 1) odstráň interaktívne / nepotrebné prvky
+    for sel in ("script", "style", "noscript", "iframe", "form",
+                "button", "video", "audio", "source", "svg"):
+        for el in frag.select(sel):
+            el.decompose()
+    # 2) rozbaľ odkazy (ponechaj text/obrázok, zahoď href na napad.pl)
+    for a in frag.find_all("a"):
+        a.unwrap()
+    # 3) zbav sa všetkých layout/triedových atribútov na každom tagu
+    for tag in frag.find_all(True):
+        for attr in list(tag.attrs):
+            if (attr in ("class", "id", "style", "align", "width", "height",
+                         "valign", "bgcolor", "role", "target", "rel")
+                    or attr.startswith("data-") or attr.startswith("aria-")
+                    or attr.startswith("on")):
+                del tag[attr]
+    # 4) obrázky: responzívne, blokové, centrované (žiadne float/prekrytie)
+    for im in frag.find_all("img"):
+        im["style"] = "max-width:100%;height:auto;display:block;margin:12px auto;"
+    # 5) tabuľky v popise dostanú orámovanie
+    style_tables(frag)
+
+
 def parse_detail(html: str) -> dict:
     """Vrati surovy (polsky) HTML popis a HTML tabulku specifikacie + obrazky."""
     soup = BeautifulSoup(html, "html.parser")
@@ -166,17 +193,17 @@ def parse_detail(html: str) -> dict:
 
     desc = soup.select_one("#nav-description")
     if desc:
-        for bad in desc.select("script, style, noscript, iframe, form"):
-            bad.decompose()
+        # vyrieš URL obrázkov: lazy obrázky majú skutočnú URL v data-src
+        # (src býva len placeholder), preto data-src má prednosť
         for im in desc.select("img"):
-            s = im.get("src") or im.get("data-src") or ""
+            s = im.get("data-src") or im.get("src") or ""
             if s.startswith("//"):
                 s = "https:" + s
             elif s.startswith("/"):
                 s = BASE + s
             im["src"] = s
-            if im.has_attr("data-src"):
-                del im["data-src"]
+        # sploští napad Bootstrap layout -> čisté plynulé HTML bez prekrývania
+        flatten_layout(desc)
         out["descHtmlPL"] = desc.decode_contents()
 
     spec = soup.select_one("#nav-specification")
