@@ -152,11 +152,38 @@ def parse_category(html: str) -> list[dict]:
 
 
 def style_tables(soup_fragment: BeautifulSoup):
+    """Sprehľadní tabuľky: výrazná mriežka, sivé záhlavie, zarovnanie kratších
+    riadkov na plnú šírku (iba ak tabuľka NEMÁ rowspan, aby sa nerozbila
+    štruktúra zlúčených buniek), zabalenie širokých tabuliek do posuvného rámca."""
+    def _row_width(tr):
+        return sum(int(c.get("colspan", 1) or 1)
+                   for c in tr.find_all(["td", "th"], recursive=False))
+
     for tb in soup_fragment.select("table"):
-        tb["style"] = "border-collapse:collapse;border:1px solid #ccc;width:100%;margin:8px 0;"
         tb["border"] = "1"
-    for cell in soup_fragment.select("td, th"):
-        cell["style"] = "border:1px solid #ccc;padding:6px;"
+        tb["cellspacing"] = "0"
+        tb["style"] = ("border-collapse:collapse;border:1px solid #888;"
+                       "width:100%;margin:10px 0;font-size:14px;")
+        # zarovnaj kratšie riadky na plnú šírku – len keď tabuľka nemá rowspan
+        if not any(c.has_attr("rowspan") for c in tb.find_all(["td", "th"])):
+            rows = tb.find_all("tr")
+            max_cols = max((_row_width(tr) for tr in rows), default=0)
+            for tr in rows:
+                cells = tr.find_all(["td", "th"], recursive=False)
+                w = _row_width(tr)
+                if cells and 0 < w < max_cols:
+                    last = cells[-1]
+                    last["colspan"] = str(int(last.get("colspan", 1) or 1) + (max_cols - w))
+        for cell in tb.find_all(["td", "th"]):
+            cell["style"] = "border:1px solid #888;padding:6px 8px;vertical-align:top;"
+        for th in tb.find_all("th"):
+            th["style"] = ("border:1px solid #888;padding:6px 8px;background:#f0f0f0;"
+                           "font-weight:bold;text-align:left;")
+    # zabaľ každú tabuľku do posuvného rámca (pre veľmi široké tabuľky)
+    for tb in list(soup_fragment.select("table")):
+        wrap = BeautifulSoup('<div style="overflow-x:auto;margin:10px 0;"></div>',
+                             "html.parser").div
+        tb.wrap(wrap)
 
 
 def flatten_layout(frag: BeautifulSoup):
