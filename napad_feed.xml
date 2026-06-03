@@ -24,7 +24,7 @@
 <div>
 <h2>Vlastnosti kamery IPOX</h2>
 <hr/>
-<p><strong>PX-DI2028IR2DLPW</strong> je ekonomická kamera typu <strong>turret s plastovým telom značky IPOX,</strong> ktorá pracuje s technológiou <strong>dvojitého osvetlenia</strong>, <strong>tzv. Dual Light</strong>. V praxi využitie dvoch typov diód v kamere – <strong>IR s infračerveným svetlom</strong> a <strong>LED s bielym svetlom s teplou farbou</strong> – umožňuje v noci získať tradičný čiernobiely alebo farebný obraz. Zariadenie pri snímaní obrazu využíva <strong>snímač CMOS</strong>, ktorý umožňuje snímanie <strong>záznamov v rozlíšení 1920×1080 (Full HD)</strong>. <strong>Objektív s pevným ohniskom</strong> použitý v zariadení umožňuje rýchlu adaptáciu kamery bez potreby dodatočného zásahu zo strany používateľa. Kamera je vybavená základnými <strong>funkciami umelej inteligencie,</strong> ktoré umožňujú <strong>identifikovať osobu</strong> po prekročení čiary alebo narušení zóny.</p>
+<p><strong>PX-DI2028IR2DLPW</strong> je ekonomická kamera typu <strong>turret s plastovým telom značky IPOX,</strong> pracujúca v technológii <strong>dvojitého osvetlenia</strong>, <strong>tzv. Dual Light</strong>. V praxi využitie dvoch typov diód v kamere – <strong>IR s infračerveným svetlom</strong> a <strong>LED s bielym svetlom s teplou farbou</strong> – umožňuje v noci získať tradičný čiernobiely alebo farebný obraz. Zariadenie pri snímaní obrazu využíva <strong>snímač CMOS</strong>, ktorý umožňuje snímanie <strong>záznamov v rozlíšení 1920×1080 (Full HD)</strong>. <strong>Objektív s pevným ohniskom</strong> použitý v zariadení umožňuje rýchlu adaptáciu kamery bez potreby dodatočného zásahu zo strany používateľa. Kamera je vybavená základnými <strong>funkciami umelej inteligencie,</strong> ktoré umožňujú <strong>identifikovať človeka</strong> po prekročení línie alebo narušení zóny.</p>
 <p>Inteligentné riadenie kamery ponúka <strong>rad funkcií automatického korekcie obrazu</strong> a bohatý katalóg systémov na podporu monitorovania. Pokročilé funkcie kamery umožňujú správne prispôsobenie spôsobu prevádzky bezpečnostnej inštalácie v závislosti od individuálnych potrieb používateľa a bezpečnostných priorít. Použitie <strong>kompresného</strong> systému <strong>H.265</strong> zabezpečuje primeranú kvalitu záznamu pri znížených nárokoch na diskovú kapacitu. Okrem toho <strong>vysoká trieda krytia puzdra (IP67)</strong> zaručuje, že kamera je odolná voči vplyvom rôznych poveternostných javov. Vďaka <strong>technológii PoE a špecializovanému príslušenstvu</strong> prebieha inštalácia a následné nastavenie kamery rýchlo a bez komplikácií. Kamera má tiež <strong>vstavaný mikrofón</strong>, pomocou ktorého je možné súčasne nahrávať obraz aj zvuk.</p>
 
 </div>
@@ -209,7 +209,7 @@
 <div>
 <h2>Funkčné menu</h2>
 <hr/>
-<p>Správa, programovanie nastavení a obsluha <strong>IP kamery IPOX</strong> prebieha v prehľadnom a zrozumiteľnom programe na správu zariadenia, ktorý je dostupný z webového prehliadača. Pomocou intuitívneho menu programu je možné nielen testovať kamery a aktuálne sledovať zaznamenávaný obraz, ale aj nastavovať pokročilé parametre a funkcie zariadenia.</p>
+<p>Správa, programovanie nastavení a obsluha <strong>IP kamery IPOX</strong> prebieha v prehľadnom a zrozumiteľnom programe na správu zariadenia, ktorý je dostupný z webového prehliadača. Pomocou intuitívneho menu programu je možné nielen testovať kamery a sledovať aktuálny náhľad zaznamenávaného obrazu, ale aj nastavovať pokročilé parametre a funkcie zariadenia.</p>
 </div>
 <div>
 <div>
@@ -241,7 +241,7 @@
 <h2>Svetelný alarm – účinná ochrana pred narušiteľom</h2>
 <hr/>
 <p><strong>Svetelný alarm</strong> je funkcia, ktorá účinne odrádza potenciálnych narušiteľov od vstupu do areálu alebo budovy. Funkcia je <strong>integrovaná s perimetrickou ochranou</strong> a po narušení detekčnej zóny alebo prekročení vyznačenej línie človekom automaticky spustí <strong>jasný alarm v podobe bieleho svetla</strong>.</p>
-<span><i></i>Pozrite sa, ako to nastaviť</span>
+<span><i></i>Pozrite si, ako to nastaviť</span>
 </div>
 </div>
 <!-- Prawa kolumna -->
@@ -261,7 +261,7 @@
 <div>
 <h2>Smart Dual Light – rozhodnite sa, akým spôsobom chcete osvetľovať v noci</h2>
 <hr/>
-<p>Predstavovaná kamera IPOX Light Explorer je vybavená technológiou <strong>Smart Dual Light</strong>, vďaka ktorej je možné prepínať medzi rôznymi režimami osvetlenia v kamere. Využitie <strong>duálneho osvetľovača IR + LED s technológiou SMART</strong> umožňuje zapnúť biele svetlo len v prípade <strong>detekcie osoby v zóne určenej používateľom (až 4 zóny)</strong>. V prípade, že osoba opustí monitorovanú oblasť, osvetľovač bieleho svetla LED sa automaticky prepne na IR osvetlenie.</p>
+<p>Predstavovaná kamera IPOX Light Explorer je vybavená technológiou <strong>Smart Dual Light</strong>, vďaka ktorej je možné prepínať medzi rôznymi režimami osvetlenia v kamere. Využitie <strong>duálneho osvetľovača IR + LED s technológiou SMART</strong> umožňuje zapnúť biele svetlo len v prípade <strong>detekcie osoby v zóne určenej používateľom (až 4 zóny)</strong>. V prípade, že osoba opustí monitorovanú oblasť, osvetľovač LED bieleho svetla sa automaticky prepne na IR osvetlenie.</p>
 <span><i></i>Pozrite si, ako nakonfigurovať</span>
 </div>
 </div>
@@ -319,7 +319,7 @@
 <h2>Funkcie použité v kamere IPOX</h2>
 </div>
 <div>
-<p>Zistite, aké <strong>technológie</strong> ponúka kamera <strong>IPOX</strong> <strong>PX-DI2028IR2DLPW</strong>. Získajte viac informácií kliknutím na názvy jednotlivých funkcií.</p>
+<p>Zistite, aké <strong>technológie</strong> ponúka kamera <strong>IPOX</strong> <strong>PX-DI2028IR2DLPW</strong>. Viac informácií získate kliknutím na názvy jednotlivých funkcií.</p>
 </div>
 </div>
 <div>
@@ -599,7 +599,7 @@
 <div>
 <h3>Systém detekcie pohybu</h3>
 <hr/>
-<p>Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad činností, ktoré bezpečným spôsobom upozornia správcu na potenciálne ohrozenie a zaznamená akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón chránených detekciou pohybu a môže tiež zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.</p>
+<p>Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad činností, ktoré bezpečným spôsobom upozornia správcu na potenciálne ohrozenie a zaznamenajú akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón chránených detekciou pohybu a môže tiež zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.</p>
 </div>
 <div>
 <img alt="System detekcji ruchu" loading="lazy" src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox-md.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
@@ -913,7 +913,7 @@ Kompresia H.265
 <div>
 <h3>Záložný obraz systému</h3>
 <hr/>
-<p><strong>Záložný obraz systému</strong> je mechanizmus, ktorý zabezpečuje bezpečnosť a stabilitu prevádzky zariadenia <strong>počas aktualizácie softvéru</strong> (firmware). Táto funkcia chráni kameru pred poškodením systému v prípade chýb, prerušenia aktualizácie alebo v prípade, ak v systéme dochádza k častým výpadkom napájania. Keď používateľ spustí aktualizáciu, nový firmware sa nahraje do pamäte kamery, čo znamená, že primárny obraz (Primary Image) sa prepíše novou verziou, pričom v pamäti existuje záložný obraz (Backup Image), ktorý zostáva nedotknutý. Ak je aktualizácia prerušená (napr. z dôvodu výpadku napájania alebo problému s aktualizačným súborom), kamera automaticky prejde na záložný obraz a použije ho na obnovenie funkčnosti. Po tejto operácii <strong>bude</strong> kamera <strong>10 minút v režime pozorovania</strong> a po uplynutí tejto doby sa oba obrazy synchronizujú. Výhody záložného systému spočívajú predovšetkým v <strong>nepretržitosti prevádzky monitorovacieho systému</strong>, bezpečnosti, napr. absencii rizika „zaseknutia“ kamery, a zjednodušení procesu aktualizácie softvéru.</p>
+<p><strong>Záložný obraz systému</strong> je mechanizmus, ktorý zabezpečuje bezpečnosť a stabilitu prevádzky zariadenia <strong>počas aktualizácie softvéru</strong> (firmware). Táto funkcia chráni kameru pred poškodením systému v prípade chýb, prerušenia aktualizácie alebo v prípade, ak v systéme dochádza k častým výpadkom napájania. Keď používateľ spustí aktualizáciu, nový firmware sa nahraje do pamäte kamery, čo znamená, že hlavný obraz (Primary Image) sa prepíše novou verziou, pričom v pamäti existuje záložný obraz (Backup Image), ktorý zostáva nedotknutý. Ak je aktualizácia prerušená (napr. z dôvodu výpadku napájania alebo problému s aktualizačným súborom), kamera automaticky prejde na záložný obraz a použije ho na obnovenie funkčnosti. Po tejto operácii <strong>bude</strong> kamera <strong>10 minút v režime pozorovania</strong> a po uplynutí tejto doby sa oba obrazy synchronizujú. Výhody záložného systému spočívajú predovšetkým v <strong>nepretržitom fungovaní monitorovacieho systému</strong>, bezpečnosti, napr. absencii rizika „zaseknutia“ kamery, a zjednodušení procesu aktualizácie softvéru.</p>
 </div>
 <div>
 <p><img alt="Kamera z technologią zapasowego obrazu systemu." src="https://www.napad.pl/data/produkty/IPOX/technologie/zapasowy_obraz_systemu/zapasowy_obraz_systemu_2.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -925,7 +925,7 @@ Kompresia H.265
 <div>
 <h3>Moderný prenos dát s protokolom RTMP</h3>
 <hr/>
-<p>Kamera ponúka širokú škálu riešení súvisiacich s možnosťami prenosu údajov z monitorovania prostredníctvom rôznych spôsobov prenosu. Jednou z najzaujímavejších metód dostupných pre používateľa je možnosť streamovania obrazu v reálnom čase s využitím moderného <strong>protokolu RTMP</strong>. Služba <strong>Real Time Messaging Protocol </strong>umožňuje nielen rýchly prenos dát priamo na externý server, ale je aj jednoduchá na obsluhu a ponúka široké možnosti konfigurácie, ktoré sú dostupné priamo z menu. Monitorovací systém založený na kamerách vybavených podporou protokolu RTMP, ktorý bude navyše pripojený k externému serveru, sa osvedčí najmä v profesionálnom monitorovaní umožňujúcom prenos rôznych typov udalostí širokému okruhu príjemcov.</p>
+<p>Kamera ponúka širokú škálu riešení súvisiacich s možnosťami prenosu údajov z monitorovania prostredníctvom rôznych prenosových ciest. Jednou z najzaujímavejších metód dostupných pre používateľa je možnosť streamovania obrazu v reálnom čase s využitím moderného <strong>protokolu RTMP</strong>. Služba <strong>Real Time Messaging Protocol </strong>umožňuje nielen rýchly prenos dát priamo na externý server, ale je aj jednoduchá na obsluhu a ponúka široké možnosti konfigurácie, ktoré sú dostupné priamo z menu. Monitorovací systém založený na kamerách vybavených podporou protokolu RTMP, ktorý bude navyše pripojený k externému serveru, sa osvedčí najmä v profesionálnom monitorovaní umožňujúcom prenos rôznych typov udalostí širokému okruhu príjemcov.</p>
 </div>
 </div>
 </div>
@@ -951,7 +951,7 @@ Kompresia H.265
 <img alt="Kamera IPC z obiektywem 2.8 mm." src="https://www.napad.pl/data/produkty/IPOX/PX-DIC4028DLPW/Kamera_IP_dome_PX-DIC4028DLPW_4MP_2_8mm_zoom1_v2_785.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
 <h2>Objektív s pevným ohniskom</h2>
 <hr/>
-<p>Duálna kamera <strong>IPOX PX-DI2028IR2DLPW</strong> je <strong>vybavená objektívom s pevným ohniskom 2,8 mm s clonou F2,0</strong> a uhlami záberu: 94° (vodorovne); 52° (zvisle); 107° (diagonálne).</p>
+<p>Duálna kamera <strong>IPOX PX-DI2028IR2DLPW</strong> je <strong>vybavená objektívom s pevným ohniskom 2,8 mm s clonou F2,0</strong> a uhlami záberu: 94° (horizontálne); 52° (vertikálne); 107° (diagonálne).</p>
 </div>
 <div>
 <img src="https://www.napad.pl/data/produkty/IPOX/PX-DI2028IR2DLPW/px-di2028ir2dlpw%20-%20kamera%20ip%202mpx_przod_z_przew_785.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
@@ -978,7 +978,7 @@ IP PRO Manager
 <div>
 <h3>Program NVMS</h3>
 <hr/>
-<p><strong>NVMS (Network Video Monitoring System)</strong> je klientský program, ktorý umožňuje bezproblémovú spoluprácu so zariadeniami značky <strong>IPOX </strong>a podporuje správu produktov <strong>iných výrobcov</strong> prostredníctvom protokolu <strong>ONVIF</strong>, napr. <strong>Dahua a Hikvision</strong>. Prehľadné používateľské rozhranie v <strong>poľskom jazyku</strong> zabezpečuje bezproblémovú kontrolu nad špecializovanými zariadeniami a zaručuje plný komfort obsluhy kamerových bezpečnostných systémov.</p>
+<p><strong>NVMS (Network Video Monitoring System)</strong> je klientský program, ktorý umožňuje bezproblémovú spoluprácu so zariadeniami značky <strong>IPOX </strong>a podporuje správu produktov <strong>iných výrobcov</strong> prostredníctvom protokolu <strong>ONVIF</strong>, napr. <strong>Dahua a Hikvision</strong>. Prehľadné používateľské rozhranie v <strong>poľskom jazyku</strong> zabezpečuje bezproblémovú kontrolu nad špecializovanými zariadeniami a zaručuje plný komfort pri obsluhe kamerových bezpečnostných systémov.</p>
 <p>
 <span><i></i>Zobraziť viac informácií</span>
 </p>
@@ -1017,7 +1017,7 @@ IP PRO Manager
 <div>
 <h3>Aplikácia IPOX PRO</h3>
 <hr/>
-<p><strong>IPOX PRO</strong> je profesionálna aplikácia vytvorená s cieľom zabezpečiť pohodlný a bezpečný prístup k zariadeniam <strong>značky IPOX</strong> z mobilných zariadení. Umožňuje vzdialené sledovanie obrazu z kamier na smartfónoch a tabletoch s operačným systémom Android a iOS, čím zabezpečuje rýchly prístup k monitorovaniu z akéhokoľvek miesta. Vďaka PUSH notifikáciám zasielaným v reakcii na udalosti umožňuje aplikácia okamžitú reakciu, čo zvyšuje úroveň bezpečnosti používateľov systému. Štandardne sa na prenos používa dodatočný stream, ktorý optimalizuje prenos obrazu a zabezpečuje plynulú prevádzku na zariadeniach so slabšou kvalitou internetového pripojenia, ale podporuje aj možnosť zobrazenia hlavného streamu, čo umožňuje získať obraz v plnej kvalite.</p>
+<p><strong>IPOX PRO</strong> je profesionálna aplikácia vytvorená s cieľom zabezpečiť pohodlný a bezpečný prístup k zariadeniam <strong>značky IPOX</strong> z mobilných zariadení. Umožňuje vzdialené sledovanie obrazu z kamier na smartfónoch a tabletoch s operačným systémom Android a iOS, čím zabezpečuje rýchly prístup k monitorovaniu z akéhokoľvek miesta. Vďaka PUSH notifikáciám zasielaným v reakcii na udalosti aplikácia umožňuje okamžitú reakciu, čo zvyšuje úroveň bezpečnosti používateľov systému. Štandardne sa na prenos používa dodatočný stream, ktorý optimalizuje prenos obrazu a zabezpečuje plynulú prevádzku na zariadeniach so slabšou kvalitou internetového pripojenia, ale podporuje aj možnosť zobrazenia hlavného streamu, čo umožňuje získať obraz v plnej kvalite.</p>
 <p>
 <span><i></i>Zobraziť viac informácií</span>
 </p>
@@ -1131,7 +1131,7 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #ccc;padding:6px;">Uhol záberu</th>
-<td style="border:1px solid #ccc;padding:6px;">Vodorovne: 94°; zvislé: 52°; uhlopriečka: 107°</td>
+<td style="border:1px solid #ccc;padding:6px;">Vodorovne: 94°; zvisle: 52°; uhlopriečka: 107°</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #ccc;padding:6px;">Závierka</th>
@@ -1225,13 +1225,13 @@ IP PRO Manager
 <th style="border:1px solid #ccc;padding:6px;">Rýchlosť a rozlíšenie spracovania<br/> 
                 (hlavný prúd)</th>
 <td style="border:1px solid #ccc;padding:6px;"><p>50 Hz: 1 ~ 25 snímok/s pri 1080p / 720p</p>
-                60 Hz: 1 ~ 30 snímok/s @ 1080p / 720p</td>
+                60 Hz: 1 ~ 30 snímok/s pri 1080p / 720p</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #ccc;padding:6px;">Rýchlosť a rozlíšenie spracovania<br/> 
                 (vedľajší prúd)</th>
 <td style="border:1px solid #ccc;padding:6px;"><p>50 Hz: 1 ~ 25 snímok/s @ D1 / VGA / 640×360 / 480×240 / CIF</p>
-                60 Hz: 1 ~ 30 snímok/s pri D1 / VGA / 640×360 / 480×240 / CIF
+                60 Hz: 1 ~ 30 snímok/s @ D1 / VGA / 640×360 / 480×240 / CIF
             </td>
 </tr>
 <tr class="tbody">
@@ -1248,7 +1248,7 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #ccc;padding:6px;">Nastavenie</th>
-<td style="border:1px solid #ccc;padding:6px;">Sýtosť, jas, kontrast, farba, ostrosť, odstránenie šumu</td>
+<td style="border:1px solid #ccc;padding:6px;">Sýtosť, jas, kontrast, farba, ostrosť, odšumovanie</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #ccc;padding:6px;">Filter blikania</th>
@@ -1337,7 +1337,7 @@ Dźwięk: mono</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #ccc;padding:6px;">Upozornenia</th>
-<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu, prekročenie čiary, detekcia narušenia (narušenie zóny)</td>
+<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu, prekročenie čiary, detekcia narušenia (porušenie zóny)</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #ccc;padding:6px;">Reakcia na udalosti</th>
@@ -1477,7 +1477,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>83.98</PRICE>
+    <PRICE>83.95</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/11713_kamera_ip_dome_px_di2028ir2dlpw_2mp_2_8mm_ipox_glowne_l_.jpg</IMAGE>
@@ -1546,8 +1546,8 @@ po prekročení čiary
                 Inteligentné riadenie kamery ponúka <strong>rad funkcií automatického korekcie obrazu</strong> a bohatý katalóg systémov na podporu monitorovania. Pokročilé funkcie kamery umožňujú správne prispôsobenie spôsobu prevádzky bezpečnostnej inštalácie v závislosti od individuálnych potrieb používateľa a
                 priorít v oblasti bezpečnosti. Použitie <strong>kompresného</strong> systému <strong>H.265</strong> zabezpečuje primeranú
                 kvalitu záznamu pri znížených nárokoch na kapacitu disku. Navyše
-                <strong>vysoká trieda krytia puzdra (IP67)</strong> zaručuje, že kamera nie je citlivá na
-                vplyv rôznych atmosférických javov. Vďaka
+                <strong>vysoká trieda krytia puzdra (IP67)</strong> zaručuje, že kamera je odolná voči
+                vplyvom rôznych poveternostných javov. Vďaka
                 <strong>technológii PoE a špecializovanému príslušenstvu</strong> je inštalácia a následné nastavenie kamery
                 rýchle a jednoduché. Kamera disponuje aj <strong>vstavaným mikrofónom</strong>,
                 ktorý umožňuje súčasné nahrávanie obrazu a zvuku.
@@ -1703,7 +1703,7 @@ po prekročení čiary
 <hr/>
 <p>
             Správa, programovanie nastavení a obsluha <strong>IP kamery IPOX</strong> prebieha v prehľadnom a
-            intuitívnom programe na správu zariadenia, ktorý je dostupný z webového prehliadača.
+            intuitívnom programe na správu zariadenia, ktorý je dostupný prostredníctvom webového prehliadača.
             Pomocou intuitívneho menu programu je možné nielen testovať kamery a aktuálne sledovať zaznamenávaný obraz, ale je možné aj nastavovať pokročilé parametre a funkcie zariadenia.
         </p>
 </div>
@@ -1740,7 +1740,7 @@ po prekročení čiary
 <hr/>
 <p>
 <strong>Svetelný alarm</strong>
-je funkcia, ktorá účinne odrádza potenciálnych narušiteľov od vstupu do areálu alebo budovy. Funkcia je <strong>integrovaná s perimeterovou ochranou</strong>
+je funkcia, ktorá účinne odrádza potenciálnych narušiteľov od vstupu do areálu alebo budovy. Funkcia je <strong>integrovaná s perimetrickou ochranou</strong>
 a po narušení detekčnej zóny alebo prekročení vyznačenej línie človekom automaticky spustí <strong>jasný alarm v podobe bieleho svetla</strong>
 .
             </p>
@@ -1775,7 +1775,7 @@ a po narušení detekčnej zóny alebo prekročení vyznačenej línie človekom
                 osvetlenia v kamere. Použitie
                 <strong>dvojitého osvetľovača IR + LED s technológiou SMART</strong> umožňuje zapnutie bieleho svetla
                 len v prípade
-                <strong>zistenia osoby v zóne určenej používateľom (až 4 zóny)</strong>. V prípade, že osoba opustí monitorovanú oblasť, osvetlenie LED bieleho svetla sa automaticky prepne na osvetlenie IR.
+                <strong>zistenia osoby v zóne určenej používateľom (až 4 zóny)</strong>. V prípade, že osoba opustí sledovanú oblasť, osvetlenie LED bieleho svetla sa automaticky prepne na osvetlenie IR.
             </p>
 <span><i></i>Pozrite sa, ako nakonfigurovať</span>
 </div>
@@ -1992,7 +1992,7 @@ umožňuje získať prehľadný a detailný obraz vďaka
 <p>
                             Funkcia <strong>RoI (Region of Interest)</strong> umožňuje zlepšiť kvalitu vybraných
                             častí obrazu a obmedziť kvalitu ostatných častí. Toto riešenie
-                            má pozitívny vplyv na využitie výpočtovej sily signálneho procesora, pomáha
+                            má pozitívny vplyv na využitie výpočtovej kapacity signálneho procesora, pomáha
                             znížiť úroveň využitia sieťovej šírky pásma a zefektívňuje sledovanie len tých naj
                             kritických bodov.
                         </p>
@@ -2038,7 +2038,7 @@ umožňuje získať prehľadný a detailný obraz vďaka
 <strong>Funkcia HLC</strong>
 aktívne analyzuje zaznamenávaný obraz a hľadá
                             pohyblivé objekty, ktoré sú silnými zdrojmi osvetlenia. V prípade detekcie takýchto
-                            bodov systém automaticky aplikuje špeciálnu maskovacie vrstvu, ktorá umožňuje kamere
+                            bodov systém automaticky aplikuje špeciálnu maskovaciu vrstvu, ktorá umožňuje kamere
                             zreteľne zaznamenanie oblasti so zreteľom na detaily, ktoré by za normálnych okolností boli zakryté vyžarujúcim svetlom.
                         </p>
 </div>
@@ -2082,11 +2082,11 @@ aktívne analyzuje zaznamenávaný obraz a hľadá
 <p>
 <strong>Inteligentný protimlžný systém</strong>
 je funkcia, ktorej úlohou je
-                            korekcia obrazu v situácii výskytu nepriaznivých atmosférických javov, ako sú
-                            hmlina, dážď alebo smog. Kamera s funkciou <strong>Defog</strong>
+korekcia obrazu v prípade nepriaznivých atmosférických javov, ako sú
+hmlina, dážď alebo smog. Kamera s funkciou <strong>Defog</strong>
 automaticky riadi
-                            parametre obrazu, čo umožňuje zachovať efektívnosť práce v rámci dynamicky
-                            sa meniacich podmienok vonkajšieho prostredia.
+parametre obrazu, čím umožňuje zachovať efektívnosť prevádzky v rámci dynamicky
+sa meniacich podmienok vonkajšieho prostredia.
                         </p>
 </div>
 <div>
@@ -2172,8 +2172,7 @@ automaticky riadi
 <hr/>
 <p>
                             Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad
-                            zaznamenajú akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón chránených detekciou pohybu,
-                            a tiež môže zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.
+                            zaznamenajú akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón chránených detekciou pohybu, a tiež môže zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitej dobe.
                         </p>
 </div>
 <div>
@@ -2195,7 +2194,7 @@ automaticky riadi
 
             Zistite, aké <strong>technológie</strong>
 ponúka kamera <strong>IPOX PX-DI4028IR2DLPW</strong>
-. Získajte viac informácií kliknutím na názvy jednotlivých funkcií.
+. Viac informácií získate kliknutím na názvy jednotlivých funkcií.
         </p>
 </div>
 <div>
@@ -2340,9 +2339,8 @@ umožňuje získať prehľadný a detailný obraz vďaka
 <strong>Funkcia HLC</strong>
 aktívne analyzuje zaznamenávaný obraz a hľadá
                             pohyblivé objekty, ktoré sú silnými zdrojmi osvetlenia. Ak sa takéto
-                            miesta zistia, systém automaticky aplikuje špeciálnu maskovacie vrstvu, ktorá umožňuje kamere
-                            zreteľne zaznamenanie oblasti so zreteľom na detaily, ktoré by za normálnych okolností
-                            boli zakryté vyžarujúcim svetlom.
+                            miesta zistia, systém automaticky aplikuje špeciálnu maskovaciu vrstvu, ktorá umožňuje kamere
+                            zreteľne zaznamenanie oblasti so zreteľom na detaily, ktoré by za normálnych okolností boli zakryté vyžarujúcim svetlom.
                         </p>
 </div>
 <div>
@@ -2379,7 +2377,7 @@ je funkcia, ktorej úlohou je
 korekcia obrazu v situácii, keď sa vyskytujú nepriaznivé atmosférické javy, ako sú
 hmlina, dážď alebo smog. Kamera s funkciou <strong>Defog</strong>
 automaticky riadi
-parametre obrazu, čím umožňuje zachovať efektívnosť práce v rámci dynamicky
+parametre obrazu, čo umožňuje zachovať efektívnosť práce v rámci dynamicky
 sa meniacich podmienok vonkajšieho prostredia.
                         </p>
 </div>
@@ -2503,8 +2501,6 @@ Kompresia H.265
 <p>
 <strong>Power over Ethernet</strong>
 je riešenie vyvinuté s ohľadom na vykonávanie
-                        rýchlej a nekomplikovanej inštalácie sieťových zariadení, pohodlné ovládanie zariadení a
-                        jednoduchú modernizáciu inštalácie. Vďaka podpore
                         <strong>PoE v štandarde 802.3af</strong>
 sa stane reálnym pripojenie IP kamery s využitím
                         bežného <strong>počítačového krúteného kábla UTP</strong>
@@ -2546,7 +2542,7 @@ sa stane reálnym pripojenie IP kamery s využitím
 <li>šifrovanie celej komunikácie medzi zariadeniami.</li>
 </ul>
 <p>
-                        Predstavovaná <strong>IP kamera s protokolom HTTPS</strong> umožňuje automatické vytvorenie certifikátu, nahratie už existujúceho certifikátu alebo generovanie žiadosti o vydanie certifikátu od externého subjektu. Vzhľadom na vyššie uvedené vlastnosti sa <strong>IP kamera s šifrovaným pripojením</strong> odporúča na použitie v miestach, ktoré vyžadujú silné zabezpečenie, ako sú:
+                        Predstavovaná <strong>IP kamera s protokolom HTTPS</strong> umožňuje automatické vytvorenie certifikátu, nahratie už existujúceho certifikátu alebo vygenerovanie žiadosti o vydanie certifikátu od externého subjektu. Vzhľadom na vyššie uvedené vlastnosti sa <strong>IP kamera so šifrovaným pripojením</strong> odporúča na použitie v miestach, ktoré vyžadujú silné zabezpečenie, ako sú:
                         <strong>banky, vyšetrovacie väznice, väznice alebo verejné budovy</strong>.
                     </p>
 </div>
@@ -2598,7 +2594,7 @@ a po uplynutí tejto doby sa oba obrazy synchronizujú.
                         priamo na externý server, ale je jednoduchá na obsluhu a ponúka široké možnosti
                         konfigurácie, ktoré sú dostupné priamo z menu. Monitorovací systém založený na kamerách, ktoré
                         podporujú protokol RTMP a ktoré budú navyše pripojené k externému serveru,
-                        sa osvedčí najmä v profesionálnom monitorovaní, ktoré umožňuje prenos rôznych typov
+                        sa osvedčí najmä v profesionálnom monitorovaní, ktoré umožňuje prenos rôznych druhov
                         udalostí širokému okruhu príjemcov.
                     </p>
 </div>
@@ -2681,7 +2677,7 @@ IP PRO Manager
 <div>
 <h3>Program NVMS</h3>
 <hr/>
-<p><strong>NVMS (Network Video Monitoring System)</strong> je klientský program, ktorý umožňuje bezproblémovú spoluprácu so zariadeniami značky <strong>IPOX </strong>a podporuje správu produktov <strong>iných výrobcov</strong> prostredníctvom protokolu <strong>ONVIF</strong>, napr. <strong>Dahua a Hikvision</strong>. Prehľadné používateľské rozhranie v <strong>poľskom jazyku</strong> zabezpečuje bezproblémovú kontrolu nad špecializovanými zariadeniami a zaručuje plný komfort obsluhy kamerových bezpečnostných systémov.</p>
+<p><strong>NVMS (Network Video Monitoring System)</strong> je klientský program, ktorý umožňuje bezproblémovú spoluprácu so zariadeniami značky <strong>IPOX </strong>a podporuje správu produktov <strong>iných výrobcov</strong> prostredníctvom protokolu <strong>ONVIF</strong>, napr. <strong>Dahua a Hikvision</strong>. Prehľadné používateľské rozhranie v <strong>poľskom jazyku</strong> zabezpečuje bezproblémovú kontrolu nad špecializovanými zariadeniami a zaručuje plný komfort pri obsluhe kamerových bezpečnostných systémov.</p>
 <p>
 <span><i></i>Zobraziť viac informácií</span>
 </p>
@@ -2720,7 +2716,7 @@ IP PRO Manager
 <div>
 <h3>Aplikácia IPOX PRO</h3>
 <hr/>
-<p><strong>IPOX PRO</strong> je profesionálna aplikácia vytvorená s cieľom zabezpečiť pohodlný a bezpečný prístup k zariadeniam <strong>značky IPOX</strong> z mobilných zariadení. Umožňuje vzdialené sledovanie obrazu z kamier na smartfónoch a tabletoch s operačným systémom Android a iOS, čím zabezpečuje rýchly prístup k monitorovaniu z akéhokoľvek miesta. Vďaka PUSH notifikáciám zasielaným v reakcii na udalosti umožňuje aplikácia okamžitú reakciu, čo zvyšuje úroveň bezpečnosti používateľov systému. Štandardne sa na prenos používa dodatočný stream, ktorý optimalizuje prenos obrazu a zabezpečuje plynulú prevádzku na zariadeniach so slabšou kvalitou internetového pripojenia, ale podporuje aj možnosť zobrazenia hlavného streamu, čo umožňuje získať obraz v plnej kvalite.</p>
+<p><strong>IPOX PRO</strong> je profesionálna aplikácia vytvorená s cieľom zabezpečiť pohodlný a bezpečný prístup k zariadeniam <strong>značky IPOX</strong> z mobilných zariadení. Umožňuje vzdialené sledovanie obrazu z kamier na smartfónoch a tabletoch s operačným systémom Android a iOS, čím zabezpečuje rýchly prístup k monitorovaniu z akéhokoľvek miesta. Vďaka PUSH notifikáciám zasielaným v reakcii na udalosti aplikácia umožňuje okamžitú reakciu, čo zvyšuje úroveň bezpečnosti používateľov systému. Štandardne sa na prenos používa dodatočný stream, ktorý optimalizuje prenos obrazu a zabezpečuje plynulú prevádzku na zariadeniach so slabšou kvalitou internetového pripojenia, ale podporuje aj možnosť zobrazenia hlavného streamu, čo umožňuje získať obraz v plnej kvalite.</p>
 <p>
 <span><i></i>Zobraziť viac informácií</span>
 </p>
@@ -2821,7 +2817,7 @@ IP PRO Manager
 <th style="border:1px solid #ccc;padding:6px;">Citlivosť</th>
 <td style="border:1px solid #ccc;padding:6px;">
 <p>0,014 lux @ F2,0 (AGC zapnuté)</p>
-                0 lux pri zapnutých IR LED
+                0 lux @ IR LED zapnuté
             </td>
 </tr>
 <tr class="tbody">
@@ -2906,7 +2902,7 @@ IP PRO Manager
 <p>1. LED (viditeľné, biele svetlo) – cez deň zostáva osvetľovač vypnutý; zapína sa automaticky po zotmení; tento režim zabezpečuje farebný obraz v noci</p>
 <p>2. IR (neviditeľné, infračervené svetlo) – po zotmení kamera osvetľuje obraz infračerveným svetlom; farebný obraz cez deň, čiernobiely v noci</p>
 <p>3. Smart IR + LED (predvolený) – režim kombinujúci oba typy osvetlenia; po zotmení kamera osvetľuje obraz infračerveným svetlom a až po detekcii osoby na obraze zapne biele svetlo a prepne do farebného režimu</p><br/>
-                *Ak chcete zmeniť režim osvetlenia, v nastaveniach prejdite do záložky Nastavenia -&gt; Stream -&gt; Zobrazenie -&gt; Typ osvetlenia a tam vyberte príslušnú možnosť</td>
+                *Ak chcete zmeniť režim osvetlenia, prejdite v nastaveniach na kartu Nastavenia -&gt; Stream -&gt; Zobrazenie -&gt; Typ osvetlenia a tam vyberte príslušnú možnosť</td>
 </tr>
 <tr class="thead">
 <th colspan="2" scope="col" style="border:1px solid #ccc;padding:6px;">Obraz</th>
@@ -2917,7 +2913,7 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #ccc;padding:6px;">Kompresia videa</th>
-<td style="border:1px solid #ccc;padding:6px;"><p>Hlavný stream: H.265+ / H.265 / H.264+ / H.264</p>
+<td style="border:1px solid #ccc;padding:6px;"><p>Hlavný prúd: H.265+ / H.265 / H.264+ / H.264</p>
                 Pomocný prúd: H.265+ / H.265 / H.264+ / H.264 / MJPEG</td>
 </tr>
 <tr class="tbody">
@@ -3194,7 +3190,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>122.62</PRICE>
+    <PRICE>122.58</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_kamera_ip_dome_px_dic4028dlpw_4mp_2_8mm_glowne_v3_l_.jpg</IMAGE>
@@ -3227,7 +3223,7 @@ Dźwięk: mono</td>
 <div>
 <div>
 <h2>Najdôležitejšie vlastnosti kamery</h2>
-<p><strong>DS-2CD1341G2-LIU</strong> je <strong>IP kamera značky Hikvision typu turret s pevným objektívom</strong> a <strong>dvoma osvetľovačmi</strong> pracujúcimi <strong>v technológii bieleho alebo infračerveného svetla</strong>. Zariadenie pochádza zo série kamier <strong>Hikvision Smart Hybrid Light</strong> a je vybavené technológiami <strong>detekcie pohybu 2.0</strong>. Kamera môže pracovať v troch rôznych nočných režimoch, pričom ponúka <strong>čiernobiely</strong> obraz pri použití IR diód, <strong>farebný</strong> obraz pri použití LED diód viditeľného svetla alebo v <strong>režime SMART</strong>, ktorý automaticky <strong>prepne z režimu IR na LED po detekcii človeka</strong>.</p>
+<p><strong>DS-2CD1341G2-LIU</strong> je <strong>IP kamera značky Hikvision typu turret s pevným objektívom</strong> a <strong>dvoma osvetľovačmi</strong> pracujúcimi <strong>v technológii bieleho alebo infračerveného svetla</strong>. Zariadenie pochádza zo série kamier <strong>Hikvision Smart Hybrid Light</strong> a je vybavené technológiami <strong>detekcie pohybu 2.0</strong>. Kamera môže pracovať v troch rôznych nočných režimoch, pričom ponúka <strong>čiernobiely</strong> obraz pri použití IR diód, <strong>farebný</strong> obraz pri použití LED diód viditeľného svetla alebo v <strong>režime SMART</strong>, ktorý automaticky <strong>prepne režim IR na LED po detekcii človeka</strong>.</p>
 <p>Kamera <strong>Hikvision Hybrid Light</strong> umožňuje zaznamenávať obraz s rozlíšením <strong>2560×1440 (4 Mpx),</strong> čím zabezpečuje vysokú kvalitu a veľkú detailnosť obrazu. Použitý snímač 1/3&quot; a objektív s clonou F1.6 zabezpečujú veľmi dobrú citlivosť, vďaka čomu zostáva obraz čitateľný aj za zlých svetelných podmienok. Kamera je vybavená <strong>mikrofónom</strong> a vďaka <strong>technológii PoE</strong> sa dokonale integruje s ostatnými systémami. Tesné puzdro (<strong>IP67</strong>) zaisťuje odolnosť voči poveternostným vplyvom, čo umožňuje prevádzku vonku.</p>
 
 </div>
@@ -3492,7 +3488,7 @@ Kompresia H.265+
 <hr/>
 </div>
 <div>
-<p> <strong>H.265+ je systém kódovania videozáznamov</strong>, ktorý je rozšírením technológie použitej v <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. Systém H.265+ je najnovšou verziou kodekov používaných v monitoringu, ktorá je založená na inteligentnom algoritme vyvinutom spoločnosťou Hikvision. Kódovanie signálu v systéme H.265 je výnimočná technológia, ktorá umožňuje optimalizovať základné funkcie kamery a umožňuje lepšie využitie priepustnosti siete, výrazne obmedzuje rušenie a zaručuje dlhú dobu archivácie záznamov bez zníženia kvality obrazu. Terénne testy preukázali, že <strong>kompresia H.265+ znižuje požadovanú rýchlosť prenosu obrazu vo vysokom rozlíšení približne o 67 %</strong> v porovnaní s H.265, čím sa znižuje požadovaná šírka pásma a kapacita úložiska / pevného disku HDD. Zníženie počtu bitov znamená zníženie nákladov pre spotrebiteľov, ako aj zvýšenie efektívnosti, stability a spoľahlivosti celého zariadenia v danom systéme dohľadu. <strong>Použitie kodeku H.265+</strong> prináša najvýraznejší výkon pri obrazoch, kde pozadie zostáva nemenné a zriedka sa mení; v prípade objektov pohybujúcich sa v statickej scéne a pri nepretržitom dohľade.</p>
+<p> <strong>H.265+ je systém kódovania videozáznamov</strong>, ktorý je rozšírením technológie použitej v <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. Systém H.265+ je najnovšou verziou kodekov používaných v monitoringu, ktorá je založená na inteligentnom algoritme vyvinutom spoločnosťou Hikvision. Kódovanie signálu v systéme H.265 je výnimočná technológia, ktorá umožňuje optimalizovať základné funkcie kamery a lepšie využívať šírku pásma siete, výrazne obmedzuje rušenie a zaručuje dlhú dobu archivácie záznamov bez zníženia kvality obrazu. Terénne testy preukázali, že <strong>kompresia H.265+ znižuje požadovanú rýchlosť prenosu obrazu vo vysokom rozlíšení približne o 67 %</strong> v porovnaní s H.265, čím sa znižuje požadovaná šírka pásma a kapacita úložiska / pevného disku. Zníženie počtu bitov znamená zníženie nákladov pre spotrebiteľov, ako aj zvýšenie efektívnosti, stability a spoľahlivosti celého zariadenia v danom systéme dohľadu. <strong>Použitie kodeku H.265+</strong> prináša najvýraznejší výkon pri záberoch, kde pozadie zostáva nemenné a mení sa len zriedka; v prípade objektov pohybujúcich sa v statickej scéne a pri nepretržitom dohľade.</p>
 <p><em>Upozornenie: formát kompresie H.265 je <strong>natívne</strong> podporovaný len <strong>v rámci jedného</strong> výrobcu.</em></p>
 </div>
 <div>
@@ -3557,7 +3553,7 @@ VSPlayer
 <div>
 <h3>Efektívne riadenie ochrany s Hik-Partner Pro</h3>
 <hr/>
-<p><strong>Hik-Partner Pro</strong> (predtým Hik-ProConnect) je konvergentné riešenie založené na cloude určené pre <strong>inštalatérov a integrátorov systémov Hikvision</strong>. Program pomáha spravovať služby, ktoré sa ponúkajú zákazníkom, a rozvíjať činnosť v rámci predplatného modelu. S jeho pomocou môže inštalatér monitorovať stav systémov nainštalovaných u zákazníkov a dokonca aj diaľkovo riešiť problémy pomocou jednoduchého a spoľahlivého riešenia.</p>
+<p><strong>Hik-Partner Pro</strong> (predtým Hik-ProConnect) je konvergentné riešenie založené na cloude určené pre <strong>inštalatérov a integrátorov systémov Hikvision</strong>. Program pomáha spravovať služby, ktoré sa ponúkajú zákazníkom, a rozvíjať činnosť v rámci predplatného modelu. S jeho pomocou môže inštalatér monitorovať stav systémov nainštalovaných u zákazníkov a dokonca aj vzdialene riešiť problémy pomocou jednoduchej a spoľahlivej platformy.</p>
 <p>Najnovšia verzia aplikácie je k dispozícii na platforme <strong>Hikvision App Store</strong>.</p>
 <p>Stránka softvéru: <strong>www.hik-partner.com</strong></p>
 <p>
@@ -3583,7 +3579,7 @@ VSPlayer
 <div>
 <h3>Klientský softvér iVMS-4200</h3>
 <hr/>
-<p><strong>Softvér série iVMS-4200</strong> je určený na konfiguráciu a správu zariadení Hikvision jednotným a intuitívnym spôsobom, vrátane vybraných prepínačov, DVR rekordérov, NVR, IP kamier, poplachových a prístupových zariadení a zariadení pre ukladanie dát, pričom poskytuje funkcie ako správa topológie siete, živý náhľad, prehrávanie, konfigurácia parametrov zariadení a ďalšie. <strong>Program je bezplatný</strong> a má užívateľsky prívetivé rozhranie <strong>v poľskom jazyku</strong>.</p>
+<p><strong>Softvér série iVMS-4200</strong> je určený na konfiguráciu a správu zariadení Hikvision jednotným a intuitívnym spôsobom, vrátane vybraných prepínačov, DVR, NVR, IP kamier, poplachových a prístupových zariadení a zariadení pre ukladanie dát, pričom poskytuje funkcie ako správa topológie siete, živý náhľad, prehrávanie, konfigurácia parametrov zariadení a ďalšie. <strong>Program je bezplatný</strong> a má užívateľsky prívetivé rozhranie <strong>v poľskom jazyku</strong>.</p>
 <p>Program iVMS-4200 odporúčame stiahnuť z <strong>oficiálnej stránky spoločnosti Hikvision</strong>.</p>
 <span><i></i>Viac informácií</span>
 </div>
@@ -3610,8 +3606,8 @@ VSPlayer
 <div>
 <h3>Jedna platforma, mnoho použití</h3>
 <hr/>
-<p><strong>HikCentral Professional</strong> je softvér na integráciu bezpečnostných systémov. Je navrhnutý tak, aby zvládol rôznorodé výzvy súvisiace s bezpečnosťou na jednej intuitívnej platforme – od správy jednotlivých systémov, ako je video monitorovanie, kontrola prístupu, poplachový systém a ďalšie, až po prepojenie viacerých systémov v rámci jednotnej architektúry. Chráni ľudí a majetok, zefektívňuje každodenné operácie a pomáha používateľom prijímať správnejšie rozhodnutia.</p>
-<p>Softvér ponúka modulárne platformy pre bežné obchodné aplikácie, ako sú video, kontrola prístupu, evidencie pracovného času a ďalšie. Tieto aplikácie okrem svojich základných funkcií umožňujú flexibilné prepojenie, aby vyhoveli potrebám rôznorodých, nestandardných scenárov. Navyše, všetky aplikačné moduly majú rovnaké rozhranie pre platformy tejto série, čo výrazne zjednodušuje proces osvojovania si ovládania rôznych systémov.</p>
+<p><strong>HikCentral Professional</strong> je softvér na integráciu bezpečnostných systémov. Je navrhnutý tak, aby na jednej intuitívnej platforme zvládal rôznorodé výzvy súvisiace s bezpečnosťou – od správy jednotlivých systémov, ako je video monitorovanie, kontrola prístupu, poplachový systém a ďalšie, až po prepojenie viacerých systémov v rámci jednotnej architektúry. Chráni ľudí a majetok, zefektívňuje každodenné operácie a pomáha používateľom prijímať správnejšie rozhodnutia.</p>
+<p>Softvér ponúka modulárne platformy pre bežné obchodné aplikácie, ako sú video, kontrola prístupu, evidencie pracovného času a ďalšie. Tieto aplikácie okrem svojich základných funkcií umožňujú flexibilné prepojenie, aby vyhoveli potrebám rôznorodých, neštandardných scenárov. Navyše, všetky aplikačné moduly majú rovnaké rozhranie pre platformy tejto série, čo výrazne zjednodušuje proces osvojovania si ovládania rôznych systémov.</p>
 <p><em>HikCentral Professional je platený program a jeho cena závisí od zložitosti projektu</em>.</p>
 <span><i></i>Viac informácií</span>
 </div>
@@ -3993,7 +3989,7 @@ DORI
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>135.99</PRICE>
+    <PRICE>135.94</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14744_kamera_ip_turret_dual_ds_2cd1343g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -4026,8 +4022,8 @@ DORI
 <div>
 <div>
 <h2>Vlastnosti kamery IPOX</h2>
-<p><strong>PX-DI4028IR2DL</strong> je ekonomická kamera typu <strong>turret značky IPOX</strong> pracujúca v technológii <strong>dvojitého osvetlenia</strong>, <strong>tzv. Dual Light</strong>. V praxi využitie dvoch typov diód v kamere – <strong>IR s infračerveným svetlom</strong> a <strong>LED s bielym svetlom s teplou farbou</strong> – umožňuje v noci získať tradičný čiernobiely alebo farebný obraz. Zariadenie pri snímaní obrazu využíva <strong>snímač CMOS</strong>, ktorý umožňuje snímanie <strong>záznamov v rozlíšení 2560×1440 (4 Mpx)</strong>. <strong>Objektív s pevným ohniskom</strong> použitý v zariadení umožňuje rýchlu adaptáciu kamery bez potreby dodatočného zásahu zo strany používateľa. Kamera je vybavená základnými <strong>funkciami umelej inteligencie,</strong> ktoré umožňujú <strong>identifikovať človeka</strong> po prekročení čiary alebo narušení zóny.</p>
-<p>Inteligentné riadenie kamery ponúka <strong>rad funkcií automatického korekcie obrazu</strong> a bohatý katalóg systémov na podporu monitorovania. Pokročilé funkcie kamery umožňujú správne prispôsobenie spôsobu prevádzky bezpečnostnej inštalácie v závislosti od individuálnych potrieb používateľa a bezpečnostných priorít. Využitie <strong>kompresného</strong> systému <strong>H.265</strong> zabezpečuje primeranú kvalitu záznamu pri znížených požiadavkách na kapacitu úložiska. Navyše <strong>vysoká trieda krytia (IP67)</strong> a <strong>odolnosť materiálu (IK10)</strong> zaručujú, že kamera je odolná voči rôznym poveternostným vplyvom a chránená pred vandalizmom. Vďaka <strong>technológii PoE a špecializovanému príslušenstvu</strong> je inštalácia a následné nastavenie kamery rýchle a jednoduché. Kamera má tiež <strong>vstavaný mikrofón</strong>, pomocou ktorého je možné súčasne zaznamenávať obraz aj zvuk.</p>
+<p><strong>PX-DI4028IR2DL</strong> je ekonomická kamera typu <strong>turret značky IPOX</strong> pracujúca v technológii <strong>dvojitého osvetlenia</strong>, <strong>tzv. Dual Light</strong>. V praxi využitie dvoch typov diód v kamere – <strong>IR s infračerveným svetlom</strong> a <strong>LED s bielym svetlom s teplou farbou</strong> – umožňuje v noci získať tradičný čiernobiely alebo farebný obraz. Zariadenie pri snímaní obrazu využíva <strong>snímač CMOS</strong>, ktorý umožňuje snímanie <strong>záznamov v rozlíšení 2560×1440 (4 Mpx)</strong>. <strong>Objektív s pevným ohniskom</strong> použitý v zariadení umožňuje rýchlu adaptáciu kamery bez potreby dodatočného zásahu zo strany používateľa. Kamera je vybavená základnými <strong>funkciami umelej inteligencie,</strong> ktoré umožňujú <strong>identifikovať človeka</strong> po prekročení línie alebo narušení zóny.</p>
+<p>Inteligentné riadenie kamery ponúka <strong>rad funkcií automatického korekcie obrazu</strong> a bohatý katalóg systémov na podporu monitorovania. Pokročilé funkcie kamery umožňujú správne prispôsobenie spôsobu prevádzky bezpečnostnej inštalácie v závislosti od individuálnych potrieb používateľa a bezpečnostných priorít. Využitie <strong>kompresného</strong> systému <strong>H.265</strong> zabezpečuje primeranú kvalitu záznamu pri znížených nárokoch na diskovú kapacitu. Navyše <strong>vysoká trieda tesnosti krytu (IP67)</strong> a <strong>odolnosť materiálu (IK10)</strong> zaručujú, že kamera je odolná voči pôsobeniu rôznych poveternostných javov a chránená pred vandalizmom. Vďaka <strong>technológii PoE a špecializovanému príslušenstvu</strong> je inštalácia a následné nastavenie kamery rýchle a jednoduché. Kamera má tiež <strong>vstavaný mikrofón</strong>, pomocou ktorého je možné súčasne zaznamenávať obraz aj zvuk.</p>
 
 </div>
 </div>
@@ -4096,7 +4092,7 @@ DORI
 </div>
 <div>
 <h2>Funkčné menu</h2>
-<p>Správa, programovanie nastavení a obsluha <strong>IP kamery IPOX</strong> prebieha v prehľadnom a zrozumiteľnom programe na správu zariadenia, ktorý je dostupný z webového prehliadača. Pomocou intuitívneho menu programu je možné nielen testovať kamery a aktuálne sledovať zaznamenávaný obraz, ale aj nastavovať pokročilé parametre a funkcie zariadenia.</p>
+<p>Správa, programovanie nastavení a obsluha <strong>IP kamery IPOX</strong> prebieha v prehľadnom a zrozumiteľnom programe na správu zariadenia, ktorý je dostupný prostredníctvom webového prehliadača. Pomocou intuitívneho menu programu je možné nielen testovať kamery a sledovať aktuálny náhľad zaznamenávaného obrazu, ale aj nastavovať pokročilé parametre a funkcie zariadenia.</p>
 </div>
 </div>
 <div>
@@ -4124,7 +4120,7 @@ DORI
 <div>
 <div>
 <h2>Funkcie AI v kamerách IPOX</h2>
-<p>Na rozdiel od štandardných inteligentných funkcií (VCA) riešenia AI umožňujú prepojenie dvoch alebo viacerých funkcií s cieľom dosiahnuť lepšiu identifikáciu. Algoritmus hlbokého učenia je zameraný na efektívne <strong>rozpoznávanie ľudí</strong>. Zabezpečuje to menší počet falošných poplachov, väčšiu flexibilitu a pozitívne ovplyvňuje presnosť monitorovania, čo priamo prispieva <strong>k zvýšeniu úrovne bezpečnosti</strong> v sledovanej oblasti.</p>
+<p>Na rozdiel od štandardných inteligentných funkcií (VCA) riešenia AI umožňujú prepojenie dvoch alebo viacerých funkcií s cieľom dosiahnuť lepšiu identifikáciu. Algoritmus hlbokého učenia je zameraný na efektívne <strong>rozpoznávanie ľudí</strong>. Zabezpečuje to menší počet falošných poplachov, väčšiu flexibilitu a pozitívne vplýva na presnosť monitorovania, čo priamo prispieva <strong>k zvýšeniu úrovne bezpečnosti</strong> v sledovanej oblasti.</p>
 <h3>Perimetrická ochrana</h3>
 <hr/>
 <p>Kamera je vybavená funkciami <strong>prekročenia línie a detekcie narušenia</strong>. Technológia AI umožňuje <strong>identifikovať objekt na zázname ako osobu</strong> a až po overení spustiť alarm. Zároveň systém ignoruje poplachové situácie, za ktoré sú zodpovedné napr. prechádzajúce vozidlá, lístie pohybujúce sa vo vetre, prebiehajúce zvieratá, dážď alebo zapnuté osvetlenie.</p>
@@ -4156,7 +4152,7 @@ Detekcia pohybu
 <div>
 <div>
 <h3>Široký dynamický rozsah – DWDR</h3>
-<hr/><p><strong>Funkcia DWDR</strong> umožňuje získať prehľadný a detailný obraz vďaka šikovnému vyrovnávaniu príliš jasných aj zatienených častí záznamu. Vďaka systému Digital WDR je možné zachovať čitateľnosť celého monitorovania v miestach s rôznou úrovňou osvetlenia sledovanej scény.</p>
+<hr/><p><strong>Funkcia DWDR</strong> umožňuje získať prehľadný a detailný obraz vďaka šikovnému vyrovnávaniu príliš jasných aj tmavých častí záznamu. Vďaka systému Digital WDR je možné zachovať čitateľnosť celého monitorovania v miestach s rôznou úrovňou osvetlenia sledovanej scény.</p>
 </div>
 <div>
 <p><img alt="Cyfrowy zakres dynamiki obrazu - DWDR." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_dwdr_new.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -4222,7 +4218,7 @@ Detekcia pohybu
 <div>
 <div>
 <h3>Systém detekcie pohybu</h3>
-<hr/><p> Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad činností, ktoré bezpečným spôsobom upozornia správcu na potenciálne ohrozenie a zaznamenajú akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón chránených detekciou pohybu a môže tiež zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.</p>
+<hr/><p> Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad činností, ktoré bezpečným spôsobom upozornia správcu na potenciálne ohrozenie a zaznamená akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón chránených detekciou pohybu a môže tiež zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.</p>
 </div>
 <div>
 <p><img alt="Detekcja ruchu." src="https://www.napad.pl/data/produkty/detekcja_ruchu_ipox_lite.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -4268,7 +4264,7 @@ Kompresia H.265
 <li>integritu prenášaných údajov a nemožnosť akejkoľvek manipulácie s nimi zo strany tretích osôb;</li>
 <li>šifrovanie celej komunikácie medzi zariadeniami.</li>
 </ul>
-<p>Predstavovaná <strong>IP kamera s protokolom HTTPS</strong> umožňuje automatické vytvorenie certifikátu, nahratie už existujúceho certifikátu alebo generovanie žiadosti o vydanie certifikátu od externého subjektu. Vzhľadom na vyššie uvedené vlastnosti sa <strong>IP kamera s šifrovaným pripojením</strong> odporúča na použitie v miestach vyžadujúcich silné zabezpečenie, ako sú: <strong>banky, vyšetrovacie väzby, väznice alebo verejné budovy</strong>.</p>
+<p>Predstavovaná <strong>IP kamera s protokolom HTTPS</strong> umožňuje automatické vytvorenie certifikátu, nahratie už existujúceho certifikátu alebo vygenerovanie žiadosti o vydanie certifikátu od externého subjektu. Vzhľadom na vyššie uvedené vlastnosti sa <strong>IP kamera s šifrovaným pripojením</strong> odporúča na použitie v miestach vyžadujúcich silné zabezpečenie, ako sú: <strong>banky, vyšetrovacie väzby, väznice alebo verejné budovy</strong>.</p>
 </div>
 <div>
 <p><img alt="Kamera z technologią HTTPS." src="https://www.napad.pl/data/produkty/IPOX/technologie/https_ipox_600.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -4280,7 +4276,7 @@ Kompresia H.265
 <div>
 <h3>Moderný prenos dát pomocou protokolu RTMP</h3>
 <hr/>
-<p>Kamera ponúka širokú škálu riešení súvisiacich s možnosťami prenosu údajov z monitorovania prostredníctvom rôznych prenosových ciest. Jednou z najzaujímavejších metód dostupných pre používateľa je možnosť streamovania obrazu v reálnom čase s využitím moderného <strong>protokolu RTMP</strong>. Služba <strong>Real Time Messaging Protocol </strong>umožňuje nielen rýchly prenos dát priamo na externý server, ale je aj jednoduchá na obsluhu a ponúka široké možnosti konfigurácie, ktoré sú dostupné priamo z menu. Monitorovací systém založený na kamerách vybavených podporou protokolu RTMP, ktorý bude navyše pripojený k externému serveru, sa osvedčí najmä v profesionálnom monitorovaní umožňujúcom prenos rôznych typov udalostí širokému okruhu príjemcov.</p>
+<p>Kamera ponúka širokú škálu riešení súvisiacich s možnosťami prenosu údajov z monitorovania prostredníctvom rôznych spôsobov prenosu. Jednou z najzaujímavejších metód dostupných pre používateľa je možnosť streamovania obrazu v reálnom čase s využitím moderného <strong>protokolu RTMP</strong>. Služba <strong>Real Time Messaging Protocol </strong>umožňuje nielen rýchly prenos dát priamo na externý server, ale je aj jednoduchá na obsluhu a ponúka široké možnosti konfigurácie, ktoré sú dostupné priamo z menu. Monitorovací systém založený na kamerách vybavených podporou protokolu RTMP, ktorý bude navyše pripojený k externému serveru, sa osvedčí najmä v profesionálnom monitorovaní umožňujúcom prenos rôznych typov udalostí širokému okruhu príjemcov.</p>
 </div>
 </div>
 </div>
@@ -4335,7 +4331,7 @@ IP PRO Manager
 <div>
 <h3>Program NVMS</h3>
 <hr/>
-<p><strong>NVMS (Network Video Monitoring System)</strong> je klientský program, ktorý umožňuje bezproblémovú spoluprácu so zariadeniami značky <strong>IPOX </strong>a podporuje správu produktov <strong>iných výrobcov</strong> prostredníctvom protokolu <strong>ONVIF</strong>, napr. <strong>Dahua a Hikvision</strong>. Prehľadné používateľské rozhranie v <strong>poľskom jazyku</strong> zabezpečuje bezproblémovú kontrolu nad špecializovanými zariadeniami a zaručuje plný komfort obsluhy vizuálnych bezpečnostných systémov.</p>
+<p><strong>NVMS (Network Video Monitoring System)</strong> je klientský program, ktorý umožňuje bezproblémovú spoluprácu so zariadeniami značky <strong>IPOX </strong>a podporuje správu produktov <strong>iných výrobcov</strong> prostredníctvom protokolu <strong>ONVIF</strong>, napr. <strong>Dahua a Hikvision</strong>. Prehľadné používateľské rozhranie v <strong>poľskom jazyku</strong> zabezpečuje bezproblémovú kontrolu nad špecializovanými zariadeniami a zaručuje plný komfort pri obsluhe kamerových bezpečnostných systémov.</p>
 <p>
 <span><i></i>Zobraziť viac informácií</span>
 </p>
@@ -4543,7 +4539,7 @@ IP PRO Manager
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Inteligentný osvetľovač</th>
-<td style="border:1px solid #ccc;padding:6px;">Áno, prepínanie z IR osvetľovača na LED pri detekcii osoby</td>
+<td style="border:1px solid #ccc;padding:6px;">Áno, prepnutie z IR osvetľovača na LED pri detekcii osoby</td>
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Smart IR</th>
@@ -4588,14 +4584,14 @@ IP PRO Manager
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Rýchlosť a rozlíšenie spracovania<br/> 
                     (hlavný prúd)</th>
-<td style="border:1px solid #ccc;padding:6px;"><p>50 Hz: 1 ~ 25 snímok/s @ 4 Mpx / 3 Mpx / 1080p / 720p</p>
+<td style="border:1px solid #ccc;padding:6px;"><p>50 Hz: 1 ~ 25 snímok/s pri 4 Mpx / 3 Mpx / 1080p / 720p</p>
                     60 Hz: 1 ~ 30 snímok/s @ 4 Mpx / 3 Mpx / 1080p / 720p
                 </td>
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Rýchlosť a rozlíšenie spracovania<br/> 
                     (vedľajší prúd)</th>
-<td style="border:1px solid #ccc;padding:6px;"><p>50 Hz: 1 ~ 25 snímok/s pri D1 / VGA / 480×240 / CIF</p>
+<td style="border:1px solid #ccc;padding:6px;"><p>50 Hz: 1 ~ 25 snímok/s @ D1 / VGA / 480×240 / CIF</p>
                     60 Hz: 1 ~ 30 snímok/s @ D1 / VGA / 480×240 / CIF
                 </td>
 </tr>
@@ -4717,7 +4713,7 @@ IP PRO Manager
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Upozornenia</th>
-<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu, prekročenie čiary, detekcia narušenia (narušenie zóny)</td>
+<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu, prekročenie čiary, detekcia narušenia (porušenie zóny)</td>
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Reakcia na udalosti</th>
@@ -4775,7 +4771,7 @@ IP PRO Manager
 <tbody>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Základné</th>
-<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu, výnimky (odpojenie od siete, konflikt IP adries)</td>
+<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu, výnimky (odpojenie siete, konflikt IP adries)</td>
 </tr>
 </tbody>
 <thead>
@@ -4863,7 +4859,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>136.28</PRICE>
+    <PRICE>136.23</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13654_kamera_ip_dome_px_di4028ir2dlw_4mp_glowne_v2_l_.jpg</IMAGE>
@@ -4902,7 +4898,7 @@ IP PRO Manager
 <div>
 <div>
 <h2>Najdôležitejšie vlastnosti kamery</h2>
-<p><strong>DS-2CD1141G2-LIU</strong> je <strong>IP kamera značky Hikvision typu dome s pevným objektívom</strong> a <strong>dvoma osvetľovačmi</strong> pracujúcimi <strong>v technológii bieleho alebo infračerveného svetla</strong>. Zariadenie pochádza zo série kamier <strong>Hikvision Smart Hybrid Light</strong> a je vybavené technológiami <strong>detekcie pohybu 2.0</strong>. Kamera môže pracovať v troch rôznych nočných režimoch, pričom ponúka <strong>čiernobiely</strong> obraz pri použití IR diódy, <strong>farebný</strong> obraz pri použití LED diódy viditeľného svetla alebo v <strong>režime SMART</strong>, ktorý automaticky <strong>prepne režim IR na LED po detekcii osoby</strong>.</p>
+<p><strong>DS-2CD1141G2-LIU</strong> je <strong>IP kamera značky Hikvision typu dome s pevným objektívom</strong> a <strong>dvoma osvetľovačmi</strong> pracujúcimi <strong>v technológii bieleho alebo infračerveného svetla</strong>. Zariadenie pochádza zo série kamier <strong>Hikvision Smart Hybrid Light</strong> a je vybavené technológiami <strong>detekcie pohybu 2.0</strong>. Kamera môže pracovať v troch rôznych nočných režimoch, pričom ponúka <strong>čiernobiely</strong> obraz pri použití IR diód, <strong>farebný</strong> obraz pri použití LED diód viditeľného svetla alebo v <strong>režime SMART</strong>, ktorý automaticky <strong>prepne režim IR na LED po detekcii osoby</strong>.</p>
 <p>Kamera <strong>Hikvision Hybrid Light</strong> umožňuje zaznamenávať obraz s rozlíšením <strong>2560×1440 (4 Mpx),</strong> čím zabezpečuje vysokú kvalitu a veľkú detailnosť obrazu. Použitý <strong>snímač 1/2,8&quot;</strong> a <strong>objektív s clonou F1,6</strong> zabezpečujú veľmi dobrú citlivosť, vďaka čomu zostáva obraz čitateľný aj za zlých svetelných podmienok. Kamera je vybavená <strong>mikrofónom</strong> a vďaka <strong>technológii PoE</strong> sa dokonale integruje s ostatnými systémami.</p>
 
 </div>
@@ -4965,7 +4961,7 @@ IP PRO Manager
 </div>
 <div>
 <h2>Smart Hybrid Light – vyberte si vlastný spôsob osvetlenia scény</h2>
-<p>Inteligentný hybridný osvetľovač je jeden z režimov osvetlenia použitých v kamere. Umožňuje <strong>zapnúť biele svetlo</strong> len v prípade <strong>detekcie osoby v detekčnej zóne</strong>. Ak osoba opustí monitorovanú oblasť, LED osvetľovač sa <strong>po uplynutí 1 minúty</strong> prepne na IR osvetlenie. Okrem uvedeného režimu má používateľ na výber ešte režim <strong>LED</strong> (len biele svetlo, ktoré umožňuje farebný obraz v noci); <strong>režim IR</strong> (len infračervené svetlo) alebo úplné vypnutie osvetľovača.</p>
+<p>Inteligentný hybridný osvetľovač je jeden z režimov osvetlenia použitých v kamere. Umožňuje <strong>zapnutie bieleho svetla</strong> len v prípade <strong>detekcie osoby v detekčnej zóne</strong>. Ak osoba opustí monitorovanú oblasť, LED osvetľovač sa <strong>po uplynutí 1 minúty</strong> prepne na IR osvetlenie. Okrem uvedeného režimu má používateľ na výber ešte režim <strong>LED</strong> (len biele svetlo, ktoré umožňuje farebný obraz v noci); <strong>režim IR</strong> (len infračervené svetlo) alebo úplné vypnutie osvetľovača.</p>
 </div>
 </div>
 <div>
@@ -5030,7 +5026,7 @@ vďaka vstavanému LED osvetleniu, ktoré zabezpečuje dostatočné osvetlenie s
 <h2>Detekcia pohybu 2.0</h2>
 <p>
 <strong>Detekcia pohybu 2.0</strong>
-umožňuje spúšťať alarm len v prípade detekcie pohybu na základe klasifikácie človeka.
+umožňuje spustenie alarmu len v prípade detekcie pohybu na základe klasifikácie človeka.
                             </p>
 </div>
 <div>
@@ -5101,7 +5097,7 @@ Masky súkromia
 </div>
 </div> <!-- 3D DNR -->
 <div>
-<h3>RoI – oblasť záujmu</h3>
+<h3>RoI – Region of Interest</h3>
 <hr/>
 <p>Ide o inteligentný kodek, ktorý umožňuje zlepšiť kvalitu vybraných častí obrazu a obmedziť kvalitu ostatných častí. To má pozitívny vplyv na využitie výpočtového výkonu signálneho procesora, znižuje požiadavky na sieťovú šírku pásma a zefektívňuje identifikáciu len tých najkritickejších bodov.</p>
 <div>
@@ -5178,7 +5174,7 @@ Kompresia H.265+
 <hr/>
 </div>
 <div>
-<p> <strong>H.265+ je systém kódovania videozáznamov</strong>, ktorý je rozšírením technológie použitej v <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. Systém H.265+ je najnovšou verziou kodekov používaných v monitoringu, ktorá je založená na inteligentnom algoritme vyvinutom spoločnosťou Hikvision. Kódovanie signálu v systéme H.265 je výnimočná technológia, ktorá umožňuje optimalizovať základné funkcie kamery a umožňuje lepšie využitie priepustnosti siete, výrazne obmedzuje rušenie a zaručuje dlhú dobu archivácie záznamov bez zníženia kvality obrazu. Terénne testy preukázali, že <strong>kompresia H.265+ znižuje požadovanú rýchlosť prenosu obrazu vo vysokom rozlíšení približne o 67 %</strong> v porovnaní s H.265, čím sa znižuje požadovaná šírka pásma a kapacita úložiska / pevného disku HDD. Zníženie počtu bitov znamená zníženie nákladov pre spotrebiteľov, ako aj zvýšenie efektívnosti, stability a spoľahlivosti celého zariadenia v danom systéme dohľadu. <strong>Použitie kodeku H.265+</strong> prináša najvýraznejší výkon pri obrazoch, kde pozadie zostáva nemenné a zriedka sa mení; v prípade objektov pohybujúcich sa v statickej scéne a pri nepretržitom dohľade.</p>
+<p> <strong>H.265+ je systém kódovania videozáznamov</strong>, ktorý je rozšírením technológie použitej v <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. Systém H.265+ je najnovšou verziou kodekov používaných v monitoringu, ktorá je založená na inteligentnom algoritme vyvinutom spoločnosťou Hikvision. Kódovanie signálu v systéme H.265 je výnimočná technológia, ktorá umožňuje optimalizovať základné funkcie kamery a lepšie využívať šírku pásma siete, výrazne obmedzuje rušenie a zaručuje dlhú dobu archivácie záznamov bez zníženia kvality obrazu. Terénne testy preukázali, že <strong>kompresia H.265+ znižuje požadovanú rýchlosť prenosu obrazu vo vysokom rozlíšení približne o 67 %</strong> v porovnaní s H.265, čím sa znižuje požadovaná šírka pásma a kapacita úložiska / pevného disku. Zníženie počtu bitov znamená zníženie nákladov pre spotrebiteľov, ako aj zvýšenie efektívnosti, stability a spoľahlivosti celého zariadenia v danom systéme dohľadu. <strong>Použitie kodeku H.265+</strong> prináša najvýraznejší výkon pri obrazoch, kde pozadie zostáva nemenné a zriedka sa mení; v prípade objektov pohybujúcich sa v statickej scéne a pri nepretržitom dohľade.</p>
 <p><em>Upozornenie: formát kompresie H.265 je <strong>natívne</strong> podporovaný len <strong>v rámci jedného</strong> výrobcu.</em></p>
 </div>
 <div>
@@ -5243,7 +5239,7 @@ VSPlayer
 <div>
 <h3>Efektívne riadenie ochrany s Hik-Partner Pro</h3>
 <hr/>
-<p><strong>Hik-Partner Pro</strong> (predtým Hik-ProConnect) je konvergentné riešenie založené na cloude určené pre <strong>inštalatérov a integrátorov systémov Hikvision</strong>. Program pomáha spravovať služby, ktoré sa ponúkajú zákazníkom, a rozvíjať činnosť v rámci predplatného modelu. S jeho pomocou môže inštalatér monitorovať stav systémov nainštalovaných u zákazníkov a dokonca aj diaľkovo riešiť problémy pomocou jednoduchého a spoľahlivého riešenia.</p>
+<p><strong>Hik-Partner Pro</strong> (predtým Hik-ProConnect) je konvergentné riešenie založené na cloude určené pre <strong>inštalatérov a integrátorov systémov Hikvision</strong>. Program pomáha spravovať služby, ktoré sa ponúkajú zákazníkom, a rozvíjať činnosť v rámci predplatného modelu. S jeho pomocou môže inštalatér monitorovať stav systémov nainštalovaných u zákazníkov a dokonca aj vzdialene riešiť problémy pomocou jednoduchého a spoľahlivého riešenia.</p>
 <p>Najnovšia verzia aplikácie je k dispozícii na platforme <strong>Hikvision App Store</strong>.</p>
 <p>Stránka softvéru: <strong>www.hik-partner.com</strong></p>
 <p>
@@ -5269,7 +5265,7 @@ VSPlayer
 <div>
 <h3>Klientský softvér iVMS-4200</h3>
 <hr/>
-<p><strong>Softvér série iVMS-4200</strong> je určený na konfiguráciu a správu zariadení Hikvision jednotným a intuitívnym spôsobom, vrátane vybraných prepínačov, DVR rekordérov, NVR, IP kamier, poplachových a prístupových zariadení a zariadení pre ukladanie dát, pričom poskytuje funkcie ako správa topológie siete, živý náhľad, prehrávanie, konfigurácia parametrov zariadení a ďalšie. <strong>Program je bezplatný</strong> a má užívateľsky prívetivé rozhranie <strong>v poľskom jazyku</strong>.</p>
+<p><strong>Softvér série iVMS-4200</strong> je určený na konfiguráciu a správu zariadení Hikvision jednotným a intuitívnym spôsobom, vrátane vybraných prepínačov, DVR, NVR, IP kamier, poplachových a prístupových zariadení a zariadení na ukladanie dát, pričom poskytuje funkcie ako správa topológie siete, živý náhľad, prehrávanie, konfigurácia parametrov zariadení a ďalšie. <strong>Program je bezplatný</strong> a má užívateľsky prívetivé rozhranie <strong>v poľskom jazyku</strong>.</p>
 <p>Program iVMS-4200 odporúčame stiahnuť z <strong>oficiálnej stránky spoločnosti Hikvision</strong>.</p>
 <span><i></i>Viac informácií</span>
 </div>
@@ -5592,7 +5588,7 @@ DORI
 </tr>
 <tr class="tbody">
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Detekcia pohybu</th>
-<td style="border:1px solid #ccc;padding:6px;">Spustenie alarmu určitým typom objektu (človek)</td>
+<td style="border:1px solid #ccc;padding:6px;">Spustenie alarmu na základe určitého typu objektu (človek)</td>
 </tr>
 <tr class="thead">
 <th colspan="2" scope="col" style="border:1px solid #ccc;padding:6px;">Rozhranie</th>
@@ -5670,7 +5666,7 @@ DORI
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>145.87</PRICE>
+    <PRICE>145.82</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14743_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -5697,8 +5693,8 @@ DORI
 <div>
 <div>
 <h2>Vlastnosti kamery IPOX</h2>
-<p><strong>PX-DI6028IR2DL</strong> je ekonomická kamera typu <strong>turret značky IPOX</strong> pracujúca v technológii <strong>dvojitého osvetlenia</strong>, <strong>tzv. Dual Light</strong>. V praxi využitie dvoch typov diód v kamere – <strong>IR s infračerveným svetlom</strong> a <strong>LED s bielym svetlom s teplou farbou</strong> – umožňuje v noci získať tradičný čiernobiely obraz alebo farebný obraz. Zariadenie pri snímaní obrazu využíva <strong>snímač CMOS</strong>, ktorý umožňuje snímanie <strong>záznamov v rozlíšení 3200×1800 (6 Mpx)</strong>. <strong>Objektív s pevným ohniskom</strong> použitý v zariadení umožňuje rýchlu adaptáciu kamery bez potreby dodatočného zásahu zo strany používateľa. Kamera je vybavená základnými <strong>funkciami umelej inteligencie,</strong> ktoré umožňujú <strong>identifikovať osobu</strong> po prekročení línie alebo narušení zóny.</p>
-<p>Inteligentné riadenie kamery ponúka <strong>rad funkcií automatického korekcie obrazu</strong> a bohatý katalóg systémov na podporu monitorovania. Pokročilé funkcie kamery umožňujú správne prispôsobenie spôsobu prevádzky bezpečnostnej inštalácie v závislosti od individuálnych potrieb používateľa a bezpečnostných priorít. Využitie <strong>kompresného</strong> systému <strong>H.265</strong> zabezpečuje primeranú kvalitu záznamu pri znížených nárokoch na kapacitu úložiska. Navyše <strong>vysoká trieda tesnosti krytu (IP67)</strong> a <strong>odolnosť materiálu (IK10)</strong> zaručujú, že kamera je odolná voči pôsobeniu rôznych atmosférických javov a chránená pred vandalizmom. Vďaka <strong>technológii PoE a špecializovanému príslušenstvu</strong> je inštalácia a následné nastavenie kamery rýchle a jednoduché. Kamera má tiež <strong>vstavaný mikrofón</strong>, pomocou ktorého je možné súčasne nahrávať obraz aj zvuk.</p>
+<p><strong>PX-DI6028IR2DL</strong> je ekonomická kamera typu <strong>turret značky IPOX</strong> pracujúca v technológii <strong>dvojitého osvetlenia</strong>, <strong>tzv. Dual Light</strong>. V praxi využitie dvoch typov diód v kamere – <strong>IR s infračerveným svetlom</strong> a <strong>LED s bielym svetlom s teplou farbou</strong> – umožňuje v noci získať tradičný čiernobiely alebo farebný obraz. Zariadenie pri snímaní obrazu využíva <strong>snímač CMOS</strong>, ktorý umožňuje snímanie <strong>záznamov v rozlíšení 3200×1800 (6 Mpx)</strong>. <strong>Objektív s pevným ohniskom</strong> použitý v zariadení umožňuje rýchlu adaptáciu kamery bez potreby dodatočného zásahu zo strany používateľa. Kamera je vybavená základnými <strong>funkciami umelej inteligencie,</strong> ktoré umožňujú <strong>identifikovať osobu</strong> po prekročení línie alebo narušení zóny.</p>
+<p>Inteligentné riadenie kamery ponúka <strong>rad funkcií automatického korekcie obrazu</strong> a bohatý katalóg systémov na podporu monitorovania. Pokročilé funkcie kamery umožňujú správne prispôsobenie spôsobu prevádzky bezpečnostnej inštalácie v závislosti od individuálnych potrieb používateľa a bezpečnostných priorít. Využitie <strong>kompresného</strong> systému <strong>H.265</strong> zabezpečuje primeranú kvalitu záznamu pri znížených nárokoch na kapacitu úložiska. Navyše <strong>vysoká trieda tesnosti krytu (IP67)</strong> a <strong>odolnosť materiálu (IK10)</strong> zaručujú, že kamera je odolná voči pôsobeniu rôznych atmosférických javov a chránená pred vandalizmom. Vďaka <strong>technológii PoE a špecializovanému príslušenstvu</strong> je inštalácia a následné nastavenie kamery rýchle a jednoduché. Kamera má tiež <strong>vstavaný mikrofón</strong>, pomocou ktorého je možné súčasne zaznamenávať obraz aj zvuk.</p>
 
 </div>
 </div>
@@ -5773,8 +5769,8 @@ DORI
 <div>
 <div>
 <h2>Smart Dual Light – rozhodnite sa, akým spôsobom chcete osvetľovať v noci</h2>
-<p>Predstavovaná kamera IPOX Light Explorer je vybavená technológiou <strong>Smart Dual Light</strong>, vďaka ktorej je možné prepínať medzi rôznymi režimami osvetlenia v kamere. Využitie <strong>duálneho osvetľovača IR + LED s technológiou SMART</strong> umožňuje zapnúť biele svetlo len v prípade <strong>detekcie osoby v zóne určenej používateľom (až 4 zóny)</strong>. V prípade, že osoba opustí monitorovanú oblasť, osvetľovač LED bieleho svetla sa automaticky prepne na IR osvetlenie.</p>
-<span><i></i>Pozrite si, ako nakonfigurovať</span>
+<p>Predstavovaná kamera IPOX Light Explorer je vybavená technológiou <strong>Smart Dual Light</strong>, vďaka ktorej je možné prepínať medzi rôznymi režimami osvetlenia v kamere. Využitie <strong>duálneho osvetľovača IR + LED s technológiou SMART</strong> umožňuje zapnutie bieleho svetla len v prípade <strong>detekcie osoby v zóne určenej používateľom (až 4 zóny)</strong>. V prípade, že osoba opustí monitorovanú oblasť, osvetľovač bieleho svetla LED sa automaticky prepne na IR osvetlenie.</p>
+<span><i></i>Pozrite sa, ako to nakonfigurovať</span>
 </div>
 <div>
 <div>
@@ -5886,7 +5882,7 @@ Detekcia pohybu
 <div>
 <div>
 <h3>Masky súkromia</h3>
-<hr/><p>Táto funkcia umožňuje individuálne prispôsobiť spôsob fungovania sledovacieho systému špecifikám priestoru a bezpečnostným požiadavkám konkrétneho miesta inštalácie. Vďaka systému masiek súkromia je možné voľne určiť časti obrazu, ktoré budú vylúčené z vizuálneho dohľadu.</p>
+<hr/><p>Táto funkcia umožňuje individuálne prispôsobiť spôsob fungovania monitorovacieho systému špecifikám priestoru a bezpečnostným požiadavkám konkrétneho miesta inštalácie. Vďaka systému masiek súkromia je možné voľne určiť časti obrazu, ktoré budú vylúčené z vizuálneho dohľadu.</p>
 </div>
 <div>
 <p><img alt="Maski prywatności." src="https://www.napad.pl/data/produkty/strefy_prywatnosci_ipox_lite.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -5897,7 +5893,7 @@ Detekcia pohybu
 <div>
 <div>
 <h3>Systém detekcie pohybu</h3>
-<hr/><p> Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad činností, ktoré bezpečným spôsobom upozornia správcu na potenciálne ohrozenie a zaznamená akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón chránených detekciou pohybu a môže tiež zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.</p>
+<hr/><p> Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad činností, ktoré bezpečným spôsobom upozornia správcu na potenciálne ohrozenie a zaznamenajú akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón chránených detekciou pohybu a môže tiež zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.</p>
 </div>
 <div>
 <p><img alt="Detekcja ruchu." src="https://www.napad.pl/data/produkty/detekcja_ruchu_ipox_lite.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -5943,7 +5939,7 @@ Kompresia H.265
 <li>integritu prenášaných údajov a nemožnosť akejkoľvek manipulácie s nimi zo strany tretích osôb;</li>
 <li>šifrovanie celej komunikácie medzi zariadeniami.</li>
 </ul>
-<p>Predstavovaná <strong>IP kamera s protokolom HTTPS</strong> umožňuje automatické vytvorenie certifikátu, nahratie už existujúceho certifikátu alebo vygenerovanie žiadosti o vydanie certifikátu od externého subjektu. Vzhľadom na vyššie uvedené vlastnosti sa <strong>IP kamera s šifrovaným pripojením</strong> odporúča na použitie v miestach vyžadujúcich silné zabezpečenie, ako sú: <strong>banky, vyšetrovacie väzby, väznice alebo verejné budovy</strong>.</p>
+<p>Predstavovaná <strong>IP kamera s protokolom HTTPS</strong> umožňuje automatické vytvorenie certifikátu, nahratie už existujúceho certifikátu alebo generovanie žiadosti o vydanie certifikátu od externého subjektu. Vzhľadom na vyššie uvedené vlastnosti sa <strong>IP kamera s šifrovaným pripojením</strong> odporúča na použitie v miestach vyžadujúcich silné zabezpečenie, ako sú: <strong>banky, vyšetrovacie väzby, väznice alebo verejné budovy</strong>.</p>
 </div>
 <div>
 <p><img alt="Kamera z technologią HTTPS." src="https://www.napad.pl/data/produkty/IPOX/technologie/https_ipox_600.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -6038,7 +6034,7 @@ IP PRO Manager
 <li>Flexibilný systém vytvárania úloh a harmonogramov</li>
 <li>Windows (x64) a Mac OS (x64)</li>
 <li>Zvukové upozornenia</li>
-<li>Podpora protokolu ONVIF</li>
+<li>Podpora protokolu Onvif</li>
 <li>Podpora viacerých obrazoviek</li>
 </ul>
 </div>
@@ -6465,7 +6461,7 @@ Dźwięk: mono</td>
 <tbody>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Detekcia pohybu</th>
-<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu na základe rozpoznania objektu (len pre ľudí)</td>
+<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu na základe rozpoznávania objektov (len pre ľudí)</td>
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Perimetrická ochrana</th>
@@ -6542,7 +6538,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>149.94</PRICE>
+    <PRICE>149.88</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14428_kamera_ip_dome_px_di6028ir2dlw_6mp_2_8mm_biala_glowne_l_.jpg</IMAGE>
@@ -6672,7 +6668,7 @@ Dźwięk: mono</td>
 </div>
 <div>
 <h2>Detekcia pohybu 2.0</h2>
-<p><strong>Detekcia pohybu na základe rozpoznania objektu</strong> (angl. Motion Detection 2.0, MD2.0) – Technológia založená na špeciálnom algoritme <strong>najprv klasifikuje človeka</strong> a v druhom kroku klasifikuje pohyb. To umožňuje správne spúšťanie alarmov bez ohľadu na typ platformy, ktorá bude prijímať už spracované informácie o alarmoch, či už ide o IVMS 4200, HikCentral alebo iný softvér Hikvision. Vďaka funkcii <strong>detekcie pohybu s klasifikáciou</strong> môžeme počítať s vysokou presnosťou a účinnosťou alarmovania. Stačí nakresliť štandardnú mriežku detekcie pohybu (masku aktivity) a určiť, aké typy objektov má zariadenie analyzovať.</p>
+<p><strong>Detekcia pohybu na základe rozpoznania objektu</strong> (angl. Motion Detection 2.0, MD2.0) – Technológia založená na špeciálnom algoritme <strong>najprv klasifikuje človeka</strong> a v druhom kroku klasifikuje pohyb. To umožňuje správne spúšťanie alarmov bez ohľadu na typ platformy, ktorá bude prijímať už spracované informácie o alarmoch, či už ide o IVMS 4200, HikCentral alebo iný softvér Hikvision. Vďaka funkcii <strong>detekcie pohybu s klasifikáciou</strong> môžeme počítať s vysokou presnosťou a účinnosťou poplachov. Stačí nakresliť štandardnú mriežku detekcie pohybu (masku aktivity) a určiť, aké typy objektov má zariadenie analyzovať.</p>
 </div>
 </div>
 <div>
@@ -6783,7 +6779,7 @@ Masky súkromia
 <div>
 <h3>Masky súkromia</h3>
 <hr/>
-<p>Ide o funkciu, ktorá umožňuje individuálne prispôsobiť spôsob fungovania monitorovacieho systému špecifikám priestoru a bezpečnostným požiadavkám konkrétneho miesta inštalácie. Vďaka systému masiek súkromia je možné voľne určiť časti obrazu, ktoré budú vylúčené z kamerového dohľadu.</p>
+<p>Ide o funkciu, ktorá umožňuje individuálne prispôsobiť spôsob fungovania sledovacieho systému špecifikám priestoru a bezpečnostným požiadavkám konkrétneho miesta inštalácie. Vďaka systému masiek súkromia je možné voľne určiť časti obrazu, ktoré budú vylúčené z kamerového dohľadu.</p>
 <div>
 <div>
 <img alt="Maski prywatności" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_privacymask-off.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
@@ -6843,7 +6839,7 @@ Kompresia H.265+
 <hr/>
 </div>
 <div>
-<p> <strong>H.265+ je systém kódovania videozáznamov</strong>, ktorý je rozšírením technológie použitej v <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. Systém H.265+ je najnovšou verziou kodekov používaných v monitoringu, ktorá je založená na inteligentnom algoritme vyvinutom spoločnosťou Hikvision. Kódovanie signálu v systéme H.265 je výnimočná technológia, ktorá umožňuje optimalizovať základné funkcie kamery a umožňuje lepšie využitie priepustnosti siete, výrazne obmedzuje rušenie a zaručuje dlhú dobu archivácie záznamov bez zníženia kvality obrazu. Terénne testy preukázali, že <strong>kompresia H.265+ znižuje požadovanú rýchlosť prenosu obrazu vo vysokom rozlíšení približne o 67 %</strong> v porovnaní s H.265, čím sa znižuje požadovaná šírka pásma a kapacita úložiska / pevného disku. Zníženie počtu bitov znamená zníženie nákladov pre spotrebiteľov, ako aj zvýšenie efektívnosti, stability a spoľahlivosti celého zariadenia v danom systéme dohľadu. <strong>Použitie kodeku H.265+</strong> prináša najvýraznejší výkon pri obrazoch, kde pozadie zostáva nemenné a zriedka sa mení; v prípade objektov pohybujúcich sa v statickej scéne a pri nepretržitom dohľade.</p>
+<p> <strong>H.265+ je systém kódovania videozáznamov</strong>, ktorý je rozšírením technológie použitej v <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. Systém H.265+ je najnovšou verziou kodekov používaných v monitoringu, ktorá je založená na inteligentnom algoritme vyvinutom spoločnosťou Hikvision. Kódovanie signálu v systéme H.265 je výnimočná technológia, ktorá umožňuje optimalizovať základné funkcie kamery a lepšie využívať šírku pásma siete, výrazne obmedzuje rušenie a zaručuje dlhú dobu archivácie záznamov bez zníženia kvality obrazu. Terénne testy preukázali, že <strong>kompresia H.265+ znižuje požadovanú rýchlosť prenosu obrazu vo vysokom rozlíšení približne o 67 %</strong> v porovnaní s H.265, čím sa znižuje požadovaná šírka pásma a kapacita úložiska / pevného disku HDD. Zníženie počtu bitov znamená zníženie nákladov pre spotrebiteľov, ako aj zvýšenie efektívnosti, stability a spoľahlivosti celého zariadenia v danom systéme dohľadu. <strong>Použitie kodeku H.265+</strong> prináša najvýraznejší výkon pri obrazoch, kde pozadie zostáva nemenné a zriedka sa mení; v prípade objektov pohybujúcich sa v statickej scéne a pri nepretržitom dohľade.</p>
 <p><em>Upozornenie: formát kompresie H.265 je <strong>natívne</strong> podporovaný len <strong>v rámci jedného</strong> výrobcu.</em></p>
 </div>
 <div>
@@ -6908,7 +6904,7 @@ VSPlayer
 <div>
 <h3>Efektívne riadenie ochrany s Hik-Partner Pro</h3>
 <hr/>
-<p><strong>Hik-Partner Pro</strong> (predtým Hik-ProConnect) je konvergentné riešenie založené na cloude určené pre <strong>inštalatérov a integrátorov systémov Hikvision</strong>. Program pomáha spravovať služby, ktoré sa ponúkajú zákazníkom, a rozvíjať činnosť v rámci predplatného modelu. S jeho pomocou môže inštalatér monitorovať stav systémov nainštalovaných u zákazníkov a dokonca aj diaľkovo riešiť problémy pomocou jednoduchého a spoľahlivého riešenia.</p>
+<p><strong>Hik-Partner Pro</strong> (predtým Hik-ProConnect) je konvergentné riešenie založené na cloude určené pre <strong>inštalatérov a integrátorov systémov Hikvision</strong>. Program pomáha spravovať služby, ktoré sa ponúkajú zákazníkom, a rozvíjať činnosť v rámci predplatného modelu. S jeho pomocou môže inštalatér monitorovať stav systémov nainštalovaných u zákazníkov a dokonca aj vzdialene riešiť problémy pomocou jednoduchej a spoľahlivej platformy.</p>
 <p>Najnovšia verzia aplikácie je k dispozícii na platforme <strong>Hikvision App Store</strong>.</p>
 <p>Stránka softvéru: <strong>www.hik-partner.com</strong></p>
 <p>
@@ -6934,7 +6930,7 @@ VSPlayer
 <div>
 <h3>Klientský softvér iVMS-4200</h3>
 <hr/>
-<p><strong>Softvér série iVMS-4200</strong> je určený na konfiguráciu a správu zariadení Hikvision jednotným a intuitívnym spôsobom, vrátane vybraných prepínačov, DVR, NVR, IP kamier, poplachových a prístupových zariadení a zariadení na ukladanie dát, pričom poskytuje funkcie ako správa topológie siete, živý náhľad, prehrávanie, konfigurácia parametrov zariadení a ďalšie. <strong>Program je bezplatný</strong> a má užívateľsky prívetivé rozhranie <strong>v poľskom jazyku</strong>.</p>
+<p><strong>Softvér série iVMS-4200</strong> je určený na konfiguráciu a správu zariadení Hikvision jednotným a intuitívnym spôsobom, vrátane vybraných prepínačov, DVR, NVR, IP kamier, poplachových a prístupových zariadení a zariadení pre ukladanie dát, pričom poskytuje funkcie ako správa topológie siete, živý náhľad, prehrávanie, konfigurácia parametrov zariadení a ďalšie. <strong>Program je bezplatný</strong> a má užívateľsky prívetivé rozhranie <strong>v poľskom jazyku</strong>.</p>
 <p>Program iVMS-4200 odporúčame stiahnuť z <strong>oficiálnej stránky spoločnosti Hikvision</strong>.</p>
 <span><i></i>Viac informácií</span>
 </div>
@@ -7000,7 +6996,7 @@ VSPlayer
 </tr>
 <tr class="tbody">
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Snímač</th>
-<td style="border:1px solid #ccc;padding:6px;">1/2,4&quot; Progressive Scan CMOS</td>
+<td style="border:1px solid #ccc;padding:6px;">1/2,4&quot; CMOS s progresívnym snímaním</td>
 </tr>
 <tr class="tbody">
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Citlivosť</th>
@@ -7105,7 +7101,7 @@ VSPlayer
 <tr class="tbody">
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Rýchlosť a rozlíšenie spracovania<br>(pomocný prúd)</th>
 <td style="border:1px solid #ccc;padding:6px;">
-<p>50 Hz: 20 snímok/s pri 1280 × 720 / 640 × 480 / 640 × 360</p>
+<p>50 Hz: 20 snímok/s pri rozlíšení 1280 × 720 / 640 × 480 / 640 × 360</p>
                 60 Hz: 20 snímok/s pri rozlíšení 1280 × 720 / 640 × 480 / 640 × 360
             </td>
 </tr>
@@ -7134,7 +7130,7 @@ VSPlayer
 </tr>
 <tr class="tbody last">
 <th scope="row" style="border:1px solid #ccc;padding:6px;">ROI</th>
-<td style="border:1px solid #ccc;padding:6px;">Podpora jednej oblasti pre hlavný prúd</td>
+<td style="border:1px solid #ccc;padding:6px;">Podpora jednej oblasti pre hlavný stream</td>
 </tr>
 <tr class="thead">
 <th colspan="2" scope="col" style="border:1px solid #ccc;padding:6px;">Audio</th>
@@ -7211,7 +7207,7 @@ VSPlayer
 </tr>
 <tr class="tbody">
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Bezpečnosť</th>
-<td style="border:1px solid #ccc;padding:6px;">Ochrana heslom, zložité heslo, vodoznak, základné a skrátené overovanie pre HTTP, WSSE a skrátené overovanie pre ONVIF, protokol bezpečnostných kontrol, overovanie hostiteľa (MAC adresa)</td>
+<td style="border:1px solid #ccc;padding:6px;">Ochrana heslom, zložité heslo, vodoznak, základné a skrátené overovanie pre HTTP, WSSE a skrátené overovanie pre ONVIF, protokol bezpečnostného auditu, overovanie hostiteľa (MAC adresa)</td>
 </tr>
 <tr class="tbody">
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Diaľkové ovládanie</th>
@@ -7290,7 +7286,7 @@ VSPlayer
 <p>Predná časť okolo objektívu: plast</p>
 <p>Guľová časť: kov + plast</p>
 <p>Držiak guľovej časti: plast</p>
-                Montážna úchytka: plast
+                Montážny držiak: plast
             </td>
 </tr>
 <tr class="tbody">
@@ -7313,7 +7309,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>150.52</PRICE>
+    <PRICE>150.46</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14780_ds_2cd1363g2_liu2_8mm_kamera_ip_6mpx_hikvision_glowne_l_.jpg</IMAGE>
@@ -7410,7 +7406,7 @@ VSPlayer
 </div>
 <div>
 <h2>Smart Hybrid Light – vyberte si vlastný spôsob osvetlenia scény</h2>
-<p>Inteligentný hybridný osvetľovač je jeden z režimov osvetlenia použitých v kamere. Umožňuje <strong>zapnúť biele svetlo</strong> len v prípade <strong>detekcie osoby v detekčnej zóne</strong>. Ak osoba opustí monitorovanú oblasť, LED osvetľovač sa <strong>po uplynutí 1 minúty</strong> prepne na IR osvetlenie. Okrem uvedeného režimu má používateľ na výber ešte režim <strong>LED</strong> (len biele svetlo, ktoré umožňuje farebný obraz v noci); <strong>režim IR</strong> (len infračervené svetlo) alebo úplné vypnutie osvetľovača.</p>
+<p>Inteligentný hybridný osvetľovač je jeden z režimov osvetlenia použitých v kamere. Umožňuje <strong>zapnutie bieleho svetla</strong> len v prípade <strong>detekcie osoby v detekčnej zóne</strong>. Ak osoba opustí monitorovanú oblasť, LED osvetľovač sa <strong>po uplynutí 1 minúty</strong> prepne na IR osvetlenie. Okrem uvedeného režimu má používateľ na výber ešte režim <strong>LED</strong> (len biele svetlo, ktoré umožňuje farebný obraz v noci); <strong>režim IR</strong> (len infračervené svetlo) alebo úplné vypnutie osvetľovača.</p>
 </div>
 </div>
 <div>
@@ -7442,7 +7438,7 @@ VSPlayer
 </div>
 <div>
 <h2>Detekcia pohybu 2.0</h2>
-<p><strong>Detekcia pohybu na základe rozpoznania objektu</strong> (angl. Motion Detection 2.0, MD2.0) – Technológia založená na špeciálnom algoritme <strong>najprv klasifikuje človeka</strong> a v druhom kroku klasifikuje pohyb. To umožňuje správne spúšťanie alarmov bez ohľadu na typ platformy, ktorá bude prijímať už spracované informácie o alarmoch, či už ide o IVMS 4200, HikCentral alebo iný softvér Hikvision. Vďaka funkcii <strong>detekcie pohybu s klasifikáciou</strong> môžeme počítať s vysokou presnosťou a účinnosťou alarmovania. Stačí nakresliť štandardnú mriežku detekcie pohybu (masku aktivity) a určiť, aké typy objektov má zariadenie analyzovať.</p>
+<p><strong>Detekcia pohybu na základe rozpoznania objektu</strong> (angl. Motion Detection 2.0, MD2.0) – Technológia založená na špeciálnom algoritme <strong>najprv klasifikuje človeka</strong> a v druhom kroku klasifikuje pohyb. To umožňuje správne spúšťanie poplachov bez ohľadu na typ platformy, ktorá bude prijímať už spracované informácie o poplachoch, či už ide o IVMS 4200, HikCentral alebo iný softvér Hikvision. Vďaka funkcii <strong>detekcie pohybu s klasifikáciou</strong> môžeme počítať s vysokou presnosťou a účinnosťou alarmovania. Stačí nakresliť štandardnú mriežku detekcie pohybu (masku aktivity) a určiť, aké typy objektov má zariadenie analyzovať.</p>
 </div>
 </div>
 <div>
@@ -7451,7 +7447,7 @@ VSPlayer
 <div>
 <h2>Objektív</h2>
 <p>
-                                Objektív s pevným ohniskom <strong>2,8 mm</strong> sa vyznačuje širokým zorným poľom, ako aj <strong>svetlocitlivou clonou</strong> s apertúrou <strong>F1,6</strong>.
+                                Objektív s pevným ohniskom <strong>2,8 mm</strong> sa vyznačuje širokým zorným poľom, ako aj <strong>svetlocitlivou clonou</strong> s apertúrou <strong>F1.6</strong>.
                             </p>
 </div>
 <div>
@@ -7554,7 +7550,7 @@ Masky súkromia
 <div>
 <h3>Masky súkromia</h3>
 <hr/>
-<p>Ide o funkciu, ktorá umožňuje individuálne prispôsobiť spôsob fungovania monitorovacieho systému špecifikám priestoru a bezpečnostným požiadavkám konkrétneho miesta inštalácie. Vďaka systému masiek súkromia je možné voľne určiť časti obrazu, ktoré budú vylúčené z kamerového dohľadu.</p>
+<p>Ide o funkciu, ktorá umožňuje individuálne prispôsobiť spôsob fungovania sledovacieho systému špecifikám priestoru a bezpečnostným požiadavkám konkrétneho miesta inštalácie. Vďaka systému masiek súkromia je možné voľne určiť časti obrazu, ktoré budú vylúčené z vizuálneho dohľadu.</p>
 <div>
 <div>
 <img alt="Maski prywatności" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_privacymask-off.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
@@ -7614,7 +7610,7 @@ Kompresia H.265+
 <hr/>
 </div>
 <div>
-<p> <strong>H.265+ je systém kódovania videozáznamov</strong>, ktorý je rozšírením technológie použitej v <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. Systém H.265+ je najnovšou verziou kodekov používaných v monitoringu, ktorá je založená na inteligentnom algoritme vyvinutom spoločnosťou Hikvision. Kódovanie signálu v systéme H.265 je výnimočná technológia, ktorá umožňuje optimalizovať základné funkcie kamery a umožňuje lepšie využitie priepustnosti siete, výrazne obmedzuje rušenie a zaručuje dlhú dobu archivácie záznamov bez zníženia kvality obrazu. Terénne testy preukázali, že <strong>kompresia H.265+ znižuje požadovanú rýchlosť prenosu obrazu vo vysokom rozlíšení približne o 67 %</strong> v porovnaní s H.265, čím sa znižuje požadovaná šírka pásma a kapacita úložiska / pevného disku HDD. Zníženie počtu bitov znamená zníženie nákladov pre spotrebiteľov, ako aj zvýšenie efektívnosti, stability a spoľahlivosti celého zariadenia v danom systéme dohľadu. <strong>Použitie kodeku H.265+</strong> prináša najvýraznejší výkon pri obrazoch, kde pozadie zostáva nemenné a zriedka sa mení; v prípade objektov pohybujúcich sa v statickej scéne a pri nepretržitom dohľade.</p>
+<p> <strong>H.265+ je systém kódovania videozáznamov</strong>, ktorý je rozšírením technológie použitej v <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. Systém H.265+ je najnovšou verziou kodekov používaných v monitoringu, ktorá je založená na inteligentnom algoritme vyvinutom spoločnosťou Hikvision. Kódovanie signálu v systéme H.265 je výnimočná technológia, ktorá umožňuje optimalizovať základné funkcie kamery a lepšie využívať šírku pásma siete, výrazne obmedzuje rušenie a zaručuje dlhú dobu archivácie záznamov bez zníženia kvality obrazu. Terénne testy ukazujú, že <strong>kompresia H.265+ znižuje požadovanú rýchlosť prenosu obrazu vo vysokom rozlíšení približne o 67 %</strong> v porovnaní s H.265, čím sa znižuje požadovaná šírka pásma a kapacita úložiska / pevného disku HDD. Zníženie počtu bitov znamená zníženie nákladov pre spotrebiteľov, ako aj zvýšenie efektívnosti, stability a spoľahlivosti celého zariadenia v danom systéme dohľadu. <strong>Použitie kodeku H.265+</strong> prináša najvýraznejší výkon pri obrazoch, kde pozadie zostáva nemenné a zriedka sa mení; v prípade objektov pohybujúcich sa v statickej scéne a pri nepretržitom dohľade.</p>
 <p><em>Upozornenie: formát kompresie H.265 je <strong>natívne</strong> podporovaný len <strong>v rámci jedného</strong> výrobcu.</em></p>
 </div>
 <div>
@@ -7705,7 +7701,7 @@ VSPlayer
 <div>
 <h3>Klientský softvér iVMS-4200</h3>
 <hr/>
-<p><strong>Softvér série iVMS-4200</strong> je určený na konfiguráciu a správu zariadení Hikvision jednotným a intuitívnym spôsobom, vrátane vybraných prepínačov, DVR, NVR, IP kamier, poplachových a prístupových zariadení a zariadení pre ukladanie dát, pričom poskytuje funkcie ako správa topológie siete, živý náhľad, prehrávanie, konfigurácia parametrov zariadení a ďalšie. <strong>Program je bezplatný</strong> a má užívateľsky prívetivé rozhranie <strong>v poľskom jazyku</strong>.</p>
+<p><strong>Softvér série iVMS-4200</strong> je určený na konfiguráciu a správu zariadení Hikvision jednotným a intuitívnym spôsobom, vrátane vybraných prepínačov, DVR rekordérov, NVR, IP kamier, poplachových a prístupových zariadení a zariadení pre ukladanie dát, pričom poskytuje funkcie ako správa topológie siete, živý náhľad, prehrávanie, konfigurácia parametrov zariadení a ďalšie. <strong>Program je bezplatný</strong> a má užívateľsky prívetivé rozhranie <strong>v poľskom jazyku</strong>.</p>
 <p>Program iVMS-4200 odporúčame stiahnuť z <strong>oficiálnej stránky spoločnosti Hikvision</strong>.</p>
 <span><i></i>Viac informácií</span>
 </div>
@@ -8095,7 +8091,7 @@ DORI
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>160.98</PRICE>
+    <PRICE>160.92</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14779_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -8145,9 +8141,9 @@ DORI
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Minimálne osvetlenie</th>
-<td style="border:1px solid #ccc;padding:6px;">0,005 Lux/F1,6 (farba, 30 IRE)<br/>
-                                        0,0005 Lux/F1,6 (čb, 30 IRE)<br/>
-                                        0 Lux (IR / LED zap.)</td>
+<td style="border:1px solid #ccc;padding:6px;">0,005 lux/F1,6 (farba, 30 IRE)<br/>
+                                        0,0005 lux/F1,6 (čb, 30 IRE)<br/>
+                                        0 lux (IR / LED zap.)</td>
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Nastavenie polohy</th>
@@ -8208,7 +8204,7 @@ Prevádzka: iba IR osvetľovač – infračervené žiarenie, pre človeka nevid
 <td style="border:1px solid #ccc;padding:6px;">
 Prevádzka: iba LED osvetlenie – viditeľné biele svetlo;<br/>
 
-<em>Po zotmení kamera automaticky zapne osvetlenie bielymi LED diódami;</em><br/>
+<em>Pri súmraku kamera automaticky zapne osvetlenie bielymi LED diódami;</em><br/>
 
 <strong>Obraz cez deň</strong>
 : farebný (osvetlenie vypnuté)<br/>
@@ -8218,7 +8214,7 @@ Prevádzka: iba LED osvetlenie – viditeľné biele svetlo;<br/>
 
                                         Režim: automatický, manuálny, vypnutý<br/>
 
-                                         Nastavenie úrovne intenzity LED osvetlenia (biele svetlo): 0 ~ 100 (predvolené: 100 – v automatickom režime / 50 – v manuálnom režime)
+                                         Nastavenie intenzity osvetlenia LED (biele svetlo): 0 ~ 100 (predvolené: 100 – v automatickom režime / 50 – v manuálnom režime)
                                 </td></tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Režim Smart Illumination (IR + LED)</th>
@@ -8228,7 +8224,7 @@ Prevádzka: IR osvetľovač + LED osvetľovač (SMD – len po detekcii osoby)<b
 <em>Princíp činnosti:<br/>
                                         1. Pri súmraku alebo za podmienok slabého osvetlenia kamera osvetľuje monitorovanú oblasť lúčom infračerveného svetla;<br/>
                                         2. V okamihu detekcie osoby v sledovanej oblasti (definovanej zóne detekcie pohybu) kamera automaticky zapne biele svetelné diódy a prepne sa do farebného režimu;<br/>
-                                        3. Ak detegovaný objekt opustí sledovanú oblasť, LED osvetlenie v kamere sa po určitej dobe automaticky prepne na infračervené osvetlenie IR;</em><br/><br/>
+                                        3. Ak detegovaný objekt opustí sledovanú oblasť, LED osvetľovač v kamere sa po určitej dobe automaticky prepne na infračervené osvetlenie IR;</em><br/><br/>
 
                                         Režim: automatický, vypnutý<br/>
 
@@ -8302,7 +8298,7 @@ Prevádzka: IR osvetľovač + LED osvetľovač (SMD – len po detekcii osoby)<b
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Rozlíšenie spracovania</th>
-<td style="border:1px solid #ccc;padding:6px;">1080p – 2 Mpx (1920x1080) / 960p – 1,3 Mpx (1280x960) / 720p – 1 Mpx (1280x720) / D1 (704x576 / 704x480) / CIF (352x288 / 352x240) / VGA (640x480)</td>
+<td style="border:1px solid #ccc;padding:6px;">1080p – 2 Mpx (1920 x 1080) / 960p – 1,3 Mpx (1280 x 960) / 720p – 1 Mpx (1280x720) / D1 (704x576 / 704x480) / CIF (352x288 / 352x240) / VGA (640x480)</td>
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Rýchlosť a rozlíšenie spracovania<br/>(hlavný prúd)</th>
@@ -8409,7 +8405,7 @@ Prevádzka: IR osvetľovač + LED osvetľovač (SMD – len po detekcii osoby)<b
 <tbody>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Spúšťač poplachovej udalosti</th>
-<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu, detekcia zvuku, odpojenie od siete, neoprávnený prístup, konflikt IP adries, chyba pamäte, SMD osoba</td>
+<td style="border:1px solid #ccc;padding:6px;">Detekcia pohybu, detekcia zvuku, odpojenie od siete, neoprávnený prístup, konflikt IP adries, chyba pamäte, SMD človek</td>
 </tr>
 </tbody>
 <thead>
@@ -8425,7 +8421,7 @@ Prevádzka: IR osvetľovač + LED osvetľovač (SMD – len po detekcii osoby)<b
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Napájanie DC 12 V</th>
-<td style="border:1px solid #ccc;padding:6px;">1x konektor 5,5/2,1 na kábli</td>
+<td style="border:1px solid #ccc;padding:6px;">1x zásuvka 5,5/2,1 na kábli</td>
 </tr>
 </tbody>
 <thead>
@@ -8535,7 +8531,7 @@ Prevádzka: IR osvetľovač + LED osvetľovač (SMD – len po detekcii osoby)<b
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>172.60</PRICE>
+    <PRICE>172.54</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_dh_ipc_hdw1239v_a_ii_v2_glowne_bez_podsw_l_.jpg</IMAGE>
@@ -8570,7 +8566,7 @@ Prevádzka: IR osvetľovač + LED osvetľovač (SMD – len po detekcii osoby)<b
 <div>
 <h2>Vlastnosti kamery IPOX</h2>
 <p><strong>PX-DI4028IR3DL / PX-DI4036IR3DL</strong> je kamera typu <strong>turret značky IPOX</strong> pracujúca v technológii <strong>dvojitého osvetlenia, tzv. Dual Light</strong>. V praxi umožňuje použitie dvoch typov diód v kamere – <strong>IR s infračerveným svetlom</strong> a <strong>LED s bielym svetlom s teplou farbou</strong> – získanie tradičného čiernobieleho alebo farebného obrazu v noci. Zariadenie pri snímaní obrazu využíva <strong>snímač CMOS</strong>, ktorý umožňuje snímanie <strong>záznamov v rozlíšení 2560×1440 (4 Mpx)</strong>. <strong>Objektív s pevným ohniskom</strong> použitý v zariadení umožňuje rýchlu adaptáciu kamery bez potreby dodatočného zásahu zo strany používateľa. Kamera je vybavená základnými <strong>funkciami umelej inteligencie</strong>, ktoré umožňujú <strong>identifikovať osobu / vozidlo</strong> po prekročení čiary alebo narušení zóny.</p>
-<p>Inteligentné riadenie kamery ponúka <strong>rad funkcií automatického korekcie obrazu</strong> a bohatý katalóg systémov na podporu monitorovania. Pokročilé funkcie kamery umožňujú správne prispôsobenie spôsobu prevádzky bezpečnostnej inštalácie v závislosti od individuálnych potrieb používateľa a bezpečnostných priorít. Využitie <strong>kompresného</strong> systému <strong>H.265</strong> zabezpečuje primeranú kvalitu záznamu pri znížených nárokoch na kapacitu disku. Navyše <strong>vysoká trieda krytia (IP67)</strong> a <strong>odolnosť materiálu (IK10)</strong> zaručujú, že kamera je odolná voči rôznym poveternostným vplyvom a chránená pred vandalizmom. Vďaka <strong>technológii PoE a špecializovanému príslušenstvu</strong> prebieha inštalácia a následné nastavenie kamery rýchlo a bez komplikácií. Okrem toho je zariadenie vybavené citlivým <strong>mikrofónom</strong>, ktorý umožňuje <strong>nahrávanie zvuku</strong>, audio vstupom a <strong>slotom na kartu microSD</strong>.</p>
+<p>Inteligentné riadenie kamery ponúka <strong>rad funkcií automatického korekcie obrazu</strong> a bohatý katalóg systémov na podporu monitorovania. Pokročilé funkcie kamery umožňujú správne prispôsobenie spôsobu prevádzky bezpečnostnej inštalácie v závislosti od individuálnych potrieb používateľa a bezpečnostných priorít. Využitie <strong>kompresného</strong> systému <strong>H.265</strong> zabezpečuje primeranú kvalitu záznamu pri znížených požiadavkách na kapacitu disku. Okrem toho <strong>vysoká trieda krytia (IP67)</strong> a <strong>odolnosť materiálu (IK10)</strong> zaručujú, že kamera je odolná voči pôsobeniu rôznych poveternostných vplyvov a chránená pred vandalizmom. Vďaka <strong>technológii PoE a špecializovanému príslušenstvu</strong> je inštalácia a následné nastavenie kamery rýchle a jednoduché. Okrem toho je zariadenie vybavené citlivým <strong>mikrofónom</strong>, ktorý umožňuje <strong>nahrávanie zvuku</strong>, audio vstupom a <strong>slotom na microSD kartu</strong>.</p>
 
 </div>
 </div>
@@ -8658,13 +8654,13 @@ Prevádzka: IR osvetľovač + LED osvetľovač (SMD – len po detekcii osoby)<b
 </div>
 <div>
 <h2>Funkčné menu</h2>
-<p>Správa, programovanie nastavení a obsluha <strong>IP kamery IPOX</strong> prebieha v prehľadnom a zrozumiteľnom programe na správu zariadenia, ktorý je dostupný prostredníctvom webového prehliadača. Pomocou intuitívneho menu programu je možné nielen testovať kamery a sledovať aktuálny náhľad zaznamenávaného obrazu, ale aj nastavovať pokročilé parametre a funkcie zariadenia.</p>
+<p>Správa, programovanie nastavení a obsluha <strong>IP kamery IPOX</strong> prebieha v prehľadnom a zrozumiteľnom programe na správu zariadenia, ktorý je dostupný z webového prehliadača. Pomocou intuitívneho menu programu je možné nielen testovať kamery a aktuálne sledovať zaznamenávaný obraz, ale aj nastavovať pokročilé parametre a funkcie zariadenia.</p>
 </div>
 </div>
 <div>
 <div>
 <h2>Smart Dual Light – rozhodnite sa, akým spôsobom chcete osvetľovať v noci</h2>
-<p>Predstavovaná kamera IPOX Light Explorer je vybavená technológiou <strong>Smart Dual Light</strong>, vďaka ktorej je možné prepínať medzi rôznymi režimami osvetlenia v kamere. Využitie <strong>duálneho osvetľovača IR + LED s technológiou SMART</strong> umožňuje <strong>zapnutie bieleho svetla</strong> len v prípade detekcie <strong>osoby alebo vozidla v zóne určenej používateľom (až 4 zóny)</strong>. V prípade, že osoba opustí monitorovanú oblasť, osvetľovač LED bieleho svetla sa po čase stanovenom používateľom automaticky <strong>prepne na IR osvetlenie</strong>.</p></div>
+<p>Predstavovaná kamera IPOX Light Explorer je vybavená technológiou <strong>Smart Dual Light</strong>, vďaka ktorej je možné prepínať medzi rôznymi režimami osvetlenia v kamere. Využitie <strong>duálneho osvetľovača IR + LED s technológiou SMART</strong> umožňuje <strong>zapnutie bieleho svetla</strong> len v prípade detekcie <strong>osoby alebo vozidla v zóne určenej používateľom (až 4 zóny)</strong>. V prípade, že osoba opustí monitorovanú oblasť, osvetľovač bieleho svetla LED sa po čase stanovenom používateľom automaticky <strong>prepne na IR osvetlenie</strong>.</p></div>
 <div>
 <div>
 
@@ -8679,13 +8675,13 @@ Prevádzka: IR osvetľovač + LED osvetľovač (SMD – len po detekcii osoby)<b
 </div>
 <div>
 <h2>Farebný obraz 24/7</h2>
-<p><strong>Kamera IPOX Light Explorer</strong> zaručuje obraz <strong>v živých farbách 24 hodín</strong> <strong>denne</strong> aj pri veľmi slabých svetelných podmienkach. Táto vlastnosť pozitívne vplýva na bezpečnosť a umožňuje presnú identifikáciu osôb a majetku. Schopnosť zaznamenávať detailné obrazy pri slabom osvetlení vyplýva z kombinácie <strong>bieleho osvetľovača</strong> a <strong>svetlocitlivého snímača</strong>. Využitie týchto funkcií umožňuje, aby sa do kamery dostalo väčšie množstvo svetla, vďaka čomu je možné zachytiť obraz v plnej farebnej palete s vysokou jasnosťou.</p>
+<p><strong>Kamera IPOX Light Explorer</strong> zaručuje obraz <strong>v živých farbách 24 hodín</strong> <strong>denne</strong> aj pri veľmi slabých svetelných podmienkach. Táto vlastnosť pozitívne vplýva na bezpečnosť a umožňuje presnú identifikáciu osôb a majetku. Schopnosť zaznamenávať detailné obrazy pri slabom osvetlení vyplýva z kombinácie <strong>bieleho osvetlenia</strong> a <strong>svetlocitlivého snímača</strong>. Využitie týchto funkcií umožňuje, aby sa do kamery dostalo väčšie množstvo svetla, vďaka čomu je možné zachytiť obraz v plnej farebnej palete s vysokou jasnosťou.</p>
 </div>
 </div>
 <div>
 <div>
 <h2>Funkcie AI v kamerách IPOX</h2>
-<p>Na rozdiel od štandardných inteligentných funkcií (VCA) riešenia AI umožňujú prepojenie dvoch alebo viacerých funkcií s cieľom dosiahnuť lepšiu identifikáciu. Algoritmus hlbokého učenia je zameraný hlavne na efektívne <strong>rozpoznávanie vozidiel a ľudí</strong>. Zabezpečuje to menší počet falošných poplachov, väčšiu flexibilitu a pozitívne vplýva na presnosť monitorovania, čo priamo prispieva <strong>k zvýšeniu úrovne bezpečnosti</strong> v sledovanej oblasti.</p>
+<p>Na rozdiel od štandardných inteligentných funkcií (VCA) riešenia AI umožňujú prepojenie dvoch alebo viacerých funkcií s cieľom dosiahnuť lepšiu identifikáciu. Algoritmus hlbokého učenia je zameraný hlavne na efektívne <strong>rozpoznávanie vozidiel a ľudí</strong>. Zabezpečuje to menej falošných poplachov, väčšiu flexibilitu a pozitívne vplýva na presnosť monitorovania, čo priamo prispieva <strong>k zvýšeniu úrovne bezpečnosti</strong> v sledovanej oblasti.</p>
 <h3>Perimetrická ochrana</h3>
 <hr/>
 <p>Kamera je vybavená funkciami <strong>prekročenia línie a detekcie narušenia</strong>. Technológia AI umožňuje <strong>identifikovať objekt na zázname ako osobu alebo vozidlo</strong> a až po overení spustiť alarm. Zároveň systém ignoruje poplachové situácie, za ktoré sú zodpovedné napr. lístie pohybujúce sa vo vetre, prebiehajúce zvieratá, dážď alebo zapnuté osvetlenie.</p>
@@ -8743,7 +8739,7 @@ Detekcia pohybu
 <div>
 <div>
 <h3>Široký dynamický rozsah – WDR</h3>
-<hr/><p><strong>Funkcia WDR</strong> umožňuje získať prehľadný a detailný obraz vďaka šikovnému vyrovnávaniu príliš jasných aj tmavých častí záznamu. Vďaka systému Digital WDR je možné zachovať čitateľnosť celého monitorovania v miestach s rôznou úrovňou osvetlenia sledovanej scény.</p>
+<hr/><p><strong>Funkcia WDR</strong> umožňuje získať prehľadný a detailný obraz vďaka šikovnému vyrovnávaniu príliš jasných aj zatienených častí záznamu. Vďaka systému Digital WDR je možné zachovať čitateľnosť celého monitorovania v miestach s rôznou úrovňou osvetlenia sledovanej scény.</p>
 </div>
 <div>
 <p><img alt="Sprzętowy zakres dynamiki obrazu - WDR." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_wdr_new.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -8765,7 +8761,7 @@ Detekcia pohybu
 <div>
 <div>
 <h3>Maskovanie zdrojov svetla – HLC</h3>
-<hr/><p><strong>Funkcia HLC</strong> aktívne analyzuje zaznamenávaný obraz a hľadá pohybujúce sa objekty, ktoré sú silnými zdrojmi osvetlenia. V prípade detekcie takýchto bodov systém automaticky aplikuje špeciálnu maskovacie vrstvu, ktorá umožňuje kamere čitateľné zaznamenávanie oblasti so zohľadnením detailov, ktoré by za normálnych okolností boli zakryté vyžarujúcim svetlom.</p>
+<hr/><p><strong>Funkcia HLC</strong> aktívne analyzuje zaznamenávaný obraz a hľadá pohybujúce sa objekty, ktoré sú silnými zdrojmi osvetlenia. V prípade detekcie takýchto bodov systém automaticky aplikuje špeciálnu maskovacie vrstvu, ktorá umožňuje kamere čitateľné zaznamenávanie oblasti so zreteľom na detaily, ktoré by za normálnych okolností boli zakryté vyžarujúcim svetlom.</p>
 </div>
 <div>
 <p><img alt="System redukcji światła - HLC." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_hlc.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -8809,7 +8805,7 @@ Detekcia pohybu
 <div>
 <div>
 <h3>Systém detekcie pohybu</h3>
-<hr/><p> Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad činností, ktoré bezpečným spôsobom upozornia správcu na potenciálne ohrozenie a zaznamenajú akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón, na ktoré sa vzťahuje ochrana detekcie pohybu, a môže tiež zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.</p>
+<hr/><p> Kamera s funkciou detekcie pri zistení pohybujúcich sa objektov iniciuje rad činností, ktoré bezpečným spôsobom upozornia správcu na potenciálne ohrozenie a zaznamená akýkoľvek pohyb v dosahu kamery. Správca systému má možnosť voľne určiť polohu a počet alarmových zón, ktoré sú chránené detekciou pohybu, a môže tiež zasahovať do harmonogramu zapnutia alebo vypnutia funkcie v určitom čase.</p>
 </div>
 <div>
 <p><img alt="Detekcja ruchu." src="https://www.napad.pl/data/produkty/detekcja_ruchu_ipox_lite.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -8829,7 +8825,7 @@ Detekcia pohybu
 </div>
 <div>
 <h2>Upozornenia z alarmových udalostí</h2>
-<p>Kamera na základe vopred definovanej udalosti: <strong>detekcie pohybu, ochrane objektov, prekročení línie a detekcii narušenia</strong> umožňuje využiť alarmové upozornenia vo forme: odoslania <strong>e-mailovej</strong> správy <strong>s prílohou</strong> v podobe fotografie z udalosti na určenú adresu, uloženia fotografie na <strong>FTP</strong> server, <strong>spustenia lokálneho alarmu</strong> alebo upozornenia v programe <strong>NVMS</strong>.<br/>Okrem toho pri pripojení kamery k rekordéru značky IPOX je možné po spustení alarmu z udalosti definovať aktiváciu alarmového výstupu, zobrazenie okna s príslušným textovým hlásením, aktiváciu signálu z bzučiaka zabudovaného v rekordéri alebo zobrazenie danej kamery na celej obrazovke monitora pripojeného k video výstupu.</p>
+<p>Kamera na základe vopred definovanej udalosti: <strong>detekcie pohybu, ochrane objektov, prekročení línie a detekcii narušenia</strong> umožňuje využiť alarmové upozornenia vo forme: odoslania <strong>e-mailovej</strong> správy <strong>s prílohou</strong> v podobe fotografie z udalosti na určenú adresu, uloženia fotografie na <strong>FTP</strong> server, <strong>spustenia lokálneho alarmu</strong> alebo upozornenia v programe <strong>NVMS</strong>.<br/>Okrem toho pri pripojení kamery k rekordéru značky IPOX je možné po poplachu z udalosti definovať spustenie poplachového výstupu, zobrazenie okna s príslušným textovým hlásením, spustenie signálu z bzučiaka zabudovaného v rekordéri alebo zobrazenie danej kamery na celej obrazovke monitora pripojeného k video výstupu.</p>
 </div>
 </div>
 <div>
@@ -8863,7 +8859,7 @@ Kompresia H.265
 <div>
 <h3>Záložný obraz systému</h3>
 <hr/>
-<p><strong>Záložný obraz systému</strong> je mechanizmus, ktorý zabezpečuje bezpečnosť a stabilitu prevádzky zariadenia <strong>počas aktualizácie softvéru</strong> (firmware). Táto funkcia chráni kameru pred poškodením systému v prípade chýb, prerušenia aktualizácie alebo v prípade, ak v systéme dochádza k častým výpadkom napájania. Keď používateľ spustí aktualizáciu, nový firmware sa nahraje do pamäte kamery, čo znamená, že hlavný obraz (Primary Image) sa prepíše novou verziou, pričom v pamäti existuje záložný obraz (Backup Image), ktorý zostáva nedotknutý. Ak je aktualizácia prerušená (napr. z dôvodu výpadku napájania alebo problému s aktualizačným súborom), kamera automaticky prejde na záložný obraz a použije ho na obnovenie funkčnosti. Po tejto operácii <strong>bude</strong> kamera <strong>10 minút v režime pozorovania</strong> a po uplynutí tejto doby sa oba obrazy synchronizujú. Výhody záložného systému spočívajú predovšetkým v <strong>nepretržitosti prevádzky monitorovacieho systému</strong>, bezpečnosti, napr. absencii rizika „zaseknutia“ kamery, a zjednodušení procesu aktualizácie softvéru.</p>
+<p><strong>Záložný obraz systému</strong> je mechanizmus, ktorý zabezpečuje bezpečnosť a stabilitu prevádzky zariadenia <strong>počas aktualizácie softvéru</strong> (firmware). Táto funkcia chráni kameru pred poškodením systému v prípade chýb, prerušenia aktualizácie alebo v prípade, ak v systéme dochádza k častým výpadkom napájania. Keď používateľ spustí aktualizáciu, nový firmware sa nahraje do pamäte kamery, čo znamená, že hlavný obraz (Primary Image) sa prepíše novou verziou, pričom v pamäti existuje záložný obraz (Backup Image), ktorý zostáva nedotknutý. Ak je aktualizácia prerušená (napr. z dôvodu výpadku napájania alebo problému s aktualizačným súborom), kamera automaticky prejde na záložný obraz a použije ho na obnovenie funkčnosti. Po tejto operácii <strong>bude</strong> kamera <strong>10 minút v režime pozorovania</strong> a po uplynutí tejto doby sa oba obrazy synchronizujú. Výhody záložného systému spočívajú predovšetkým v <strong>nepretržitom fungovaní monitorovacieho systému</strong>, bezpečnosti, napr. absencii rizika „zaseknutia“ kamery, a zjednodušení procesu aktualizácie softvéru.</p>
 </div>
 <div>
 <p><img alt="Kamera z technologią zapasowego obrazu systemu." src="https://www.napad.pl/data/produkty/IPOX/technologie/zapasowy_obraz_systemu/zapasowy_obraz_systemu_2.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -8881,7 +8877,7 @@ Kompresia H.265
 <li>integritu prenášaných údajov a nemožnosť akejkoľvek manipulácie s nimi zo strany tretích osôb;</li>
 <li>šifrovanie celej komunikácie medzi zariadeniami.</li>
 </ul>
-<p>Predstavovaná <strong>IP kamera s protokolom HTTPS</strong> umožňuje automatické vytvorenie certifikátu, nahratie už existujúceho certifikátu alebo vygenerovanie žiadosti o vydanie certifikátu od externého subjektu. Vzhľadom na vyššie uvedené vlastnosti sa <strong>IP kamera s šifrovaným pripojením</strong> odporúča na použitie v miestach vyžadujúcich silné zabezpečenie, ako sú: <strong>banky, vyšetrovacie väzby, väznice alebo verejné budovy</strong>.</p>
+<p>Predstavovaná <strong>IP kamera s protokolom HTTPS</strong> umožňuje automatické vytvorenie certifikátu, nahratie už existujúceho certifikátu alebo generovanie žiadosti o vydanie certifikátu od externého subjektu. Vzhľadom na vyššie uvedené vlastnosti sa <strong>IP kamera s šifrovaným pripojením</strong> odporúča na použitie v miestach vyžadujúcich silné zabezpečenie, ako sú: <strong>banky, vyšetrovacie väzby, väznice alebo verejné budovy</strong>.</p>
 </div>
 <div>
 <p><img alt="Kamera z technologią HTTPS." src="https://www.napad.pl/data/produkty/IPOX/technologie/https_ipox_600.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
@@ -8893,7 +8889,7 @@ Kompresia H.265
 <div>
 <h3>Moderný prenos dát pomocou protokolu RTMP</h3>
 <hr/>
-<p>Kamera ponúka širokú škálu riešení súvisiacich s možnosťami prenosu údajov z monitorovania prostredníctvom rôznych spôsobov prenosu. Jednou z najzaujímavejších metód dostupných pre používateľa je možnosť streamovania obrazu v reálnom čase s využitím moderného <strong>protokolu RTMP</strong>. Služba <strong>Real Time Messaging Protocol </strong>umožňuje nielen rýchly prenos dát priamo na externý server, ale je aj jednoduchá na obsluhu a ponúka široké možnosti konfigurácie, ktoré sú dostupné priamo z menu. Monitorovací systém založený na kamerách vybavených podporou protokolu RTMP, ktorý bude navyše pripojený k externému serveru, sa osvedčí najmä v profesionálnom monitorovaní umožňujúcom prenos rôznych typov udalostí širokému okruhu príjemcov.</p>
+<p>Kamera ponúka širokú škálu riešení súvisiacich s možnosťami prenosu údajov z monitorovania prostredníctvom rôznych spôsobov prenosu. Jednou z najzaujímavejších metód dostupných pre používateľa je možnosť streamovania obrazu v reálnom čase s využitím moderného <strong>protokolu RTMP</strong>. Služba <strong>Real Time Messaging Protocol </strong>umožňuje nielen rýchly prenos dát priamo na externý server, ale je aj jednoduchá na obsluhu a ponúka široké možnosti konfigurácie, ktoré sú dostupné priamo z menu. Monitorovací systém založený na kamerách vybavených podporou protokolu RTMP, ktorý bude navyše pripojený k externému serveru, sa osvedčí najmä v profesionálnom monitorovaní, ktoré umožňuje prenos rôznych typov udalostí širokému okruhu príjemcov.</p>
 </div>
 </div>
 </div>
@@ -9101,7 +9097,7 @@ IP PRO Manager
 <tbody>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Snímač</th>
-<td class="text-center" colspan="2" style="border:1px solid #ccc;padding:6px;">1/3&quot; 4MP Progressive Scan CMOS</td>
+<td class="text-center" colspan="2" style="border:1px solid #ccc;padding:6px;">1/3&quot; 4MP CMOS s progresívnym snímaním</td>
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Rozlíšenie</th>
@@ -9185,7 +9181,7 @@ IP PRO Manager
 <td class="text-center" colspan="2" style="border:1px solid #ccc;padding:6px;">Áno, prepínanie z IR osvetľovača na LED pri detekcii osoby / vozidla / jednostopového vozidla (motocykel / bicykel) pre 4 definované zóny</td>
 </tr>
 <tr>
-<th scope="row" style="border:1px solid #ccc;padding:6px;">Doba udržania bieleho svetla</th>
+<th scope="row" style="border:1px solid #ccc;padding:6px;">Doba svietenia bieleho svetla</th>
 <td class="text-center" colspan="2" style="border:1px solid #ccc;padding:6px;">10 ~ 300 s</td>
 </tr>
 <tr>
@@ -9206,7 +9202,7 @@ IP PRO Manager
 <p>1. LED (viditeľné, biele svetlo) – cez deň zostáva osvetľovač vypnutý; zapína sa automaticky po zotmení; tento režim zabezpečuje farebný obraz v noci</p>
 <p>2. IR (neviditeľné, infračervené svetlo) – po zotmení kamera osvetľuje obraz infračerveným svetlom; farebný obraz cez deň, čiernobiely v noci</p>
 <p>3. Smart IR + LED (predvolený) – režim kombinujúci oba typy osvetlenia; po zotmení kamera osvetľuje obraz infračerveným svetlom a až po detekcii osoby na obraze zapne biele svetlo a prepne do farebného režimu</p><br/>
-                    *Ak chcete zmeniť režim osvetlenia, prejdite v nastaveniach na kartu Nastavenia -&gt; Stream -&gt; Zobrazenie -&gt; Typ osvetlenia a tam vyberte príslušnú možnosť</td>
+                    *Ak chcete zmeniť režim osvetlenia, v nastaveniach prejdite na kartu Nastavenia -&gt; Stream -&gt; Zobrazenie -&gt; Typ osvetlenia a tam vyberte príslušnú možnosť</td>
 </tr>
 </tbody>
 <thead>
@@ -9224,7 +9220,7 @@ IP PRO Manager
 <td class="text-center" colspan="2" style="border:1px solid #ccc;padding:6px;">
 <p>Hlavný prúd: H.265+ / H.265 / H.264+ / H.264</p>
 <p>Vedľajší prúd: H.265+ / H.265 / H.264+ / H.264 / MJPEG</p>
-                    Dodatočný prúd: H.265+ / H.265 / H.264+ / H.264 / MJPEG
+                    Dodatočný tok: H.265+ / H.265 / H.264+ / H.264 / MJPEG
                 </td>
 </tr>
 <tr>
@@ -9391,7 +9387,7 @@ IP PRO Manager
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Zabezpečenie heslom</th>
-<td class="text-center" colspan="2" style="border:1px solid #ccc;padding:6px;">3 úrovne obtiažnosti a možnosť nastavenia času, po ktorom je potrebné zmeniť heslo na nové (od 30 dní po nikdy)</td>
+<td class="text-center" colspan="2" style="border:1px solid #ccc;padding:6px;">3 úrovne obtiažnosti a možnosť nastavenia času, po ktorom je potrebné zmeniť heslo na nové (od 30 dní do nikdy)</td>
 </tr>
 <tr>
 <th scope="row" style="border:1px solid #ccc;padding:6px;">Možnosť odpojenia pripojenia</th>
@@ -9555,7 +9551,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>172.60</PRICE>
+    <PRICE>172.54</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13565_kamera_ip_dual_px_di4036ir3dlw_4mp_3_6mm_biala_ipox_glowne_l_.jpg</IMAGE>
