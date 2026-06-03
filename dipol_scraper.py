@@ -188,7 +188,42 @@ def _short_description(card, name: str, brand: str) -> str:
     return text.strip()
 
 
-# ---------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# Sprehladnenie tabuliek v popise
+# --------------------------------------------------------------------------
+def style_tables(block):
+    """Vyrazna mriezka, sive zahlavie, zarovnanie kratsich riadkov na plnu sirku
+    (len ak tabulka NEMA rowspan), zabalenie sirokych tabuliek do posuvneho ramca."""
+    def _row_width(tr):
+        return sum(int(c.get("colspan", 1) or 1)
+                   for c in tr.find_all(["td", "th"], recursive=False))
+
+    for tb in block.select("table"):
+        tb["border"] = "1"
+        tb["cellspacing"] = "0"
+        tb["style"] = ("border-collapse:collapse;border:1px solid #888;"
+                       "width:100%;margin:10px 0;font-size:14px;")
+        if not any(c.has_attr("rowspan") for c in tb.find_all(["td", "th"])):
+            rows = tb.find_all("tr")
+            max_cols = max((_row_width(tr) for tr in rows), default=0)
+            for tr in rows:
+                cells = tr.find_all(["td", "th"], recursive=False)
+                w = _row_width(tr)
+                if cells and 0 < w < max_cols:
+                    last = cells[-1]
+                    last["colspan"] = str(int(last.get("colspan", 1) or 1) + (max_cols - w))
+        for cell in tb.find_all(["td", "th"]):
+            cell["style"] = "border:1px solid #888;padding:6px 8px;vertical-align:top;"
+        for th in tb.find_all("th"):
+            th["style"] = ("border:1px solid #888;padding:6px 8px;background:#f0f0f0;"
+                           "font-weight:bold;text-align:left;")
+    for tb in list(block.select("table")):
+        wrap = BeautifulSoup('<div style="overflow-x:auto;margin:10px 0;"></div>',
+                             "html.parser").div
+        tb.wrap(wrap)
+
+
+# --------------------------------------------------------------------------
 # Parsovanie detailu produktu (dlhy popis + galeria)
 # ---------------------------------------------------------------------------
 def parse_detail(html: str, code: str = "") -> dict:
@@ -221,13 +256,7 @@ def parse_detail(html: str, code: str = "") -> dict:
             href = an.get("href") or ""
             if href.startswith("/"):
                 an["href"] = BASE + href
-        # tabulky dipolu nemaju vlastne ramovanie -> doplnime inline,
-        # aby boli citatelne aj bez dipol CSS
-        for tb in block.select("table"):
-            tb["style"] = "border-collapse:collapse;border:1px solid #ccc;width:100%;margin:8px 0;"
-            tb["border"] = "1"
-        for cell in block.select("td, th"):
-            cell["style"] = "border:1px solid #ccc;padding:6px;"
+        style_tables(block)
         html_desc = block.decode_contents().replace("]]>", "]]&gt;")
         out["description"] = re.sub(r"\s+", " ", html_desc).strip()[:25000]
 
@@ -247,9 +276,9 @@ def parse_detail(html: str, code: str = "") -> dict:
     return out
 
 
-# ---------------------------------------------------------------------------
+# --------------------------------------------------------------------------
 # Generovanie Shoptet XML
-# ---------------------------------------------------------------------------
+# --------------------------------------------------------------------------
 def round_price(value: float, cfg: dict) -> str:
     dec = cfg["cena"]["zaokruhlit_na_desatiny"]
     return f"{round(value, dec):.{dec}f}"
@@ -285,7 +314,6 @@ def build_shopitem(p: dict, cfg: dict) -> str | None:
     if p.get("shortDescription"):
         item.append(f"    <SHORT_DESCRIPTION>{escape(p['shortDescription'])}</SHORT_DESCRIPTION>")
     if p.get("description"):
-        # popis je HTML (tabulky/formatovanie) -> CDATA
         item.append(f"    <DESCRIPTION><![CDATA[{p['description']}]]></DESCRIPTION>")
     if p.get("manufacturer"):
         item.append(f"    <MANUFACTURER>{escape(p['manufacturer'])}</MANUFACTURER>")
@@ -308,7 +336,7 @@ def build_shopitem(p: dict, cfg: dict) -> str | None:
 
 
 def wrap_shop(items_xml: list[str]) -> str:
-    """Obali zoznam <SHOPITEM> blokov do <SHOP> koreňa s XML hlavickou."""
+    """Obali zoznam <SHOPITEM> blokov do <SHOP> korena s XML hlavickou."""
     parts = ['<?xml version="1.0" encoding="utf-8"?>', "<SHOP>"]
     parts.extend(items_xml)
     parts.append("</SHOP>")
@@ -330,7 +358,7 @@ def build_xml(products: list[dict], cfg: dict) -> str:
 
 # ---------------------------------------------------------------------------
 # Hlavny beh
-# ---------------------------------------------------------------------------
+# --------------------------------------------------------------------------
 def run(cfg: dict, base_dir: Path):
     session = make_session(cfg)
     by_code: dict[str, dict] = {}
@@ -351,7 +379,6 @@ def run(cfg: dict, base_dir: Path):
         for prod in found:
             code = prod["code"]
             if code in by_code:
-                # produkt uz mame z inej kategorie -> pridaj kategoriu
                 if nazov not in by_code[code]["categories"]:
                     by_code[code]["categories"].append(nazov)
                 continue
