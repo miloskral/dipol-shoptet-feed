@@ -1476,7 +1476,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>83.72</PRICE>
+    <PRICE>83.78</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/11713_kamera_ip_dome_px_di2028ir2dlpw_2mp_2_8mm_ipox_glowne_l_.jpg</IMAGE>
@@ -3187,7 +3187,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>122.25</PRICE>
+    <PRICE>122.34</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_kamera_ip_dome_px_dic4028dlpw_4mp_2_8mm_glowne_v3_l_.jpg</IMAGE>
@@ -4002,7 +4002,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>135.57</PRICE>
+    <PRICE>135.67</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14744_kamera_ip_turret_dual_ds_2cd1343g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -4872,7 +4872,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>135.86</PRICE>
+    <PRICE>135.96</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13654_kamera_ip_dome_px_di4028ir2dlw_4mp_glowne_v2_l_.jpg</IMAGE>
@@ -5694,7 +5694,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>145.42</PRICE>
+    <PRICE>145.53</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14743_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -6564,7 +6564,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>149.48</PRICE>
+    <PRICE>149.59</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14428_kamera_ip_dome_px_di6028ir2dlw_6mp_2_8mm_biala_glowne_l_.jpg</IMAGE>
@@ -7360,7 +7360,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>150.06</PRICE>
+    <PRICE>150.17</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14780_ds_2cd1363g2_liu2_8mm_kamera_ip_6mpx_hikvision_glowne_l_.jpg</IMAGE>
@@ -8163,433 +8163,13 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>160.49</PRICE>
+    <PRICE>160.60</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14779_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14779_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_srodek_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14779_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_spod_z_przew_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14779_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_akces_l_.jpg</IMAGE>
-    </IMAGES>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>IPC-HDW1239V-A-IL-0280B</CODE>
-    <NAME>IPC-HDW1239V-A-IL-0280B - kamera IP Smart Dual 2Mpx</NAME>
-    <DESCRIPTION><![CDATA[<h3>Špecifikácia</h3>
-<div class="col">
-<h3 class="mb-4 h4">Specyfikacja techniczna</h3>
-<div class="table-responsive">
-<div style="overflow-x:auto;margin:10px 0;"><table border="1" cellspacing="0" class="table" style="border-collapse:collapse;border:1px solid #888;width:100%;margin:10px 0;font-size:14px;">
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;" width="30%">Główne</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;" width="70%"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Przetwornik</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1/2,8" 2MP image sensor, low illuminance, HD CMOS</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozdzielczość</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2Mpx, 1920 (H) x 1080 (V) pikseli</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">RAM / ROM</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">128MB / 128MB</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">System skanowania</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Progresywny</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Migawka</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczna / ręczna, 1/3s ~ 1/100000s</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Stosunek sygnału do szumu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&gt;56dB</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Minimalne oświetlenie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0,005 Lux/F1,6 (Kolor, 30 IRE)<br/>
-                                        0,0005 Lux/F1,6 (B/W, 30 IRE)<br/>
-                                        0 Lux (IR / LED wł.)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Regulacja położenia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Panorama: 0° ~ 360°<br/>
-                                        Nachylenie: 0° ~ 78°<br/>
-                                        Obrót: 0° ~ 360°</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Oświetlacz</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Typ i liczba diod</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1 dioda IR LED (podczerwień)<br/>
-                                        1 dioda LED (światło białe)
-                                </td></tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasięg oświetlacza</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IR: 30m<br/>
-                                        LED: 30m
-                                    </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola oświetlacza - wł. / wył.</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczna / ręczna</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryby pracy oświetlaczy</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tryb IR<br/>
-                                        Tryb Warm Light<br/>
-                                        Smart Illumination - IR + LED<br/>
-                                        Harmonogram</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb IR</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Praca: tylko oświetlacz IR - podczerwień, niewidoczny dla człowieka;<br/>
-<em>W momencie zapadnięcia zmroku lub w warunkach niskiego oświetlenia, kamera doświetla monitorowany obszar wiązką światła podczerwieni;</em><br/>
-<strong>Obraz w dzień</strong>: kolorowy (wył. oświetlacz)<br/>
-<strong>Obraz w nocy</strong>: czarno-biały<br/><br/>
-                                        Tryb: automatyczny, ręczny, wyłączony<br/>
-                                        Regulacja poziomu intensywności oświetlenia IR: 0 ~ 100 (domyślnie: 100 - w trybie automatycznym)
-                                    </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb Warm Light</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Praca: tylko oświetlacz LED - widzialne białe światło;<br/>
-<em>W momencie zapadnięcia zmroku, kamera automatycznie włącza oświetlenie białymi diodami;</em><br/>
-<strong>Obraz w dzień</strong>: kolorowy (wył. oświetlacz)<br/>
-<strong>Obraz w nocy</strong>: kolorowy<br/><br/>
-                                        Tryb: automatyczny, ręczny, wyłączony<br/>
-                                         Regulacja poziomu intensywności oświetlenia LED (białe światło): 0 ~ 100 (domyślnie: 100 - w trybie automatycznym / 50 - w trybie ręcznym)
-                                </td></tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb Smart Illumination (IR + LED)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Praca: oświetlacz IR + oświetlacz LED (SMD - tylko po wykryciu człowieka)<br/>
-<em>Zasada działania:<br/>
-                                        1. W momencie zapadnięcia zmroku lub w warunkach niskiego oświetlenia, kamera doświetla monitorowany obszar wiązką światła podczerwieni;<br/>
-                                        2. W chwili wykrycia człowieka w obserwowanym obszarze (zdefiniowanej strefie detekcji ruchu), kamera automatycznie włączy diody światła białego i przełączy się w tryb kolorowy;<br/>
-                                        3. Jeśli wykryty obiekt opuści monitorowany obszar, oświetlacz LED w kamerze po określonym czasie zostanie automatycznie przełączony na oświetlenie podczerwieni IR;</em><br/><br/>
-                                        Tryb: automatyczny, wyłączony<br/>
-                                        Regulacja czasu pracy oświetlenia LED (białe światło) po opuszczeniu obszaru przez człowieka: 30s. ~ 300s. (domyślnie: 60s.)<br/>
-                                        Regulacja poziomu intensywności oświetlenia LED (białe światło): 0 ~ 100 (domyślnie: 100 - w trybie automatycznym / 50 - w trybie ręcznym)
-                                    </td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obiektyw</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rodzaj</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Stałoogniskowy</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Montaż</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">M12</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ogniskowa</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2,8mm (F1,6)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kąt widzenia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">H: 104°<br/>
-                                       V: 55°<br/>
-                                        D: 124°
-                                    </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola przysłony</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Stała</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb Makro (ostrość od)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0,8m</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasięg DORI</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wykrywanie: 44,1m<br/>
-                                        Obserwacja: 17,7m<br/>
-                                        Rozpoznanie: 8,8m<br/>
-                                        Identyfikacja: 4,4m</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obraz</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompresja wideo</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">H.265 / H.264 / H.264H / H.264B<br/>
-                                        MJPEG (strumień pomocniczy)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Smart Kodek</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak (H.265+ / H.264+)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Jednoczesna liczba strumieni wideo</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozdzielczość przetwarzania</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1080p - 2Mpx (1920x1080) / 960p - 1,3Mpx (1280x960) / 720p - 1Mpx (1280x720) / D1 (704x576 / 704x480) / CIF (352x288 / 352x240) / VGA (640x480)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/>(główny strumień)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">PAL: 25kl/s @ 2Mpx<br/>
-                                        NTSC: 30kl/s @ 2Mpx</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/>(pomocniczy strumień)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">PAL: 25kl/s @ D1<br/>
-                                        NTSC: 30kl/s @ D1</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola szybkości transmisji</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Zmienna (VBR) / stała (CBR)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Bitrate</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">32Kbps ~ 4096Kbps (H.264)<br/>
-                                        12Kbps ~ 4096Kbps (H.265)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Dzień / Noc</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczny (ICR) / kolor / czarno-biały</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompensacja tła</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">BLC / HLC / DWDR</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola wzmocnienia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczna (AGC), ręczna</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Redukcja szumów</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3D NR</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Balans bieli</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczny (AWB) / zewnętrzny / ręczny / światło naturalne / lampa uliczna / region</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Detekcja ruchu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak (4 obszary, prostokąty)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obszar zainteresowania (Roi)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak (4 obszary)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentne oświetlenie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obrót obrazu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0°, 90°, 180°, 270° (wsparcie 90°, 270° dla rozdzielczości 1920x1080 i niższej)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Lustrzane odbicie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wsparcie</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Strefy prywatności</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wł. / wył. (4 obszary)</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Audio</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompresja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">G.711a / G.711Mu / PCM / G.726</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Mikrofon</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak (wbudowany)</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentne funkcje</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">SMD człowiek</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Klasyfikacja człowieka z filtrowaniem fałszywych alarmów</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentne wyszukiwanie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Współpraca z Smart NVR do dokładnego inteligentnego wyszukiwania, wyodrębnianie zdarzeń i scalanie w filmy ze zdarzeń</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Alarm</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wyzwalacz zdarzenia alarmowego</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wykrycie ruchu, wykrywanie dźwięku, odłączenie od sieci, nielegalny dostęp, konflikt adresów IP, błąd pamięci, SMD człowiek</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Interfejs</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ethernet</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x RJ45 10/100Mbps Base-T</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie DC 12V</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x gniazdo 5,5/2,1 na przewodzie</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Sieć</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługiwane protokoły</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IPv4, IPv6, HTTP, TCP, UDP, ARP, RTP, RTSP, RTCP, RTMP, SMTP, FTP, DHCP, DNS, DDNS, NTP, Multicast, ICMP, IGMP, P2P</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Cyber bezpieczeństwo</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Szyfrowanie wideo, konfiguracja szyfrowania, WSSE, blokada konta, filtrowanie po IP / MAC, dzienniki bezpieczeństwa, generowanie i importowanie cert. X.509, HTTPS, 802.1x, zaufane wykonanie, zaufana aktualizacja</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">SDK i API</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługa</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ONVIF (Profil S / Profil T), CGI, P2P</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Użytkownicy online</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">6 użytkowników (całkowita przepustowość 24M)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Archiwizacja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">FTP</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługa przez przeglądarki www</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IE: IE9 i nowsze wersje<br/>
-                                        Chrome (wersja 41 lub nowsze wersje)<br/>
-                                        Firefox (wersja 50 lub nowsze wersje)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zdalne sterowanie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Smart PSS, Smart PSS Lite, DSS, DMSS, P2P<br/>
-                                        urządzenia mobilne: iOS, Android</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pozostałe</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Certyfikaty</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">CE-LVD: EN62368-1<br/>
-                                        CE-EMC:: Electromagnetic Compatibility Directive 2014/30/EU<br/>
-                                        2023-08-02</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Konstrukcja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Część kulista: plastik + metal<br/>
-                                        Uchwyt części kulki: plastik<br/>
-                                        Pierścień montażowy: plastik
-                                    </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Klasa szczelności</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IP67</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">DC 12V<br/>
-                                        PoE DC 48V (802.3af)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pobór mocy</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Podstawowy: 1,8W (12V DC), 2,3W (PoE)<br/>
-                                        Maks. 4,5W (12V DC), 5,6W (PoE) - WDR +  diody wł. + H.265
-                                     </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wilgotność</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0 ~ 95% (bez kondensacji)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Temperatura pracy</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">-40°C ~ +60°C</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Waga</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">330g</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wymiary (śr./wys.)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">⌀109,9x100,9mm</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Gwarancja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">36 miesięcy</td>
-</tr>
-</tbody>
-</table></div>
-</div>
-</div>
-]]></DESCRIPTION>
-    <MANUFACTURER>Dahua</MANUFACTURER>
-    <CATEGORIES>
-      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <PRICE>172.07</PRICE>
-    <CURRENCY>EUR</CURRENCY>
-    <IMAGES>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_dh_ipc_hdw1239v_a_ii_v2_glowne_bez_podsw_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_dh_ipc_hdw1239v_a_ii_v2_front_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_ip_2mpx_dh_ipc_hdw1239v_a_il_spod_z_przew_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_ip_2mpx_dh_ipc_hdw1239v_a_il_akces_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_ip_2mpx_dh_ipc_hdw1239v_a_il_box_l_.jpg</IMAGE>
     </IMAGES>
   </SHOPITEM>
   <SHOPITEM>
@@ -9602,7 +9182,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>172.07</PRICE>
+    <PRICE>171.04</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13565_kamera_ip_dual_px_di4036ir3dlw_4mp_3_6mm_biala_ipox_glowne_l_.jpg</IMAGE>
@@ -9615,6 +9195,426 @@ IP PRO Manager
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13565_kamera_ip_dual_px_di4036ir3dlw_4mp_3_6mm_biala_ipox_spod_z_przew_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13565_ir2_ir3dl_dome_akcesoria_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13565_kamera_ip_dual_px_di4036ir3dlw_4mp_3_6mm_biala_ipox_box_l_.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>IPC-HDW1239V-A-IL-0280B</CODE>
+    <NAME>IPC-HDW1239V-A-IL-0280B - kamera IP Smart Dual 2Mpx</NAME>
+    <DESCRIPTION><![CDATA[<h3>Špecifikácia</h3>
+<div class="col">
+<h3 class="mb-4 h4">Specyfikacja techniczna</h3>
+<div class="table-responsive">
+<div style="overflow-x:auto;margin:10px 0;"><table border="1" cellspacing="0" class="table" style="border-collapse:collapse;border:1px solid #888;width:100%;margin:10px 0;font-size:14px;">
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;" width="30%">Główne</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;" width="70%"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Przetwornik</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1/2,8" 2MP image sensor, low illuminance, HD CMOS</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozdzielczość</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2Mpx, 1920 (H) x 1080 (V) pikseli</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">RAM / ROM</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">128MB / 128MB</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">System skanowania</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Progresywny</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Migawka</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczna / ręczna, 1/3s ~ 1/100000s</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Stosunek sygnału do szumu</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&gt;56dB</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Minimalne oświetlenie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0,005 Lux/F1,6 (Kolor, 30 IRE)<br/>
+                                        0,0005 Lux/F1,6 (B/W, 30 IRE)<br/>
+                                        0 Lux (IR / LED wł.)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Regulacja położenia</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Panorama: 0° ~ 360°<br/>
+                                        Nachylenie: 0° ~ 78°<br/>
+                                        Obrót: 0° ~ 360°</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Oświetlacz</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Typ i liczba diod</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1 dioda IR LED (podczerwień)<br/>
+                                        1 dioda LED (światło białe)
+                                </td></tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasięg oświetlacza</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IR: 30m<br/>
+                                        LED: 30m
+                                    </td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola oświetlacza - wł. / wył.</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczna / ręczna</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryby pracy oświetlaczy</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tryb IR<br/>
+                                        Tryb Warm Light<br/>
+                                        Smart Illumination - IR + LED<br/>
+                                        Harmonogram</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb IR</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Praca: tylko oświetlacz IR - podczerwień, niewidoczny dla człowieka;<br/>
+<em>W momencie zapadnięcia zmroku lub w warunkach niskiego oświetlenia, kamera doświetla monitorowany obszar wiązką światła podczerwieni;</em><br/>
+<strong>Obraz w dzień</strong>: kolorowy (wył. oświetlacz)<br/>
+<strong>Obraz w nocy</strong>: czarno-biały<br/><br/>
+                                        Tryb: automatyczny, ręczny, wyłączony<br/>
+                                        Regulacja poziomu intensywności oświetlenia IR: 0 ~ 100 (domyślnie: 100 - w trybie automatycznym)
+                                    </td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb Warm Light</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Praca: tylko oświetlacz LED - widzialne białe światło;<br/>
+<em>W momencie zapadnięcia zmroku, kamera automatycznie włącza oświetlenie białymi diodami;</em><br/>
+<strong>Obraz w dzień</strong>: kolorowy (wył. oświetlacz)<br/>
+<strong>Obraz w nocy</strong>: kolorowy<br/><br/>
+                                        Tryb: automatyczny, ręczny, wyłączony<br/>
+                                         Regulacja poziomu intensywności oświetlenia LED (białe światło): 0 ~ 100 (domyślnie: 100 - w trybie automatycznym / 50 - w trybie ręcznym)
+                                </td></tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb Smart Illumination (IR + LED)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Praca: oświetlacz IR + oświetlacz LED (SMD - tylko po wykryciu człowieka)<br/>
+<em>Zasada działania:<br/>
+                                        1. W momencie zapadnięcia zmroku lub w warunkach niskiego oświetlenia, kamera doświetla monitorowany obszar wiązką światła podczerwieni;<br/>
+                                        2. W chwili wykrycia człowieka w obserwowanym obszarze (zdefiniowanej strefie detekcji ruchu), kamera automatycznie włączy diody światła białego i przełączy się w tryb kolorowy;<br/>
+                                        3. Jeśli wykryty obiekt opuści monitorowany obszar, oświetlacz LED w kamerze po określonym czasie zostanie automatycznie przełączony na oświetlenie podczerwieni IR;</em><br/><br/>
+                                        Tryb: automatyczny, wyłączony<br/>
+                                        Regulacja czasu pracy oświetlenia LED (białe światło) po opuszczeniu obszaru przez człowieka: 30s. ~ 300s. (domyślnie: 60s.)<br/>
+                                        Regulacja poziomu intensywności oświetlenia LED (białe światło): 0 ~ 100 (domyślnie: 100 - w trybie automatycznym / 50 - w trybie ręcznym)
+                                    </td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obiektyw</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rodzaj</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Stałoogniskowy</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Montaż</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">M12</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ogniskowa</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2,8mm (F1,6)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kąt widzenia</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">H: 104°<br/>
+                                       V: 55°<br/>
+                                        D: 124°
+                                    </td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola przysłony</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Stała</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb Makro (ostrość od)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0,8m</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasięg DORI</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wykrywanie: 44,1m<br/>
+                                        Obserwacja: 17,7m<br/>
+                                        Rozpoznanie: 8,8m<br/>
+                                        Identyfikacja: 4,4m</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obraz</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompresja wideo</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">H.265 / H.264 / H.264H / H.264B<br/>
+                                        MJPEG (strumień pomocniczy)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Smart Kodek</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak (H.265+ / H.264+)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Jednoczesna liczba strumieni wideo</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozdzielczość przetwarzania</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1080p - 2Mpx (1920x1080) / 960p - 1,3Mpx (1280x960) / 720p - 1Mpx (1280x720) / D1 (704x576 / 704x480) / CIF (352x288 / 352x240) / VGA (640x480)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/>(główny strumień)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">PAL: 25kl/s @ 2Mpx<br/>
+                                        NTSC: 30kl/s @ 2Mpx</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/>(pomocniczy strumień)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">PAL: 25kl/s @ D1<br/>
+                                        NTSC: 30kl/s @ D1</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola szybkości transmisji</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Zmienna (VBR) / stała (CBR)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Bitrate</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">32Kbps ~ 4096Kbps (H.264)<br/>
+                                        12Kbps ~ 4096Kbps (H.265)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Dzień / Noc</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczny (ICR) / kolor / czarno-biały</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompensacja tła</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">BLC / HLC / DWDR</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola wzmocnienia</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczna (AGC), ręczna</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Redukcja szumów</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3D NR</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Balans bieli</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczny (AWB) / zewnętrzny / ręczny / światło naturalne / lampa uliczna / region</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Detekcja ruchu</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak (4 obszary, prostokąty)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obszar zainteresowania (Roi)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak (4 obszary)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentne oświetlenie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obrót obrazu</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0°, 90°, 180°, 270° (wsparcie 90°, 270° dla rozdzielczości 1920x1080 i niższej)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Lustrzane odbicie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wsparcie</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Strefy prywatności</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wł. / wył. (4 obszary)</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Audio</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompresja</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">G.711a / G.711Mu / PCM / G.726</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Mikrofon</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak (wbudowany)</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentne funkcje</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">SMD człowiek</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Klasyfikacja człowieka z filtrowaniem fałszywych alarmów</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentne wyszukiwanie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Współpraca z Smart NVR do dokładnego inteligentnego wyszukiwania, wyodrębnianie zdarzeń i scalanie w filmy ze zdarzeń</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Alarm</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wyzwalacz zdarzenia alarmowego</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wykrycie ruchu, wykrywanie dźwięku, odłączenie od sieci, nielegalny dostęp, konflikt adresów IP, błąd pamięci, SMD człowiek</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Interfejs</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ethernet</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x RJ45 10/100Mbps Base-T</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie DC 12V</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x gniazdo 5,5/2,1 na przewodzie</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Sieć</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługiwane protokoły</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IPv4, IPv6, HTTP, TCP, UDP, ARP, RTP, RTSP, RTCP, RTMP, SMTP, FTP, DHCP, DNS, DDNS, NTP, Multicast, ICMP, IGMP, P2P</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Cyber bezpieczeństwo</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Szyfrowanie wideo, konfiguracja szyfrowania, WSSE, blokada konta, filtrowanie po IP / MAC, dzienniki bezpieczeństwa, generowanie i importowanie cert. X.509, HTTPS, 802.1x, zaufane wykonanie, zaufana aktualizacja</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">SDK i API</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługa</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ONVIF (Profil S / Profil T), CGI, P2P</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Użytkownicy online</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">6 użytkowników (całkowita przepustowość 24M)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Archiwizacja</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">FTP</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługa przez przeglądarki www</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IE: IE9 i nowsze wersje<br/>
+                                        Chrome (wersja 41 lub nowsze wersje)<br/>
+                                        Firefox (wersja 50 lub nowsze wersje)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zdalne sterowanie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Smart PSS, Smart PSS Lite, DSS, DMSS, P2P<br/>
+                                        urządzenia mobilne: iOS, Android</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pozostałe</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Certyfikaty</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">CE-LVD: EN62368-1<br/>
+                                        CE-EMC:: Electromagnetic Compatibility Directive 2014/30/EU<br/>
+                                        2023-08-02</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Konstrukcja</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Część kulista: plastik + metal<br/>
+                                        Uchwyt części kulki: plastik<br/>
+                                        Pierścień montażowy: plastik
+                                    </td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Klasa szczelności</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IP67</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">DC 12V<br/>
+                                        PoE DC 48V (802.3af)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pobór mocy</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Podstawowy: 1,8W (12V DC), 2,3W (PoE)<br/>
+                                        Maks. 4,5W (12V DC), 5,6W (PoE) - WDR +  diody wł. + H.265
+                                     </td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wilgotność</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0 ~ 95% (bez kondensacji)</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Temperatura pracy</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">-40°C ~ +60°C</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Waga</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">330g</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wymiary (śr./wys.)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">⌀109,9x100,9mm</td>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Gwarancja</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">36 miesięcy</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
+]]></DESCRIPTION>
+    <MANUFACTURER>Dahua</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>172.20</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_dh_ipc_hdw1239v_a_ii_v2_glowne_bez_podsw_l_.jpg</IMAGE>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_dh_ipc_hdw1239v_a_ii_v2_front_l_.jpg</IMAGE>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_ip_2mpx_dh_ipc_hdw1239v_a_il_spod_z_przew_l_.jpg</IMAGE>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_ip_2mpx_dh_ipc_hdw1239v_a_il_akces_l_.jpg</IMAGE>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_ip_2mpx_dh_ipc_hdw1239v_a_il_box_l_.jpg</IMAGE>
     </IMAGES>
   </SHOPITEM>
 </SHOP>
