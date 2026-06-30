@@ -4,19 +4,19 @@
    "nazov": "Káble",
    "slug": "kable",
    "subor": "catalog_kable.json",
-   "pocet": 93
+   "pocet": 92
   },
   {
    "nazov": "Monitoring > Káble",
    "slug": "monitoring-kable",
    "subor": "catalog_monitoring-kable.json",
-   "pocet": 67
+   "pocet": 66
   },
   {
    "nazov": "LAN a WLAN > Káble",
    "slug": "lan-kable",
    "subor": "catalog_lan-kable.json",
-   "pocet": 49
+   "pocet": 48
   },
   {
    "nazov": "Optické káble",
