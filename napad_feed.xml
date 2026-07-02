@@ -1720,47 +1720,60 @@ Dźwięk: mono</td>
 </div>
 </div>
 </div>
-<div>
-<!-- Lewa kolumna -->
-<div>
-<div>
-<h2>
+<!--S5L-D
+<div class="row mt-4 d-flex justify-content-center">
+    <!-- Lewa kolumna
+    <div class="col-sm-12 col-md-6 col-lg-6 mb-3 mb-md-0 d-lg-flex">
+        <div class="inner-box text-center shadow p-3 bg-white border rounded-175 w-100 h-100">
+            <h2 class="text-center mt-2 mb-3 fw-bold text-primary">
                 Alarm świetlny - skuteczna ochrona przed intruzem
             </h2>
-<hr/>
-<p>
-<strong>Alarm świetlny</strong> to funkcja, która skutecznie zniechęca potencjalnych intruzów do wejścia
+            <hr class="w-75 mx-auto" />
+            <p class="text-center">
+                <strong>Alarm świetlny</strong> to funkcja, która skutecznie zniechęca potencjalnych intruzów do wejścia
                 na teren obiektu lub do budynku. Funkcja jest <strong>zintegrowana z ochroną perymetryczną</strong> i po
                 naruszeniu strefy detekcji lub przekroczeniu wyznaczonej linii przez człowieka automatycznie uruchamia
                 <strong>jaskrawy alarm w postaci białego światła</strong>.
             </p>
-<span><i></i>Zobacz jak skonfigurować</span>
-</div>
-</div>
-<!-- Prawa kolumna -->
-<div>
-<div>
-<h2>Szybkie rozbrajanie i uzbrajanie alarmu</h2>
-<hr/>
-<p>
+            <span class="text-center pb-2 pt-2 d-block d-sm-inline mx-auto"
+                ><a
+                    class="link js-get-navigation btn btn-outline-primary rounded mt-1"
+                    title="Konfiguracja Dual Light"
+                    href="#nav-custom-2480"
+                    target="_blank"
+                    role="button"
+                    data-id-navigation="nav-custom-2480"
+                    ><i class="fa fa-info-circle mr-2 fa-lg"></i>Zobacz jak skonfigurować</a
+                ></span
+            >
+        </div>
+    </div>
+
+    <!-- Prawa kolumna
+    <div class="col-sm-12 col-md-6 col-lg-6 d-lg-flex">
+        <div class="inner-box text-center shadow p-3 bg-white border rounded-175 w-100 h-100">
+            <h2 class="text-center mt-2 mb-3 fw-bold text-primary">Szybkie rozbrajanie i uzbrajanie alarmu</h2>
+            <hr class="w-75 mx-auto" />
+            <p class="text-center">
                 Kamery IPOX umożliwiają
                 <strong>szybkie i łatwe rozbrojenie / uzbrajanie systemu zdarzeń alarmowych</strong> np. wyłączenie
                 sygnalizacji świetlnej. Rozbrojenia można dokonać na <strong>trzy sposoby</strong>: w oparciu o
                 <strong>harmonogram</strong> w ustawieniach kamery; bezpośrednio z dedykowanej
                 <strong>aplikacji mobilnej</strong> lub z poziomu ustawień <strong>rejestratora</strong>.
             </p>
+        </div>
+    </div>
 </div>
-</div>
-</div>
-<div>
-<!-- Lewa kolumna -->
-<div>
-<div>
-<h2>
+
+<div class="row mt-4 d-flex justify-content-center">
+    <!-- Lewa kolumna
+    <div class="col-sm-12 col-md-6 my-auto d-lg-flex">
+        <div class="text-center w-100 h-100 p-3">
+            <h2 class="text-center mt-2 mb-3 fw-bold text-primary">
                 Smart Dual Light - zadecyduj o sposobie doświetlenia w nocy
             </h2>
-<hr/>
-<p>
+            <hr class="w-75 mx-auto" />
+            <p class="text-center">
                 Prezentowana kamera IPOX Light Explorer wyposażona została w technologię
                 <strong>Smart Dual Light</strong>, dzięki której istnieje możliwość przełączania między różnymi trybami
                 oświetlania w kamerze. Zastosowanie
@@ -1770,18 +1783,42 @@ Dźwięk: mono</td>
                 kiedy osoba opuści monitorowany obszar to oświetlacz LED światła białego zostaje automatycznie
                 przełączony na oświetlanie IR.
             </p>
-<span><i></i>Zobacz jak skonfigurować</span>
-</div>
-</div>
-<!-- Prawa kolumna -->
-<div>
-<div>
-<div>
+            <span class="text-center pb-2 pt-2 d-block d-sm-inline mx-auto"
+                ><a
+                    class="link js-get-navigation btn btn-outline-primary rounded mt-1"
+                    title="Konfiguracja Dual Light"
+                    href="#nav-custom-2480"
+                    target="_blank"
+                    role="button"
+                    data-id-navigation="nav-custom-2480"
+                    ><i class="fa fa-info-circle mr-2 fa-lg"></i>Zobacz jak skonfigurować</a
+                ></span
+            >
+        </div>
+    </div>
 
+    <!-- Prawa kolumna
+    <div class="col-sm-12 col-md-6 my-auto d-lg-flex">
+        <div class="shadow p-3 bg-white border rounded-175 w-100 h-100">
+            <div class="embed-responsive embed-responsive-16by9 mx-auto">
+                <video
+                    class="video-fluid z-depth-1"
+                    controls
+                    muted
+                    playsinline
+                    poster="https://www.napad.pl/data/produkty/IPOX/wideo/poster/ipox_dual_light.jpg"
+                >
+                    <source
+                        type="video/mp4"
+                        src="https://www.napad.pl/data/produkty/IPOX/wideo/ipox_dual_light.mp4"
+                        alt="Funkcja podwójnego oświetlacza IR + LED Dual Light IPOX"
+                    />
+                </video>
+            </div>
+        </div>
+    </div>
 </div>
-</div>
-</div>
-</div>
+-->
 <div>
 <!-- Lewa kolumna -->
 <div>
@@ -2808,18 +2845,18 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozdzielczość</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">4Mpx, 2560 × 1440 pikseli</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">4 Mpx, 2560 × 1440 pikseli</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Czułość</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
-<p>0.014 lux @ F2.0 (AGC ON)</p>
+<p>0,09 lux @ F2,2 (AGC ON)</p>
                 0 lux @ IR LED ON
             </td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obiektyw</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2.8 mm @ F2.0</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2,8 mm @ F2,2</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">SNR</th>
@@ -2827,7 +2864,7 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kąt widzenia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Poziomo: 95°; pionowo: 53°; przekątna: 111°</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Poziomo: 96°; pionowo: 53,7°; przekątna: 112°</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Migawka</th>
@@ -2842,7 +2879,7 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wykrywanie (25 px/m)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">58 m</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">57 m</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obserwacja (63 px/m)</th>
@@ -2850,7 +2887,7 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozpoznanie (125 px/m)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">12 m</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">11 m</td>
 </tr>
 <tr class="tbody last">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Identyfikacja (250 px/m)</th>
@@ -2876,10 +2913,6 @@ IP PRO Manager
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentny oświetlacz</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak, przełączanie z oświetlacza IR na LED przy wykryciu człowieka</td>
-</tr>
-<tr class="tbody">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Czas podtrzymania światła białego</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">10 ~ 300 s</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Smart IR</th>
@@ -2915,24 +2948,24 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozdzielczość przetwarzania</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2560×1440 (4Mpx) / 2304×1296 (3Mpx) / 1920×1080 (2Mpx) / 1280×720 (1Mpx) / 704×576 (D1) / 640×480 (VGA) / 640×360 / 480×240 / 352×288 (CIF)</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2560 × 1440 (4 Mpx) / 2304 × 1296 (3 Mpx) / 1920 × 1080 (2 Mpx) / 1280 × 720 (1 Mpx) / 704 × 576 (D1) / 640 × 480 (VGA) / 640 × 360 / 480 × 240 / 352 × 288 (CIF)</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/> 
                 (główny strumień)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>50 Hz: 1 ~ 25 kl/s @ 4Mpx / 3Mpx / 1080p / 720p</p>
-                60 Hz: 1 ~ 30 kl/s @ 4Mpx / 3Mpx / 1080p / 720p</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>50 Hz: 1 ~ 25 kl/s @ 4 Mpx / 3 Mpx / 1080p / 720p</p>
+                60 Hz: 1 ~ 30 kl/s @ 4 Mpx / 3 Mpx / 1080p / 720p</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/> 
                 (pomocniczy strumień)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>50 Hz: 1 ~ 25 kl/s @ D1 / VGA / 640×360 / 480×240 / CIF</p>
-                60 Hz: 1 ~ 30 kl/s @ D1 / VGA / 640×360 / 480×240 / CIF
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>50 Hz: 1 ~ 25 kl/s @ D1 / VGA / 640 × 360 / 480 × 240 / CIF</p>
+                60 Hz: 1 ~ 30 kl/s @ D1 / VGA / 640 × 360 / 480 × 240 / CIF
             </td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Bitrate</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">64 Kbps ~ 4 Mbps</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">64 Kbps ~ 3 Mbps</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pobieranie zdjęć</th>
@@ -2940,7 +2973,7 @@ IP PRO Manager
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ustawienia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">AWB (ręczne 0 ~ 100), AGC (ręczne 0 ~ 100), BLC, HLC, MIR, FLIP, DNR, DWDR, ROI, Defog<!--, tryb korytarzowy (90&deg; / 180&deg; / 270&deg;)--></td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">AWB (ręczne 0 ~ 100), AGC (ręczne 0 ~ 100), BLC, HLC, MIR, FLIP, DNR, DWDR, ROI</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Regulacja</th>
@@ -2954,13 +2987,9 @@ IP PRO Manager
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb dzień/noc</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ICR; 3 profile (automatyczny, ręczny, harmonogram), 3 poziomy czułości, opóźnienie przejścia 2 ~ 120 s</td>
 </tr>
-<tr class="tbody">
+<tr class="tbody last">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Konfiguracja ustawień wideo</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3 profile (dzień, noc, uniwersalny) z możliwością ustawienia harmonogramu pracy</td>
-</tr>
-<tr class="tbody last">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Licznik pikseli</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak, przy podglądzie na żywo</td>
 </tr>
 <tr class="thead">
 <th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Audio (domyślnie wyłączone)</th>
@@ -2977,20 +3006,16 @@ IP PRO Manager
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Poziom głośności mikrofonu</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0 ~ 100 (domyślnie 75)</td>
 </tr>
-<!--
-<tr class="tbody">
-<th>RTMP</th>
-<td><p>Częstotliwość próbkowania: 8000 Hz</p>
-<p>Próbkowanie: 16 bitów</p>
-Dźwięk: mono</td>
-</tr>
--->
 <tr class="thead">
 <th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Złącza</th>
 </tr>
-<tr class="tbody last">
+<tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ethernet</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x RJ-45 10Base-T/100Base-TX</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x RJ-45 10Base-T / 100Base-TX</td>
+</tr>
+<tr class="tbody last">
+<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x gniazdo 5,5 / 2,1 mm na przewodzie</td>
 </tr>
 <tr class="thead">
 <th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Funkcje</th>
@@ -3001,7 +3026,7 @@ Dźwięk: mono</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Integracja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">API, Long Polling</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">API</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługiwane protokoły</th>
@@ -3009,7 +3034,7 @@ Dźwięk: mono</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Języki menu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">angielski, chiński, czeski, francuski, grecki, hiszpański, hiszpański (Ameryka Łacińska), japoński, koreański, niderlandzki, niemiecki, norweski, polski, portugalski, rumuński, turecki, ukraiński, węgierski, włoski</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">angielski, hiszpański, polski, portugalski, rosyjski, włoski</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">OSD</th>
@@ -3017,7 +3042,7 @@ Dźwięk: mono</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Użytkownicy online</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Max. 6 połączeń</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Max. 3 połączenia</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Blokada logowania</th>
@@ -3033,7 +3058,7 @@ Dźwięk: mono</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Filtrowanie adresów</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IP</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IPv4, IPv6</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Powiadomienia</th>
@@ -3041,7 +3066,7 @@ Dźwięk: mono</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Reakcja na zdarzenia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Alarm lokalny, alarm w NVMS, alarm świetlny</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Alarm lokalny, alarm w NVMS</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Czas podtrzymania alarmu ze zdarzeń wideo</th>
@@ -3053,7 +3078,7 @@ Dźwięk: mono</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pola detekcji ruchu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">396 (22×18)</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">396 (22 × 18)</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Strefy prywatności</th>
@@ -3061,15 +3086,11 @@ Dźwięk: mono</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">ROI</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">4 obszary (poziom 1 ~ 10)</td>
-</tr>
-<tr class="tbody">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Profilaktyka</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczny / ręczny restart</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3 obszary (poziom 1 ~ 10)</td>
 </tr>
 <tr class="tbody last">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zapasowy obraz systemu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
+<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Profilaktyka</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczny / ręczny restart</td>
 </tr>
 <tr class="thead">
 <th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zarządzanie</th>
@@ -3104,43 +3125,23 @@ Dźwięk: mono</td>
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ochrona obwodowa (perymetryczna)</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wykrywanie przekroczenia linii (4 linie), wykrywanie wtargnięcia (4 strefy) - wszystkie w oparciu o rozpoznanie obiektu (tylko dla ludzi)</td>
 </tr>
-<tr class="tbody last">
+<tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Filtrowanie fałszywych alarmów</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>Filtrowanie wybranych alarmów inteligentnej analizy w oparciu o rozpoznanie obiektu (tylko dla ludzi)</p>
                 *Uwaga! Funkcja filtrowania dostępna jest jednocześnie tylko dla jednej funkcji analizy (włączenie jednej spowoduje wyłączenie drugiej)</td>
 </tr>
-<tr class="thead">
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Alarm świetlny</th>
-</tr>
-<tr class="tbody">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Światło ostrzegawcze (odstraszające)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x dioda LED migająca (światło białe)</td>
-</tr>
-<tr class="tbody">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Czas migotania</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1 ~ 60 s</td>
-</tr>
-<tr class="tbody">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Częstotliwość migotania</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Niska / średnia / wysoka</td>
-</tr>
-<tr class="tbody">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Uzbrajanie i rozbrajanie w czasie rzeczywistym</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Z poziomu ustawień rejestratora; z aplikacji mobilnej<!--; przy wykorzystaniu rejestratora z wejściem alarmowym--> lub harmonogramu uzbrajania kamery</td>
-</tr>
 <tr class="tbody last">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Harmonogram</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Ustawiany indywidualnie dla światła ostrzegawczego</td>
+<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Uwagi</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>Funkcja filtrowania dostępna jest jednocześnie tylko dla jednej funkcji analizy (włączenie jednej spowoduje wyłączenie drugiej)</p>
+                Przeglądanie nagrań z kamery na rejestratorze oparte jest o klasyczny mechanizm, gdzie informacje o zdarzeniach nanoszone są na oś czasu. Kamera nie wysyła informacji o położeniu wykrytej osoby do rejestratora w związku z czym nie ma możliwości wyszukiwania zdarzeń w oparciu o detekcję celu</td>
 </tr>
 <tr class="thead">
 <th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pozostałe</th>
 </tr>
-<!--
 <tr class="tbody">
-<th>Zgodny z NDAA</th>
-<td>Tak</td>
+<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zgodny z NDAA</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
 </tr>
--->
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Klasa szczelności</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IP67</td>
@@ -3149,31 +3150,31 @@ Dźwięk: mono</td>
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Materiał</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>Front kamery: metal</p>
 <p>Korpus kamery: plastik</p>
-                Uchwyt: plastik</td>
+                Uchwyt montażowy: plastik</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">PoE 802.3af</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">12 V DC lub PoE 802.3af</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pobór mocy</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&lt;5,5 W z włączonym oświetlaczem</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&lt;5 W z włączonym oświetlaczem</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wilgotność</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&lt;95% (bez kondensacji)</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&lt;95 % (bez kondensacji)</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Temperatura pracy</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">-20°C ~ +55°C</td>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">-20 °C ~ +55 °C</td>
 </tr>
 <tr class="tbody">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Waga</th>
 <td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ok. 250 g</td>
 </tr>
 <tr class="tbody">
-<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wymiary (śr./wys.)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ø94,8×82,8 mm</td>
+<th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wymiary (śr. / wys.)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ø94,8 × 82,8 mm</td>
 </tr>
 <tr class="tbody last">
 <th style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Gwarancja</th>
@@ -3181,18 +3182,406 @@ Dźwięk: mono</td>
 </tr>
 </table></div>
 </div>
+<!-- S5L-D
+<div class="table-responsive">
+    <table class="table">        
+        <tr class="thead">
+            <th width="25%">System</th>
+            <th width="75%"></th>
+        </tr>
+        <tr class="tbody">
+            <th>Przetwornik</th>
+            <td>1/3" 4MP Progressive Scan CMOS</td>
+        </tr>
+        <tr class="tbody">
+            <th>Rozdzielczość</th>
+            <td>4 Mpx, 2560 × 1440 pikseli</td>
+        </tr>
+        <tr class="tbody">
+            <th>Czułość</th>
+            <td>
+                <p>0,014 lux @ F2,0 (AGC ON)</p>
+                0 lux @ IR LED ON
+            </td>
+        </tr>
+        <tr class="tbody">
+            <th>Obiektyw</th>
+            <td>2,8 mm @ F2,0</td>
+        </tr>
+        <tr class="tbody">
+            <th>SNR</th>
+            <td>&ge;50 dB</td>
+        </tr>
+        <tr class="tbody">
+            <th>Kąt widzenia</th>
+            <td>Poziomo: 95°; pionowo: 53°; przekątna: 111°</td>
+        </tr>
+        <tr class="tbody">
+            <th>Migawka</th>
+            <td>1/3 ~ 1/100 000 s (automatyczna / ręczna)</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Zakres regulacji</th>
+            <td>Panorama (pan): 0° ~ 360°; nachylenie (tilt): 0° ~ 75°; obrót: 0° ~ 360°</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">DORI</th>
+        </tr>
+        <tr class="tbody">
+            <th>Wykrywanie (25 px/m)</th>
+            <td>58 m</td>
+        </tr>
+        <tr class="tbody">
+            <th>Obserwacja (63 px/m)</th>
+            <td>23 m</td>
+        </tr>
+        <tr class="tbody">
+            <th>Rozpoznanie (125 px/m)</th>
+            <td>12 m</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Identyfikacja (250 px/m)</th>
+            <td>6 m</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">Oświetlacz</th>
+        </tr>
+        <tr class="tbody">
+            <th>Typ diod</th>
+            <td><p>IR (podczerwień)</p>
+                LED (światło białe)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Liczba diod</th>
+            <td><p>1x IR LED</p>
+                1x LED</td>
+        </tr>
+        <tr class="tbody">
+            <th>Zasięg</th>
+            <td>10 ~ 20 m</td>
+        </tr>
+        <tr class="tbody">
+            <th>Inteligentny oświetlacz</th>
+            <td>Tak, przełączanie z oświetlacza IR na LED przy wykryciu człowieka</td>
+        </tr>
+        <tr class="tbody">
+            <th>Czas podtrzymania światła białego</th>
+            <td>10 ~ 300 s</td>
+        </tr>
+        <tr class="tbody">
+            <th>Smart IR</th>
+            <td>Tak</td>
+        </tr>
+        <tr class="tbody">
+            <th>Funkcja automatycznej kontroli nadmiernej ekspozycji</th>
+            <td>Tak</td>
+        </tr>
+        <tr class="tbody">
+            <th>Regulacja natężenia światła białego</th>
+            <td>1 ~ 100</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Ustawienie oświetlacza*</th>
+            <td><p><strong>3 tryby działania oświetlacza</strong> (tylko IR, tylko LED, Smart - IR + LED)</p><br>
+                <p>1. LED (widzialne, światło białe) - w dzień oświetlacz pozostaje wyłączony; włącza się automatycznie po zapadnięciu zmroku; tryb ten zapewnia kolorowy obraz w nocy</p>
+                <p>2. IR (niewidzialne, światło podczerwieni) - po zapadnięciu zmroku kamera doświetla obraz podczerwienią; obraz kolorowy w dzień, czarno-biały w nocy</p>
+                <p>3. Smart IR + LED (domyślny) - tryb łączący oba typy oświetlaczy; kamera po zapadnięciu zmroku doświetla obraz podczerwienią i dopiero po wykryciu człowieka na obrazie włącza swiatło białe i przełącza się w tryb kolorowy</p><br>
+                *Aby zmienić tryb oświetlacza należy w ustawieniach przejść do zakładki Ustawienia -&gt; Strumień -&gt; Wyświetlanie -&gt; Typ oświetlenia i tam wybrać odpowiednią opcję</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">Obraz</th>
+        </tr>
+        <tr class="tbody">
+            <th>System</th>
+            <td>PAL (50 Hz) / NTSC (60 Hz)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Kompresja wideo</th>
+            <td><p>Strumień główny: H.265+ / H.265 / H.264+ / H.264</p>
+                Strumień pomocniczy: H.265+ / H.265 / H.264+ / H.264 / MJPEG</td>
+        </tr>
+        <tr class="tbody">
+            <th>Rozdzielczość przetwarzania</th>
+            <td>2560&nbsp;×&nbsp;1440 (4&nbsp;Mpx) / 2304&nbsp;×&nbsp;1296 (3&nbsp;Mpx) / 1920&nbsp;×&nbsp;1080 (2&nbsp;Mpx) / 1280&nbsp;×&nbsp;720 (1&nbsp;Mpx) / 704&nbsp;×&nbsp;576 (D1) / 640&nbsp;×&nbsp;480 (VGA) / 640&nbsp;×&nbsp;360 / 480&nbsp;×&nbsp;240 / 352&nbsp;×&nbsp;288 (CIF)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Prędkość i rozdzielczość przetwarzania<br> 
+                (główny strumień)</th>
+            <td><p>50 Hz: 1 ~ 25 kl/s @ 4&nbsp;Mpx / 3&nbsp;Mpx / 1080p / 720p</p>
+                60 Hz: 1 ~ 30 kl/s @ 4&nbsp;Mpx / 3&nbsp;Mpx / 1080p / 720p</td>
+        </tr>
+        <tr class="tbody">
+            <th>Prędkość i rozdzielczość przetwarzania<br> 
+                (pomocniczy strumień)</th>
+            <td><p>50 Hz: 1 ~ 25 kl/s @ D1 / VGA / 640&nbsp;×&nbsp;360 / 480&nbsp;×&nbsp;240 / CIF</p>
+                60 Hz: 1 ~ 30 kl/s @ D1 / VGA / 640&nbsp;×&nbsp;360 / 480&nbsp;×&nbsp;240 / CIF
+            </td>
+        </tr>
+        <tr class="tbody">
+            <th>Bitrate</th>
+            <td>64 Kbps ~ 4 Mbps</td>
+        </tr>
+        <tr class="tbody">
+            <th>Pobieranie zdjęć</th>
+            <td>Ze strumienia pomocniczego</td>
+        </tr>
+        <tr class="tbody">
+            <th>Ustawienia</th>
+            <td>AWB (ręczne 0 ~ 100), AGC (ręczne 0 ~ 100), BLC, HLC, MIR, FLIP, DNR, DWDR, ROI, Defog</td>
+        </tr>
+        <tr class="tbody">
+            <th>Regulacja</th>
+            <td>Nasycenie, jasność, kontrast, barwa, ostrość, odszumianie</td>
+        </tr>
+        <tr class="tbody">
+            <th>Filtr migotania</th>
+            <td>60 Hz / 50 Hz</td>
+        </tr>
+        <tr class="tbody">
+            <th>Tryb dzień/noc</th>
+            <td>ICR; 3 profile (automatyczny, ręczny, harmonogram), 3 poziomy czułości, opóźnienie przejścia 2 ~ 120 s</td>
+        </tr>
+        <tr class="tbody">
+            <th>Konfiguracja ustawień wideo</th>
+            <td>3 profile (dzień, noc, uniwersalny) z możliwością ustawienia harmonogramu pracy</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Licznik pikseli</th>
+            <td>Tak, przy podglądzie na żywo</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">Audio (domyślnie wyłączone)</th>
+        </tr>
+        <tr class="tbody">
+            <th>Kompresja</th>
+            <td>G.711A, G.711U</td>
+        </tr>
+        <tr class="tbody">
+            <th>Wbudowany mikrofon</th>
+            <td>Tak</td>
+        </tr>
+        <tr class="tbody">
+            <th>Poziom głośności mikrofonu</th>
+            <td>0 ~ 100 (domyślnie 75)</td>
+        </tr>
+
+        <tr class="thead">
+            <th scope="col" colspan="2">Złącza</th>
+        </tr>
+        <tr class="tbody last">
+            <th>Ethernet</th>
+            <td>1x RJ-45 10Base-T / 100Base-TX</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">Funkcje</th>
+        </tr>
+        <tr class="tbody">
+            <th>Wsparcie dla protokołów</th>
+            <td>Onvif Profile S (25.06)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Integracja</th>
+            <td>API, Long Polling</td>
+        </tr>
+        <tr class="tbody">
+            <th>Obsługiwane protokoły</th>
+            <td>802.1X, DDNS, DHCP, HTTP, IPv4, IPv6, NTP, P2P, QoS, RTSP, WebSocket</td>
+        </tr>
+        <tr class="tbody">
+            <th>Języki menu</th>
+            <td>angielski, chiński, czeski, francuski, grecki, hiszpański, hiszpański (Ameryka Łacińska), japoński, koreański, niderlandzki, niemiecki, norweski, polski, portugalski, rumuński, turecki, ukraiński, węgierski, włoski</td>
+        </tr>
+        <tr class="tbody">
+            <th>OSD</th>
+            <td>Data, nazwa kamery, znak wodny</td>
+        </tr>
+        <tr class="tbody">
+            <th>Użytkownicy online</th>
+            <td>Max. 6 połączeń</td>
+        </tr>
+        <tr class="tbody">
+            <th>Blokada logowania</th>
+            <td>Tak, po 6 nieudanych próbach</td>
+        </tr>
+        <tr class="tbody">
+            <th>Możliwość rozłączenia połączenia</th>
+            <td>Tak, z poziomu administratora</td>
+        </tr>
+        <tr class="tbody">
+            <th>Zabezpieczenie hasła</th>
+            <td>3 poziomy trudności oraz możliwość ustawienia czasu po którym należy zmienić hasło na nowe (od 30 dni do nigdy)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Filtrowanie adresów</th>
+            <td>IP</td>
+        </tr>
+        <tr class="tbody">
+            <th>Powiadomienia</th>
+            <td>Detekcja ruchu, przekroczenie linii, wykrycie wtargnięcia (naruszenia strefy)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Reakcja na zdarzenia</th>
+            <td>Alarm lokalny, alarm w NVMS, alarm świetlny</td>
+        </tr>
+        <tr class="tbody">
+            <th>Czas podtrzymania alarmu ze zdarzeń wideo</th>
+            <td>1 s / 3 s / 5 s / 10 s / 20 s / 30 s / 60 s / 2 min</td>
+        </tr>
+        <tr class="tbody">
+            <th>Detekcja ruchu</th>
+            <td>Dowolna liczba stref, regulowana indywidualnie czułość 1 ~ 8 dla każdej strefy, harmonogram działania</td>
+        </tr>
+        <tr class="tbody">
+            <th>Pola detekcji ruchu</th>
+            <td>396 (22 × 18)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Strefy prywatności</th>
+            <td>4 strefy</td>
+        </tr>
+        <tr class="tbody">
+            <th>ROI</th>
+            <td>4 obszary (poziom 1 ~ 10)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Profilaktyka</th>
+            <td>Automatyczny / ręczny restart</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Zapasowy obraz systemu</th>
+            <td>Tak</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">Zarządzanie</th>
+        </tr>
+        <tr class="tbody">
+            <th>Przeglądarki (Windows / MacOS / Linux)</th>
+            <td>Edge, Safari, Opera, Chrome, Firefox, itd. - interfejs bezwtyczkowy (podgląd strumienia głównego max. 1080p), Internet Explorer - wymaga instalacji wtyczki</td>
+        </tr>  
+        <tr class="tbody">
+            <th>CMS (Windows / MacOS)</th>
+            <td>NVMS 2.0</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Urządzenia mobilne (Android / iOS)</th>
+            <td>IPOX PRO</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">Funkcje inteligentne (algorytm tradycyjny)</th>
+        </tr>
+        <tr class="tbody last">
+            <th>Podstawowe</th>
+            <td>Wykrywanie ruchu, wyjątek (odłączenie sieci, konflikt adresów IP)</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">Funkcje inteligentne (Deep Learning)*</th>
+        </tr>
+        <tr class="tbody">
+            <th>Detekcja ruchu</th>
+            <td>Wykrywanie ruchu w oparciu o rozpoznanie obiektu (tylko dla ludzi)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Ochrona obwodowa (perymetryczna)</th>
+            <td>Wykrywanie przekroczenia linii (4 linie), wykrywanie wtargnięcia (4 strefy) - wszystkie w oparciu o rozpoznanie obiektu (tylko dla ludzi)</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Filtrowanie fałszywych alarmów</th>
+            <td><p>Filtrowanie wybranych alarmów inteligentnej analizy w oparciu o rozpoznanie obiektu (tylko dla ludzi)</p>
+                *Uwaga! Funkcja filtrowania dostępna jest jednocześnie tylko dla jednej funkcji analizy (włączenie jednej spowoduje wyłączenie drugiej)</td>
+        </tr>
+        
+        <tr class="thead">
+            <th scope="col" colspan="2">Alarm świetlny</th>
+        </tr>
+        <tr class="tbody">
+            <th>Światło ostrzegawcze (odstraszające)</th>
+            <td>1x dioda LED migająca (światło białe)</td>
+        </tr>    
+        <tr class="tbody">
+            <th>Czas migotania</th>
+            <td>1 ~ 60 s</td>
+        </tr>
+        <tr class="tbody">
+            <th>Częstotliwość migotania</th>
+            <td>Niska / średnia / wysoka</td>
+        </tr>
+        <tr class="tbody">
+            <th>Uzbrajanie i rozbrajanie w czasie rzeczywistym</th>
+            <td>Z poziomu ustawień rejestratora; z aplikacji mobilnej lub harmonogramu uzbrajania kamery</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Harmonogram</th>
+            <td>Ustawiany indywidualnie dla światła ostrzegawczego</td>
+        </tr>
+
+        <tr class="thead">
+            <th scope="col" colspan="2">Pozostałe</th>
+        </tr>
+        <tr class="tbody">
+        <th>Zgodny z NDAA</th>
+        <td>Tak</td>
+        </tr>
+        <tr class="tbody">
+            <th>Klasa szczelności</th>
+            <td>IP67</td>
+        </tr>
+        <tr class="tbody">
+            <th>Materiał</th>
+            <td><p>Front kamery: metal</p>
+                <p>Korpus kamery: plastik</p>
+                Uchwyt: plastik</td>
+        </tr>
+        <tr class="tbody">
+            <th>Zasilanie</th>
+            <td>PoE 802.3af</td>
+        </tr>
+        <tr class="tbody">
+            <th>Pobór mocy</th>
+            <td>&lt;5,5 W z włączonym oświetlaczem</td>
+        </tr>
+        <tr class="tbody">
+            <th>Wilgotność</th>
+            <td>&lt;95 % (bez kondensacji)</td>
+        </tr>
+        <tr class="tbody">
+            <th>Temperatura pracy</th>
+            <td>-20 °C ~ +55 °C</td>
+        </tr>
+        <tr class="tbody">
+            <th>Waga</th>
+            <td>ok. 250 g</td>
+        </tr>
+        <tr class="tbody">
+            <th>Wymiary (śr. / wys.)</th>
+            <td>ø94,8 × 82,8 mm</td>
+        </tr>
+        <tr class="tbody last">
+            <th>Gwarancja</th>
+            <td>36 miesięcy</td>
+        </tr>
+    </table>
+</div>
+-->
 </div>
 ]]></DESCRIPTION>
     <MANUFACTURER>IPOX</MANUFACTURER>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>120.84</PRICE>
+    <PRICE>120.83</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_kamera_ip_dome_px_dic4028dlpw_4mp_2_8mm_glowne_v3_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_kamera_ip_dome_px_dic4028dlpw_4mp_2_8mm_front_v2_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_px_di4028ir2dlpw_ipox_spod_z_przew_l_.jpg</IMAGE>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_kamera_ip_dome_px_di2028ir2dlpw_2mp_2_8mm_ipox_spod_przewod_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_px_di2028ir2dlpw_kamera_ip_2mpx_akces_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_px_di4028ir2dlpw_ipox_box_l_.jpg</IMAGE>
     </IMAGES>
@@ -4002,7 +4391,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>134.01</PRICE>
+    <PRICE>134.00</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14744_kamera_ip_turret_dual_ds_2cd1343g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -4872,7 +5261,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>134.30</PRICE>
+    <PRICE>134.29</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13654_kamera_ip_dome_px_di4028ir2dlw_4mp_glowne_v2_l_.jpg</IMAGE>
@@ -5694,7 +6083,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>143.75</PRICE>
+    <PRICE>143.74</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14743_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -6564,7 +6953,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>147.75</PRICE>
+    <PRICE>147.74</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14428_kamera_ip_dome_px_di6028ir2dlw_6mp_2_8mm_biala_glowne_l_.jpg</IMAGE>
@@ -7360,7 +7749,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>148.33</PRICE>
+    <PRICE>148.32</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14780_ds_2cd1363g2_liu2_8mm_kamera_ip_6mpx_hikvision_glowne_l_.jpg</IMAGE>
@@ -8163,7 +8552,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>158.64</PRICE>
+    <PRICE>158.62</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14779_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -9182,7 +9571,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>168.94</PRICE>
+    <PRICE>168.93</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13565_kamera_ip_dual_px_di4036ir3dlw_4mp_3_6mm_biala_ipox_glowne_l_.jpg</IMAGE>
@@ -9607,7 +9996,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>170.09</PRICE>
+    <PRICE>170.08</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_dh_ipc_hdw1239v_a_ii_v2_glowne_bez_podsw_l_.jpg</IMAGE>
