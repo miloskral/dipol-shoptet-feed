@@ -1476,7 +1476,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>81.76</PRICE>
+    <PRICE>82.21</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/11713_kamera_ip_dome_px_di2028ir2dlpw_2mp_2_8mm_ipox_glowne_l_.jpg</IMAGE>
@@ -3576,7 +3576,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>119.39</PRICE>
+    <PRICE>120.05</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13561_kamera_ip_dome_px_dic4028dlpw_4mp_2_8mm_glowne_v3_l_.jpg</IMAGE>
@@ -4447,7 +4447,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>132.69</PRICE>
+    <PRICE>133.42</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13654_kamera_ip_dome_px_di4028ir2dlw_4mp_glowne_v2_l_.jpg</IMAGE>
@@ -5322,7 +5322,7 @@ Dźwięk: mono</td>
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>145.99</PRICE>
+    <PRICE>146.79</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14428_kamera_ip_dome_px_di6028ir2dlw_6mp_2_8mm_biala_glowne_l_.jpg</IMAGE>
@@ -6144,13 +6144,804 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>156.46</PRICE>
+    <PRICE>157.31</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14743_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14743_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_srodek_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14743_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_spod_z_przew_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14743_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_akces_l_.jpg</IMAGE>
+    </IMAGES>
+  </SHOPITEM>
+  <SHOPITEM>
+    <CODE>DS-2CD1361G2-LIU</CODE>
+    <NAME>DS-2CD1361G2-LIU 2.8mm PL - kamera IP 6Mpx</NAME>
+    <SHORT_DESCRIPTION>Najnowsza wersja oprogramowania urządzenia (firmware) do pobrania z portalu Hikvision Europe lub z oficjalnej strony Hikvision.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Najważniejsze cechy kamery 
+  DS-2CD1361G2-LIU  to  kamera IP typu turret ze stałym obiektywem</SHORT_DESCRIPTION>
+    <DESCRIPTION><![CDATA[
+<div>
+<!-- Informacja o najnowszym oprogramowaniu -->
+<div>
+<div>
+<p><em>Najnowsza wersja oprogramowania urządzenia (firmware) do pobrania z portalu Hikvision Europe lub z oficjalnej strony Hikvision.</em></p>
+<hr/>
+</div>
+</div>
+<div>
+<div>
+<div>
+<h2>Najważniejsze cechy kamery</h2>
+<p><strong>DS-2CD1361G2-LIU</strong> to <strong>kamera IP typu turret ze stałym obiektywem</strong> i <strong>dwoma oświetlaczami</strong> pracującymi <strong>w technologii światła białego lub podczerwieni</strong>. Urządzenie pochodzi z serii kamer <strong>Hikvision Smart Hybrid Light</strong> i wyposażona jest w <strong>detekcje ruchu 2.0</strong> (klasyfikacja ludzi). Kamera może pracować w trzech różnych trybach nocnych oferując <strong>czarno-biały</strong> obraz przy zastosowaniu diody IR, <strong>kolorowy</strong> w przypadku użycia diody LED światła widzialnego lub w <strong>trybie SMART</strong>, który automatycznie <strong>zmienia tryb IR na LED po wykryciu człowieka</strong>.</p>
+<p>Kamera <strong>Hikvision Hybrid Light</strong> umożliwia rejestracje obrazu z rozdzielczości <strong>3200×1800 (6 Mpx)</strong> zapewniając wysoką jakość i dużą szczegółowość obrazu. Zastosowany przetwornik 1/2.4" oraz obiektyw o aperaturze F1.6 zapewniają bardzo dobrą czułość, co sprawia że obraz pozostaje czytelny nawet w złych warunkach oświetleniowych. Kamera na swoim wyposażeniu posiada <strong>mikrofon</strong>, a dzięki <strong>technologii PoE</strong> doskonale integruje się z pozostałymi systemami. Szczelna obudowa (<strong>IP67</strong>) zapewnia odporność na warunki atmosferyczne, umożliwiając pracę na zewnątrz.</p>
+
+</div>
+</div>
+<!-- Cechy -->
+<div>
+<!-- Pierwsza linia -->
+<div>
+<!-- Detekcja człowieka -->
+<div>
+<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/Hikvision/cechy/detekcja_czlowieka.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Detekcja człowieka"/>
+</div>
+<!-- HD -->
+<div>
+<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/Hikvision/cechy/hd.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Wysoka rozdzielczość"/>
+</div>
+<!-- Dualny oświetlacz -->
+<div>
+<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/Hikvision/cechy/smart_light.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Inteligentny dualny oświetlacz"/>
+</div>
+</div>
+<!-- Druga linia -->
+<div>
+<!-- H265+ -->
+<div>
+<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/Hikvision/cechy/h265p.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Technologia kompresji H.265+"/>
+</div>
+<!-- Mikrofon -->
+<div>
+<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/Hikvision/cechy/mikrofon.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Wbudowany mikrofon"/>
+</div>
+<!-- IP67 -->
+<div>
+<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/Hikvision/cechy/ip67.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Klasa szczelności IP67"/>
+</div>
+</div>
+<!-- Trzecia linia -->
+<div>
+<div>
+<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/Hikvision/cechy/sml.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Hikvision Smart Hybrid Light"/>
+</div>
+</div>
+</div>
+<!-- Koniec cech -->
+</div>
+<div>
+<div>
+<div>
+<h2>Zobacz, jak działa Smart Hybrid Light</h2>
+</div>
+<div>
+<div>
+
+</div>
+</div>
+</div>
+<div>
+<h2>Smart Hybrid Light - wybierz własny sposób oświetlenia sceny</h2>
+<p>Inteligentny oświetlacz hybrydowy to jeden z trybów oświetlacza zastosowany w kamerze. Pozwala on na <strong>włączenie światła białego</strong> tylko w wypadku <strong>wykrycia w strefie detekcji człowieka lub pojazdu</strong>. W przypadku, kiedy osoba opuści monitorowany obszar to oświetlacz LED zostaje przełączony na oświetlanie IR <strong>po upływie 1 minuty</strong>. Poza wymienionym trybem użytkownik ma do wyboru jeszcze tryb <strong>LED</strong> (tylko światło białe, które umożliwia kolorowy obraz w nocy); <strong>tryb IR</strong> (tylko podczerwień) lub całkowite wyłączenie oświetlacza.</p>
+</div>
+</div>
+<div>
+<div>
+<h2>Smart Hybrid Light - prosta konfiguracja ustawień</h2>
+<p>Ustawienie <strong>trybu pracy oświetlacza</strong> jest łatwe do przeprowadzenia i odbywa się w menu kamery, które dostępne jest z poziomu przeglądarki internetowej.</p>
+</div>
+<div>
+<div>
+<h2>Zobacz, jak skonfigurować kamerę Smart Hybrid Light</h2>
+</div>
+<div>
+<div>
+
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<h2>Zobacz, jak działa detekcja ruchu 2.0</h2>
+</div>
+<div>
+<div>
+
+</div>
+</div>
+</div>
+<div>
+<h2>Detekcja ruchu 2.0</h2>
+<p><strong>Detekcja ruchu w oparciu o rozpoznanie obiektu</strong> (ang. Motion Detection 2.0, MD2.0) – Technologia w oparciu o specjalny algorytm <strong>najpierw klasyfikuje człowieka,</strong> a następnie w drugim etapie klasyfikuje ruch. Pozwala to na prawidłowe alarmowanie bez względu na rodzaj platformy, która będzie odbierała już opracowaną informację o alarmach, czy to IVMS 4200, HikCentral lub inne oprogramowanie Hikvision. Dzięki funkcji <strong>detekcji ruchu z klasyfikacją</strong> możemy liczyć na wysoką dokładność i skuteczność alarmowania. Wystarczy narysowanie standardowej siatki detekcji ruchu (maski aktywności) i określenie, jakiego typu obiekty mają być analizowane przez urządzenie.</p>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<h2>Obiektyw</h2>
+<p>
+                                Stałoogniskowy obiektyw <strong>2.8 mm</strong> charakteryzuje się szerokim polem widzenia, a także <strong>światłoczułą przysłoną</strong> o aperaturze <strong>F1.6</strong>.
+                            </p>
+</div>
+<div>
+<h2>Dualny oświetlacz</h2>
+<p>
+                                Kamera posiada <strong>jedną diodę IR LED</strong> oraz <strong>jedną diodę LED światła białego</strong>, które umożliwiają doświetlenie obrazu na <strong>odległość 30 m.</strong>
+<!-- "w jedną diodę IR LED oraz dwie diody LED" -->
+</p>
+</div>
+<div>
+<h2>Mikrofon</h2>
+<p>
+<strong>Wbudowany mikrofon</strong> rejestruje dźwięk z otoczenia i przesyła go równocześnie z obrazem, zapewniając pełną rejestrację zdarzeń.
+                            </p>
+</div>
+<div>
+<h2>Kolorowy obraz w nocy</h2>
+<p>
+<strong>Wyraźny, kolorowy obraz nawet po zmroku</strong>, dzięki wbudowanemu oświetlaczowi LED, który zapewnia odpowiednie doświetlenie sceny.
+                            </p>
+</div>
+<div>
+<h2>Motion Detection 2.0</h2>
+<p>
+<strong>Detekcja ruchu 2.0</strong> umożliwia alarmowanie tylko w przypadku wykrycia ruchu w oparciu o klasyfikację człowieka.
+                            </p>
+</div>
+<div>
+<h2>Solidna obudowa</h2>
+<p>
+                                Obudowa kamery wykonana jest w większości z <strong>plastiku</strong> (korpus i uchwyt) i cechuje się <strong>klasą szczelności IP67</strong>.
+                            </p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<h2>Funkcje korekty obrazu w kamerze Hikvision</h2>
+</div>
+<div>
+Poszerzony zakres dynamiki (DWDR)
+System redukcji szumów (3D DNR)
+Funkcja Region of Interest (RoI)
+Maski prywatności
+</div>
+<div>
+<div>
+<h3>WDR - Wide Dynamic Range</h3>
+<hr/>
+<p>Szeroki zakres dynamiki obrazu jest systemem, za pomocą którego możliwa jest obserwacja złożonej sceny z zachowaniem przejrzystości wszystkich płaszczyzn obrazu.</p>
+<div>
+<div>
+<figure>
+
+<img alt="Obraz bez WDR" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_wdr_off.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+<figcaption>Standardowy obraz z kamer</figcaption>
+</figure>
+</div>
+<div>
+<figure>
+
+<img alt="Szeroki zakres dynamiki obrazu." loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_wdr_on.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+<figcaption>Obraz z wykorzystaniem WDR</figcaption>
+</figure>
+</div>
+</div>
+</div> <!-- WDR -->
+<div>
+<h3>3D DNR - Digital Noise Reduction</h3>
+<hr/>
+<p>DNR to system, który pozwala na elektroniczne zminimalizowanie szumu w obrazie. Opiera się on o dynamiczną regulację w czasie rzeczywistym, na bieżąco reagując na zmieniające się warunki.</p>
+<div>
+<div>
+<figure>
+
+<img alt="Funkcja 3D DNR wyłączona" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_3d-dnr_off.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+<figcaption>Funkcja 3D DNR wyłączona</figcaption>
+</figure>
+</div>
+<div>
+<figure>
+
+<img alt="Obraz z wykorzystaniem RoI" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_3d-dnr_on.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+<figcaption>Funkcja 3D DNR włączona</figcaption>
+</figure>
+</div>
+</div>
+</div> <!-- 3D DNR -->
+<div>
+<h3>RoI - Region of Interest</h3>
+<hr/>
+<p>To inteligentny kodek, który pozwala na poprawę jakości wybranych fragmentów obrazu oraz umożliwia ograniczenie jakości pozostałych fragmentów. Pozytywnie wpływa to na wykorzystanie mocy obliczeniowej procesora sygnałowego, zmniejsza wymagania dotyczące pasma sieciowego oraz usprawnia identyfikowanie tylko najbardziej newralgicznych punktów.</p>
+<div>
+<div>
+<figure>
+
+<img alt="Standardowy obraz" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_ROI-off.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+<figcaption>Standardowy obraz z kamery</figcaption>
+</figure>
+</div>
+<div>
+<figure>
+
+<img alt="Obraz z wykorzystaniem RoI" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_ROI-on.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+<figcaption>OObraz z wykorzystaniem RoI</figcaption>
+</figure>
+</div>
+</div>
+</div> <!-- RoI -->
+<div>
+<h3>Maski prywatności</h3>
+<hr/>
+<p>To funkcja, która pozwala na indywidualne dostosowanie sposobu funkcjonowania systemu obserwacji do specyfiki przestrzennej i wymogów bezpieczeństwa konkretnego miejsca instalacji. Dzięki systemowi masek prywatności możliwe jest swobodne wyznaczenie fragmentów obrazu, które zostaną wyłączone spod dozoru wizyjnego.</p>
+<div>
+<div>
+<figure>
+
+<img alt="Standardowy obraz" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_privacymask-off.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+<figcaption>Standardowy obraz</figcaption>
+</figure>
+</div>
+<div>
+<figure>
+
+<img alt="Obraz z maskami prywatności" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_privacymask-on.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+<figcaption>Obraz z maskami prywatności</figcaption>
+</figure>
+</div>
+</div>
+</div> <!-- Maski prywatności -->
+</div>
+</div>
+<div>
+<div>
+<h2>Inne cechy kamery</h2>
+</div>
+<div>
+<div>
+Technologia PoE 
+<!--
+            <a id="v-pills-102-tab" class="nav-link p-2 m-2 border border-color-hikvision-live-guard rounded" data-toggle="pill" href="#v-pills-102" role="tab" aria-controls="v-pills-102" aria-selected="false" style="background: #FFF">Funkcja ANR</a>
+-->
+Kompresja H.265+
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<h3>Kamera z technologią PoE</h3>
+<hr/>
+<p><strong>Power over Ethernet (PoE)</strong> jest rozwiązaniem opracowanym z myślą o przeprowadzaniu szybkiego i nieskomplikowanego montażu urządzeń sieciowych oraz komfortowej obsługi sprzętu i łatwej modernizacji instalacji. Dzięki obsłudze <strong>PoE w standardzie 802.3af</strong> realne stanie się podłączenie kamery IP przy wykorzystaniu popularnej skrętki komputerowej UTP. Oszczędność całkowitej liczby przewodów niezbędnych do uruchomienia urządzenia usprawnia system monitoringu i umożliwia lokalizację kamery z dala od tradycyjnych źródeł zasilania.</p>
+</div>
+</div>
+</div>
+<!--
+        <div id="v-pills-102" class="tab-pane fade show" role="tabpanel" aria-labelledby="v-pills-home-102">
+<div class="row mt-2">
+<div class="col-12 col-md-7 my-auto">
+<h3 class="primary mb-3 text-center">Funkcja ANR (Automatic Network Replenishment)</h3>
+<hr class="w-25 pb-4">
+<p class="text-justify">Ciekawą funkcją zastosowaną w wybranych produktach do monitoringu sieciowego marki Hikvision jest funkcja <strong>ANR (Automatic Network Replenishment)</strong>. Usługa ta gwarantuje ciągłość nagrań w przypadku awarii, rozłączenia lub utraty połączenia występującego między kamerą i rejestratorem. System działa na zasadzie automatycznego wykrycia problemu z siecią i bezpiecznego zapisu nagrań na karcie microSD umieszczonej wewnątrz kamery. Po ustaniu awarii nagrania są automatycznie synchronizowane i w przypadku braków rejestrator pobierze brakujące fragmenty  bezpośrednio z kamery.</p>
+</div>
+
+<div class="col-sm-12 col-md-5 my-auto">
+<img class="img-fluid img-thumbnail" src="https://www.napad.pl/data/produkty/ds-2cd2135fwd-i_anr.jpg" alt="Hikvision - Funkcja ANR."/>
+</div>
+</div>
+        </div>
+-->
+<div>
+<div>
+<div>
+<h3>Kompresja</h3>
+<hr/>
+</div>
+<div>
+<p> <strong>H.265+ to system kodowania nagrań wideo</strong>, który jest rozszerzeniem technologii stosowanej w <strong>H.265 / HEVC (High Efficiency Video Coding)</strong>. System H.265+ to najnowsza odsłona stosowanych w monitoringu kodeków, która bazuje na inteligentnym algorytmie opracowanym przez firmę Hikvision. Kodowanie sygnału w systemie H.265 to niezwykła technologia, która pozwala zoptymalizować podstawowe funkcje kamery oraz umożliwia lepsze wykorzystanie przepustowości sieci, znacznie ogranicza zakłócenia i gwarantuje długi czas archiwizacji nagrań bez uszczerbku na jakości obrazu. Testy terenowe wykazują, że <strong>kompresja H.265+ zmniejsza wymagany poziom szybkości transmisji obrazu w wysokiej rozdzielczości o około 67%</strong> w porównaniu z H.265, zmniejszając tym samym wymaganą szerokość pasma i pojemność pamięci masowej / dysku HDD. Redukcja liczby bitów oznacza obniżenie kosztów dla konsumentów, a także zwiększenie sprawności, stabilności i niezawodności całego sprzętu w danym systemie nadzoru. <strong>Zastosowanie kodeka H.265+</strong> przynosi najbardziej spektakularne osiągi w obrazach gdzie tło pozostaje niezmienne i rzadko się zmienia; w przypadku obiektów poruszających się po stagnacyjnej scenie oraz przy nadzorze całodobowym.</p>
+<p><em>Uwaga, format kompresji H.265 obsługiwany jest tylko <strong>natywnie w ramach jednego</strong> producenta.</em></p>
+</div>
+<div>
+<p>
+<img alt="Hikvision - kodowanie H.265+." src="https://www.napad.pl/data/produkty/Hikvision/technologie/h.265_-_hikvision_1.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+</p>
+</div>
+<div>
+<p>
+<img alt="Hikvision - kodowanie H.265+." src="https://www.napad.pl/data/produkty/Hikvision/technologie/h.265_-_hikvision_2.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+</p>
+</div>
+<div>
+<p>
+<img alt="Hikvision - kodowanie H.265+." src="https://www.napad.pl/data/produkty/Hikvision/technologie/h.265_-_hikvision_3.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<h2>Oprogramowanie</h2>
+</div>
+<div>
+<div>
+Hik-Connect
+Hik-Partner Pro
+iVMS-4200
+SADP
+HikCentral Professional
+VSPlayer
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<h3>Bezpośredni dostęp w platformie Hik-Connect</h3>
+<hr/>
+<p>Oprogramowanie mobilne <strong>Hik-Connect</strong> zostało zaprojektowane z myślą o pomocy użytkownikom końcowym w efektywnym korzystaniu z urządzeń zabezpieczających i zarządzaniu nimi za pomocą smartfonów lub tabletów. Zaletą tego rozwiązania jest sposobność uzyskania <strong>zdalnego dostępu</strong> zarówno do kamery, rejestratora, nagrań, jak i szeregu przydatnych funkcjonalności. Rejestracja urządzenia odbywa się w bardzo prosty sposób poprzez przeglądarkę internetową lub za pośrednictwem kodów QR. <strong>Usługa P2P Hikvision</strong> nie wymaga od użytkownika przekierowywania portów i znacząco ułatwia dostęp do całej gamy urządzeń.</p>
+<p>Najnowsza wersja aplikacji Hik-Connect dostępna jest na platformie <strong>Hikvision App Store</strong>.</p>
+<p>Strona platformy: <strong>www.hik-connect.com</strong></p>
+<p>
+
+<img alt="Pobierz aplikację w Google Play" loading="lazy" src="https://www.napad.pl/data/produkty/AG_Neovo/content/pobierz-gplay.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+                     
+                    
+<img alt="Pobierz aplikację w App Store" loading="lazy" src="https://www.napad.pl/data/produkty/AG_Neovo/content/pobierz-appstore.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+</p>
+</div>
+<div>
+<img alt="Hikvision Hik-Connect" loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/colorvu_2.0/hik-connect_2.0-1000.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<h3>Efektywne zarządzanie ochroną z Hik-Partner Pro</h3>
+<hr/>
+<p><strong>Hik-Partner Pro</strong> (dawniej Hik-ProConnect) to konwergentne, oparte na chmurze rozwiązanie dedykowane dla <strong>instalatorów i integratorów systemów Hikvision</strong>. Program pomaga zarządzać usługami, które oferowane są klientom, oraz rozwijać działalność w modelu subskrypcyjnym. Z jego pomocą instalator może monitorować stan systemów zainstalowanych u klientów, a nawet zdalnie rozwiązywać problemy, korzystając z prostej i niezawodnej platformy.</p>
+<p>Najnowsza wersja aplikacji dostępna jest na platformie <strong>Hikvision App Store</strong>.</p>
+<p>Strona oprogramowania: <strong>www.hik-partner.com</strong></p>
+<p>
+
+<img alt="Pobierz aplikację w Google Play" src="https://www.napad.pl/data/produkty/AG_Neovo/content/pobierz-gplay.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+                     
+                    
+<img alt="Pobierz aplikację w App Store" src="https://www.napad.pl/data/produkty/AG_Neovo/content/pobierz-appstore.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+
+</p>
+<div>
+<em>Uwaga! Część funkcji jest dodatkowo <strong>płatna</strong>. Pełny opis oraz ceny dostępne są po zalogowaniu do platformy.</em>
+</div>
+</div>
+<div>
+
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<h3>Oprogramowanie klienckie iVMS-4200</h3>
+<hr/>
+<p><strong>Oprogramowanie serii iVMS-4200</strong> przeznaczone jest do konfiguracji i zarządzania urządzeniami Hikvision w sposób zunifikowany i intuicyjny, w tym wybranymi switchami, rejestratorami DVR, NVR, kamerami IP, urządzeniami alarmowymi i kontroli dostępu oraz urządzeniami pamięci masowej, zapewniając takie funkcjonalności jak zarządzanie topologią sieci, podgląd na żywo, odtwarzanie, konfigurację parametrów urządzeń i inne. <strong>Program jest bezpłatny</strong> oraz posiada przyjazny interfejs <strong>w języku polskim</strong>.</p>
+<p>Program iVMS-4200 rekomendujemy pobierać z <strong>oficjalnej strony Hikvision</strong>.</p>
+<span><i></i>Więcej informacji</span>
+</div>
+<div>
+<img alt="Bezpłatne oprogramowanie iVMS 4200 dostępne na różne systemy operacyjne." loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/ivms4200_interface_500.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<h3>Aplikacja konfiguracyjna SADP</h3>
+<hr/>
+<p><strong>Aplikacja SADP</strong> (Search Active Devices Protocol) stanowi przyjazne w użyciu i nie wymagające instalowania narzędzie software’owe do online-wyszukiwania urządzeń. Wyszukuje ono aktywne urządzenia online w Twojej podsieci i wyświetla informacje o tych urządzeniach. Za pomocą tego oprogramowania możesz też zmodyfikować podstawowe parametry sieciowe tych urządzeń.</p>
+<p>Program SADP rekomendujemy pobierać z <strong>oficjalnej strony aplikacji</strong>.</p>
+</div>
+<div>
+<img alt="Interfejs aplikacji SADP." loading="lazy" src="https://www.napad.pl/data/produkty/aplikacja_sadp_interfejs_1.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<h3>Jedna platforma, wiele zastosowań</h3>
+<hr/>
+<p><strong>HikCentral Professional</strong> to oprogramowanie do integracji systemów bezpieczeństwa. Zaprojektowane tak, aby sprostać różnorodnym wyzwaniom związanym z bezpieczeństwem na jednej intuicyjnej platformie - od zarządzania indywidualnymi systemami, takimi jak monitoring wideo, kontrola dostępu, system alarmowy i nie tylko, po łączenie wielu systemów w ramach ujednoliconej architektury. Chroniąc ludzi i mienie, sprawia, że codzienne operacje są bardziej wydajne i pomaga użytkownikom podejmować bardziej trafne decyzje.</p>
+<p>Oprogramowanie oferuje modułowe platformy do powszechnych zastosowań biznesowych, takich jak wideo, kontrola dostępu, ewidencja czasu pracy i inne. Aplikacje te, oprócz swoich podstawowych funkcji, umożliwiają elastyczne łączenie, aby sprostać potrzebom różnorodnych, niestandardowych scenariuszy. Dodatkowo, wszystkie moduły aplikacyjne mają ten sam interfejs dla platform z tej serii, co znacznie upraszcza proces nauki obsługi różnych systemów.</p>
+<p><em>HikCentral Profesional to program płatny i jego wycena zależy od złożonego projektu</em>.</p>
+<span><i></i>Więcej informacji</span>
+</div>
+<div>
+<img alt="Profesjonalny program do zarządzania HikCentral Professional." loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision_hikcentral_profesional.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<h3>Odtwarzacz nagrań z kamer i rejestratorów</h3>
+<hr/>
+<p><strong>VSPlayer</strong> to zaawansowany <strong>odtwarzacz wideo</strong> dedykowany do obsługi nagrań i strumieni z urządzeń marki Hikvision. Umożliwia odtwarzanie plików w popularnych formatach, zarówno z lokalnego dysku, jak i transmisji na żywo przez RTSP. Program oferuje wiele praktycznych funkcji: synchronizację odtwarzania, cyfrowe przycinanie i łączenie nagrań, tworzenie zrzutów ekranu, pokazywanie znaków wodnych potwierdzających autentyczność materiału oraz zaawansowane sterowanie odtwarzaniem.</p>
+<p> Dzięki intuicyjnemu interfejsowi i wsparciu dla wielu okien wideo (do 16 jednocześnie), VSPlayer sprawdza się zarówno przy monitoringu, jak i przeglądaniu nagrań z kamer w wysokiej jakości. Obsługuje także konwersję formatów plików, rozszerzenia fisheye, cyfrowe powiększenie obrazu oraz transmisję multimediów w lokalnej sieci. Jest narzędziem niezbędnym dla użytkowników systemów bezpieczeństwa Hikvision, oferującym szybkość, stabilność i szerokie możliwości obróbki materiałów wideo.</p>
+<p>Strona oprogramowania: <strong>www.hik-partner.com</strong></p>
+<p>
+</p></div>
+<div>
+<img alt="VSPlayer - odtwarzacz wideo do kamer i rejestratorów Hikvision." loading="lazy" src="https://www.napad.pl/data/produkty/Hikvision/technologie/hikvision-vsplayer.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h3>Špecifikácia</h3>
+<div class="col">
+<h3 class="mb-4 h4">Specyfikacja techniczna</h3>
+<div class="table-responsive">
+<div style="overflow-x:auto;margin:10px 0;"><table border="1" cellspacing="0" class="table" style="border-collapse:collapse;border:1px solid #888;width:100%;margin:10px 0;font-size:14px;">
+<tr class="thead">
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;" width="25%">Główne</th>
+<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;" width="75%"></th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Przetwornik</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1/2.4" Progressive Scan CMOS</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Czułość</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>Kolor: 0.005 Lux @ (F1.6, AGC ON)</p>B/W: 0 Lux IR lub LED ON
+            </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Migawka</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1/3 s do 1/100 000 s</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Regulacja położenia</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Panorama (pan): 0° ~ 360°, nachylenie (tilt): 0° ~ 75°, obrót: 0° ~ 360°</td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obiektyw</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ogniskowa</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2.8 mm</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kąt widzenia</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Poziomo: 105°, pionowo: 55°, przekątna: 127°</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Apertura</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">F1.6</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Typ przysłony</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Stała</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Mocowanie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">M12</td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">DORI</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wykrywanie<br/>(25 px/m)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">76 m</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obserwacja<br/>(63 px/m)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">30 m</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozpoznanie<br/>(125 px/m)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">15 m</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Identyfikacja<br/>(250 px/m)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">7 m</td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Oświetlacz</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Typ oświetlacza</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IR lub LED (światło białe)</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Liczba diod</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>1x IR LED</p>
+                1x LED
+            </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasięg</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">30 m</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentny oświetlacz</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Długość fali IR</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">850 nm</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryby pracy</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tylko IR, tylko LED, Smart - IR + LED (klasyfikacja ludzi i pojazdów), oświetlacz zawsze włączony / wyłączony, harmonogram</td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wideo</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Maksymalna rozdzielczość</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">6.0 Mpx, 3200 × 1800 pikseli</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/>(główny strumień)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>50Hz: 20 kl/s @ 3200 × 1800 (6Mpx) / 20 kl/s @ 1920 × 1080 (2Mpx) / 1280 × 720 (1Mpx)</p>
+                60Hz: 20 kl/s @ 3200 × 1800 (6Mpx) / 20 kl/s @ 1920 × 1080 (2Mpx) / 1280 × 720 (1Mpx)
+            </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/>(pomocniczy strumień)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>50Hz: 20 kl/s @ 1280 × 720 / 640 × 480 / 640 × 360</p>
+                60Hz: 20 kl/s @ 1280 × 720 / 640 × 480 / 640 × 360
+            </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompresja</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>Główny strumień: H.265+ / H.265 / H.264+ / H.264</p>
+                Pomocniczy strumień: H.265 / H.264 / MJPEG
+            </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Typ H.264</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Baseline Profile / Main Profile / High Profile </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Typ H.265</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Main Profile</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Bitrate</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">32 Kbps ~ 8 Mbps</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kontrola Bitrate</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">CBR / VBR</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">ROI</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Obsługa jednego regionu dla strumienia głównego</td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Audio</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wbudowany mikrofon</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Typ audio</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Mono</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Filtrowanie szumów otoczenia</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Próbkowanie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">8 kHz / 16 kHz</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompresja</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">G.711ulaw / G.711alaw / G.722.1 / G.726 / MP2L2 / PCM / AAC-LC</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Bitrate</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">64 Kbps (G.711 ulaw) / 64 Kbps (G.711 alaw) / 16 Kbps (G.722.1) / 16 Kbps (G.726) / 32 ~ 160 Kbps (MP2L2) / 16 ~ 64 Kbps (AAC-LC)</td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obraz</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">SNR</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">≥52 dB</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb dzień / noc</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Dzień / noc / auto / harmonogram</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Funkcje ulepszania obrazu</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">BLC, HLC, 3D DNR</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">WDR</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Cyfrowy (DWDR)</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Maski prywatności</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">4x</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Funkcje obrazu</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tryb korytarzowy, nasycenie, jasność, kontrast, ostrość, wzmocnienie, balans bieli (regulacja za pomocą oprogramowania lub przeglądarki www)</td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Sieć</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Podgląd na żywo</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Do 6 kanałów jednocześnie</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zgodność ze standardem</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ONVIF, ISAPI, SDK</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługiwane protokoły sieciowe</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">TCP/IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Użytkownicy</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Obsługa do 32 użytkowników / 3 poziomy dostępu: administrator, operator, użytkownik</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Bezpieczeństwo</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Ochrona hasłem, skomplikowane hasło, znak wodny, uwierzytelnianie podstawowe i skrótowe dla HTTP, WSSE i uwierzytelnianie skrótowe dla ONVIF, dziennik audytu bezpieczeństwa, uwierzytelnianie hosta (adres MAC)</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zdalna obsługa</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">iVMS-4200, Hik-Connect</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługa przez przeglądarki www</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>Wymagany plug-in w podglądzie na żywo dla: IE 10, IE 11</p>
+<p>Niewymagany plug-in w podglądzie na żywo dla: Chrome 57.0+, Firefox 52.0+, Edge 89+</p>
+                Usługa lokalna: Chrome 57.0+, Firefox 52.0+
+            </td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zdarzenia</th>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Podstawowe</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Detekcja ruchu (wyzwalanie alarmu przez określony typ obiektu (człowiek)), alarm sabotażowy wideo, wyjątek (odłączenie sieci, konflikt adresów IP, nielegalne logowanie) </td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Złącza</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ethernet</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x RJ-45 10/100 Base-T/Base-TX</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x gniazdo 5,5/2,1 na przewodzie</td>
+</tr>
+<tr class="thead">
+<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pozostałe</th>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Języki</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Polski</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Metody powiadomień</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Przesyłanie na FTP, wyślij e-mail, powiadom centrum nadzoru, wyzwalanie przechwytywania</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Funkcje ogólne</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Anti-banding, heartbeat, odbicie lustrzane, resetowanie hasła przez e-mail, ochrona hasła</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Klasa szczelności</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IP67 (IEC 60529-2013)</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>12 V DC</p>
+                PoE (802.3af, klasa 3)
+            </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pobór mocy</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>DC: maks. 5 W (0,41 A, 12 V DC)</p>
+                PoE: maks. 6,5 W (802.3af @ 36 V ~ 57 V)
+            </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wilgotność</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&lt;95% (bez kondensacji)</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Temperatura pracy</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">-30°C ~ +60°C</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Materiał</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
+<p>Front wokół obiektywu: plastik</p>
+<p>Część kulista: metal + plastik</p>
+<p>Uchwyt części kulki: plastik</p>
+                Uchwyt montażowy: plastik
+            </td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Waga</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">340 g</td>
+</tr>
+<tr class="tbody">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wymiary (śr./wys.)</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">⌀110 × 93 mm</td>
+</tr>
+<tr class="tbody last">
+<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Gwarancja</th>
+<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">36 miesięcy</td>
+</tr>
+</table></div>
+</div>
+</div>
+]]></DESCRIPTION>
+    <MANUFACTURER>Hikvision</MANUFACTURER>
+    <CATEGORIES>
+      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <PRICE>162.72</PRICE>
+    <CURRENCY>EUR</CURRENCY>
+    <IMAGES>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14780_ds_2cd1363g2_liu2_8mm_kamera_ip_6mpx_hikvision_glowne_l_.jpg</IMAGE>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14780_ds_2cd1363g2_liu2_8mm_kamera_ip_6mpx_hikvision_front_l_.jpg</IMAGE>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14780_ds_2cd1363g2_liu2_8mm_kamera_ip_6mpx_hikvision_spod_l_.jpg</IMAGE>
+      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14780_ds_2cd1363g2_liu2_8mm_kamera_ip_6mpx_hikvision_akces_l_.jpg</IMAGE>
     </IMAGES>
   </SHOPITEM>
   <SHOPITEM>
@@ -7163,7 +7954,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>166.92</PRICE>
+    <PRICE>167.84</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13565_kamera_ip_dual_px_di4036ir3dlw_4mp_3_6mm_biala_ipox_glowne_l_.jpg</IMAGE>
@@ -7588,7 +8379,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>168.06</PRICE>
+    <PRICE>168.98</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13558_kamera_dh_ipc_hdw1239v_a_ii_v2_glowne_bez_podsw_l_.jpg</IMAGE>
@@ -8392,7 +9183,7 @@ VSPlayer
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>172.58</PRICE>
+    <PRICE>173.53</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14779_kamera_ip_dome_ds_2cd1143g2_liu_4mp_2_8mm_glowne_l_.jpg</IMAGE>
@@ -9507,7 +10298,7 @@ IP PRO Manager
     <CATEGORIES>
       <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
     </CATEGORIES>
-    <PRICE>191.82</PRICE>
+    <PRICE>192.87</PRICE>
     <CURRENCY>EUR</CURRENCY>
     <IMAGES>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14253_kamera_ip_dome_px_di4028ir4dlpa_w_4mp_2_8_mm_biala_ipox_glowne_l_.jpg</IMAGE>
@@ -9520,1018 +10311,6 @@ IP PRO Manager
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14253_kamera_ip_dome_px_di4028ir4dlpa_g_4mp_2_8mm_ipox_spod_z_przew_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14253_ir4_ir5dl_dome_akcesoria_l_.jpg</IMAGE>
       <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/14253_kamera_ip_dome_px_di4028ir4dlpa_g_4mp_2_8mm_ipox_box_l_.jpg</IMAGE>
-    </IMAGES>
-  </SHOPITEM>
-  <SHOPITEM>
-    <CODE>PX-DI6028IR3DL/W</CODE>
-    <NAME>PX-DI6028IR3DL/W - kamera IP 6Mpx</NAME>
-    <SHORT_DESCRIPTION>Uwaga, kamera do obsługi rozdzielczości 3200×1800 wymaga rejestratora z oprogramowaniem (firmware) w wersji 1.4.7 (lub nowszej) z datą wydania nie starszą niż 07.12.2023.  
-  Uwaga, kamera wymaga aktywacji hasła przy pierwszym uruchomieniu.</SHORT_DESCRIPTION>
-    <DESCRIPTION><![CDATA[
-<div>
-<div>
-<div>
-<p><em>Uwaga, kamera do obsługi rozdzielczości 3200×1800 wymaga rejestratora z oprogramowaniem (firmware) w wersji 1.4.7 (lub nowszej) z datą wydania nie starszą niż 07.12.2023.</em></p>
-<p><em>Uwaga, kamera wymaga aktywacji hasła przy pierwszym uruchomieniu. Szczegółowy opis znajduje się w zakładce "Porady" - "Aktywacja kamer IPOX".</em></p>
-<hr/>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h2>Cechy kamery IPOX</h2>
-<p><strong>PX-DI6028IR3DL</strong> to kamera typu <strong>turret marki IPOX</strong> pracująca w technologii <strong>podwójnego oświetlacza tzw. Dual Light</strong>. W praktyce wykorzystanie w kamerze dwóch rodzajów diod - <strong>IR ze światłem podczerwonym</strong> i <strong>LED ze światłem białym o ciepłej barwie</strong> pozwala na uzyskanie w nocy tradycyjnego obrazu czarno-białego lub obrazu kolorowego. Urządzenie w procesie przechwytywania obrazu wykorzystuje <strong>przetwornik CMOS</strong>, który umożliwia przechwytywanie <strong>nagrań w rozdzielczości 3200×1800 (6Mpx)</strong>. Zastosowany w urządzeniu <strong>stałoogniskowy obiektyw</strong> pozwala na szybką adaptację kamery bez potrzeby dodatkowej ingerencji ze strony użytkownika. Kamera posiada na wyposażeniu podstawowe <strong>funkcje AI</strong> pozwalające <strong>zidentyfikować człowieka / pojazd</strong> po przekroczeniu linii lub naruszeniu strefy.</p>
-<p>Inteligentne zarządzanie kamerą oferuje <strong>szereg funkcji autokorekty obrazu</strong> oraz bogaty katalog systemów wsparcia monitoringu. Zaawansowane funkcjonalności kamery pozwalają na właściwe dopasowanie sposobu operowania instalacji zabezpieczeń zależnie od indywidualnych potrzeb użytkownika i priorytetów bezpieczeństwa. Zastosowanie systemu <strong>kompresji H.265</strong> zapewnia odpowiednią jakość nagrania przy zmniejszonym zapotrzebowaniu na pojemność dyskową. Dodatkowo <strong>wysoka klasa szczelności obudowy (IP67)</strong> i <strong>wytrzymałość materiałowa (IK10)</strong> gwarantują kamerze niewrażliwość na oddziaływanie zróżnicowanych zjawisk atmosferycznych i ochronę przed aktami wandalizmu. Dzięki <strong>technologii PoE i dedykowanym akcesoriom</strong> instalacja i późniejsze ustawienie kamery przebiega w sposób szybki i nieskomplikowany. Dodatkowo urządzenie wyposażone zostało w czuły <strong>mikrofon</strong>, z którym możliwa jest <strong>rejestracja dźwięku</strong>, złącze audio in oraz <strong>slot na kartę microSD</strong>.</p>
-
-</div>
-</div>
-<div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/mpx.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Rozdzielczość"/><p><small>6MPX</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/obiektyw.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Ogniskowa"/><p><small>2.8mm</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/color.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title=""/><p><small>Full Color</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/dual_led.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title=""/><p><small>Dual Light</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/smartir.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title=""/><p><small>Smart</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/ndaa_2.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Zgodność z dyrektywą NDAA"/><p><small>NDAA</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/h265.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Kompresja"/><p><small>H.265</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/mikrofon.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Audio"/><p><small>Mikrofon</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/audio_in.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title=""/><p><small>Audio in</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/microsd.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Slot pamięci microSD"/><p><small>256GB</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/ai.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Funkcje AI"/><p><small>AI</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/przekroczenie_linii_2.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Funkcje inteligentnej detekcji analizy obrazu"/><p><small>VCA</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/wdr.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Funkcje obrazu"/><p><small>WDR</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/3d_dnr.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Funkcje obrazu"/><p><small>DNR</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/blc.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Funkcje obrazu"/><p><small>BLC/HLC</small></p>
-</div>
-<!--
-<div class="col-3 col-sm-3 col-md-4 col-lg-3 col-xl-2 text-center">
-        <img data-toggle="tooltip" data-placement="top" data-html="true" title="" data-original-title="Szyfrowanie danych" class="img-fluid mx-auto d-block" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/https_2.png" alt="Cechy kamery"><p class="text-center"><small>HTTPS</small></p>
-    </div>
--->
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/p2p.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title=""/><p><small>P2P</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/ip.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Klasa IP"/><p><small>IP67</small></p>
-</div>
-<div>
-<img alt="Cechy kamery" src="https://www.napad.pl/data/produkty/IPOX/technologie/ikony/ik10.png" style="max-width:100%;height:auto;display:block;margin:12px auto;" title="Klasa IK"/><p><small>IK10</small></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/1.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/2.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/3.1.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/4.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/5.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/6.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/7.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/8.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/9.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/10.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/11.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/12.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/13.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/14.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/menu/menu_ipox_S4-C_5.2.2/15.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-</div>
-</div>
-<div>
-<h2>Funkcjonalne menu</h2>
-<p>Zarządzanie, programowanie ustawień oraz obsługa <strong>kamery IP IPOX</strong> odbywa się w czytelnym i przejrzystym programie zarządzającym urządzeniem, które dostępne jest z poziomu przeglądarki internetowej. Za pomocą intuicyjnego menu programu możliwy jest nie tylko test kamer i bieżący podgląd rejestrowanego obrazu, ale możliwe jest również ustawianie zaawansowanych parametrów oraz funkcji urządzenia.</p>
-</div>
-</div>
-<div>
-<div>
-<h2>Smart Dual Light - zadecyduj o sposobie doświetlenia w nocy</h2>
-<p>Prezentowana kamera IPOX Light Explorer wyposażona została w technologię <strong>Smart Dual Light</strong>, dzięki której istnieje możliwość przełączania między różnymi trybami oświetlania w kamerze. Zastosowanie <strong>podwójnego oświetlacza IR + LED z technologią SMART</strong> pozwala na <strong>włączenie światła białego</strong> tylko w wypadku wykrycia <strong>w wyznaczonej przez użytkownika strefie (do 4 stref) człowieka lub pojazdu</strong>. W przypadku, kiedy osoba opuści monitorowany obszar to oświetlacz LED światła białego zostaje automatycznie <strong>przełączony na oświetlanie IR</strong> po ustalonym przez użytkownika czasie.</p></div>
-<div>
-<div>
-
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-
-</div>
-</div>
-<div>
-<h2>Kolorowy obraz 24/7</h2>
-<p><strong>Kamera IPOX Light Explorer</strong> gwarantuje obraz <strong>w żywych kolorach przez całą dobę</strong> nawet w bardzo słabych warunkach oświetleniowych. Cecha ta pozytywnie wpływa na bezpieczeństwo i pozwala na dokładną identyfikacje osób i mienia. Zdolność do rejestrowania szczegółowych obrazów w słabym oświetleniu pochodzi z połączenia <strong>oświetlacza światła białego</strong>, i <strong>światłoczułego przetwornika</strong>. Zastosowanie tych funkcji pozwala większej ilości światła dostać się do kamery, dzięki czemu możliwe jest przechwytywanie obrazu w pełnej palecie barw o wysokiej jasności.</p>
-</div>
-</div>
-<div>
-<div>
-<h2>Funkcje AI w kamerach IPOX</h2>
-<p>W przeciwieństwie do standardowych funkcji inteligentnych (VCA) rozwiązania AI umożliwiają połączenie ze sobą dwóch lub więcej funkcji w celu uzyskania lepszej identyfikacji. Algorytm głębokiego uczenia się nakierowany jest głównie na skuteczne <strong>rozpoznawanie pojazdów i ludzi</strong>. Zapewnia to mniejszą liczbę fałszywych alarmów, większą elastyczność i pozytywnie wpływa na dokładność monitoringu, co bezpośrednio przyczynia się <strong>do zwiększenia poziomu bezpieczeństwa</strong> na obserwowanym terenie.</p>
-<h3>Ochrona obwodowa</h3>
-<hr/>
-<p>Kamera wyposażona została w funkcje <strong>przekroczenia linii i wykrywania wtargnięcia</strong>. Technologia AI pozwala <strong>zidentyfikować obiekt na nagraniu jako osoba lub pojazd</strong> i dopiero po werwyfikacji wyzwolić alarm. Jednocześnie system pominie sytuacje alarmowe, za które odpowiedzialne są np. poruszające się na wietrze liście, przebiegające zwierzęta, deszcz, czy włączające się oświetlenie.</p>
-</div>
-<div>
-<div>
-
-</div>
-</div>
-</div>
-<div>
-<div>
-<h2>Funkcje korekty obrazu w kamerze IPOX</h2>
-</div>
-<div>
-<p>Sprawdź, które <strong>technologie poprawiające jakość obrazu</strong> posiada kamera <strong>IPOX PX-DI6028IR3DL</strong>. Dowiedz się więcej, klikając na nazwy poszczególnych funkcji.</p>
-</div>
-<div>
-<div>
-Ochrona obiektów
-Szeroki zakres dynamiki (WDR)
-Funkcja Region of Interest (RoI)
-Maskowanie źródeł światła (HLC)
-<!--<a class="nav-link p-2 m-2 border border-color-2763ac rounded" id="v-pills-62-tab" data-toggle="pill" href="#v-pills-62" role="tab" aria-controls="v-pills-62" aria-selected="false" style="background: #FFF">Redukcja zamglenia (Defog)</a>-->
-Funkcja korytarzowa
-Maski prywatności
-Detekcja ruchu
-</div>
-<div>
-<div>
-<div>
-<div>
-<h3>Detekcja pozostawionych i brakujących obiektów</h3>
-<hr/><p><strong>Detekcja pozostawionych / zabranych obiektów</strong> opiera się na analizie obrazu w czasie rzeczywistym w celu wykrycia obiektów, które zostały pozostawione lub zabrane z <strong>wyznaczonej strefy detekcji</strong>. <strong>Detekcja pozostawionych obiektów</strong> jest powszechnie wykorzystywana do analizy zagrożenia terrorystycznego (zostawione pakunki lub bagaże na dworcach, lotniskach itp.). <strong>Detekcja zabranych obiektów</strong> doskonale sprawdza się w systemach zapobiegania kradzieży, np. monitoringu wystaw i galerii (eksponaty, dzieła sztuki) czy wartościowych elementów wyposażenia (sale muzealne, obiekty konferencyjne, kościoły).</p>
-</div>
-<div>
-<p><img alt="Pozostawione / zabrane obiekty." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_pozostawione_obiekty.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Cyfrowa redukcja szumów - DNR</h3>
-<hr/><p>System redukcji szumów umożliwia zachowanie przejrzystości obrazu w sytuacji zmiennego poziomu siły sygnału. Szczegółowa analiza obrazu z wykorzystaniem <strong>funkcji 3D DNR</strong> w praktyce oznacza zabezpieczenie nagrania przed występowaniem tzw. efektu smużenia i pozwala rejestrować szczegółowe i krystalicznie czyste nagrania wideo.</p>
-</div>
-<div>
-<p><img alt="System redukcji szumów - 3D NR." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_3D_DNR_new.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Szeroki zakres dynamiki - WDR</h3>
-<hr/><p><strong>Funkcja WDR</strong> pozwala uzyskać przejrzysty i szczegółowy obraz, dzięki umiejętnemu niwelowaniu zarówno zbyt jasnych, jak i zaciemnionych fragmentów nagrania. Dzięki systemowi Digital WDR możliwe jest zachowanie czytelności całości monitoringu w miejscach o zróżnicowanym poziomie oświetlenia obserwowanej sceny.</p>
-</div>
-<div>
-<p><img alt="Sprzętowy zakres dynamiki obrazu - WDR." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_wdr_new.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Obszar powiększonego zainteresowania - RoI</h3>
-<hr/><p>Funkcja <strong>RoI (Region of Interest)</strong> pozwala na poprawę jakości wybranych fragmentów obrazu oraz umożliwia ograniczenie jakości pozostałych fragmentów. Rozwiązanie to pozytywnie wpływa na wykorzystanie mocy obliczeniowej procesora sygnałowego, pomaga zmniejszyć poziom wykorzystania pasma sieciowego oraz usprawnia obserwację tylko najbardziej newralgicznych punktów.</p>
-</div>
-<div>
-<p><img alt="Funkcja Region of Interest - RoI." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_roi_new.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Maskowanie źródeł światła - HLC</h3>
-<hr/><p><strong>Funkcja HLC</strong> aktywnie analizuje rejestrowany obraz w poszukiwaniu poruszających się obiektów będących silnymi źródłami oświetlenia. W sytuacji wykrycia takich punktów, system automatycznie nakłada specjalną warstwę maskująca, która umożliwia kamerze czytelną rejestrację obszaru z uwzględnieniem szczegółów, które w normalnych okolicznościach byłyby zasłonięte przez promieniujące światło.</p>
-</div>
-<div>
-<p><img alt="System redukcji światła - HLC." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_hlc.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Redukcja zamglenia - Defog</h3>
-<hr/><p><strong>Inteligentny system przeciwmgielny</strong> jest to funkcja, której zadaniem jest korekta obrazu w sytuacji występowania niekorzystnych zjawisk atmosferycznych takich jak mgła, deszcz czy smog. Kamera z funkcją <strong>Defog</strong> samoczynnie steruje parametrami obrazu umożliwiając zachowanie skuteczności pracy w ramach dynamicznie zmieniających się warunków środowiska zewnętrznego.</p>
-</div>
-<div>
-<p><img alt="System przeciwmgielny - Defog." src="https://www.napad.pl/data/produkty/IPOX/technologie/ipox_defog_new.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Funkcja korytarzowa</h3>
-<hr/><p>Zastosowana w kamerze <strong>funkcja trybu korytarzowego</strong> pozwala zarejestrować całość obrazu z miejsc charakteryzujących się znaczną dysproporcją pomiędzy długością i szerokością przestrzeni użytkowej. Zmiana skanowania jest szczególnie przydatna podczas pracy kamery w wąskich korytarzach, alejkach lub przejściach.</p>
-</div>
-<div>
-<p><img alt="Systemowy obrót obrazu z kamery." src="https://www.napad.pl/data/produkty/tryb_korytarzowy_ipox_lite.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Maski prywatności</h3>
-<hr/><p>To funkcja, która pozwala na indywidualne dostosowanie sposobu funkcjonowania systemu obserwacji do specyfiki przestrzennej i wymogów bezpieczeństwa konkretnego miejsca instalacji. Dzięki systemowi masek prywatności możliwe jest swobodne wyznaczenie fragmentów obrazu, które zostaną wyłączone spod dozoru wizyjnego.</p>
-</div>
-<div>
-<p><img alt="Maski prywatności." src="https://www.napad.pl/data/produkty/strefy_prywatnosci_ipox_lite.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>System detekcji ruchu</h3>
-<hr/><p> Kamera z funkcją detekcji w momencie wykrycia poruszających się obiektów zainicjuje szereg działań, które w bezpieczny sposób powiadomią administratora o potencjalnym zagrożeniu i zarejestrują wszelki ruch w obrębie działania kamery. Administrator systemu posiada sposobność do swobodnego określenia położenia i liczby stref alarmowych objętych ochroną detekcji ruchu, a także może ingerować w harmonogram włączenia lub wyłączenia funkcji w określonym czasie.</p>
-</div>
-<div>
-<p><img alt="Detekcja ruchu." src="https://www.napad.pl/data/produkty/detekcja_ruchu_ipox_lite.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/technologie/powiadomienia/detekcja_ruchu.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<img alt="" src="https://www.napad.pl/data/produkty/IPOX/technologie/powiadomienia/przekroczenie_lini.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-</div>
-<p>Przykładowa konfiguracja powiadomień alarmowych w wybranych zdarzeniach kamery.</p>
-</div>
-<div>
-<h2>Powiadomienia ze zdarzeń alarmowych</h2>
-<p>Kamera na podstawie wcześniej zdefiniowanego zdarzenia: <strong>detekcji ruchu, ochrony obiektów, przekroczenia linii oraz wykrycia wtargnięcia</strong> umożliwia skorzystanie z powiadomień alarmowych w formie: wysłania wiadomości <strong>e-mail z załącznikiem</strong> w postaci zdjęcia ze zdarzenia na wskazany adres, zapisu zdjęcia na serwerze <strong>FTP</strong> lub karcie <strong>microSD</strong>, <strong>wywołania alarmu lokalnego</strong> lub powiadomienia w programie <strong>NVMS</strong>.<br/>Dodatkowo przy połączeniu kamery z rejestratorem marki IPOX możliwe jest, po alarmie ze zdarzenia, zdefiniowanie wyzwolenia wyjścia alarmowego, wyświetlenie okna z odpowiednim komunikatem tekstowym, wyzwolenie sygnału z buzzera wbudowanego w rejestrator, czy też wyświetlenie danej kamery na całym ekranie monitora podłączonego do wyjścia wideo.</p>
-</div>
-</div>
-<div>
-<div>
-<h2>Inne cechy kamery IPOX</h2>
-</div>
-<div>
-<div>
-Technologia PoE
-Zapasowy obraz systemu
-Połączenie HTTPS
-Protokół RTMP
-Kompresja H.265
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<h3>Kamera z technologią PoE</h3>
-<hr/>
-<p><strong>Power over Ethernet</strong> jest rozwiązaniem opracowanym z myślą o przeprowadzaniu szybkiego i nieskomplikowanego montażu urządzeń sieciowych oraz komfortowej obsługi sprzętu i łatwej modernizacji instalacji. Dzięki obsłudze <strong>PoE w standardzie 802.3af</strong> realne stanie się podłączenie kamery IP przy wykorzystaniu popularnej <strong>skrętki komputerowej UTP</strong>. Oszczędność całkowitej ilości przewodów niezbędnych do uruchomienia urządzenia usprawnia system monitoringu i umożliwia lokalizację kamery z dala od tradycyjnych źródeł zasilania sieciowego.</p>
-</div>
-<div>
-<p><img alt="Zasilanie PoE (Power over Ethernet)." src="https://www.napad.pl/data/produkty/IPOX/technologie/technologia_poe_500.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Zapasowy obraz systemu</h3>
-<hr/>
-<p><strong>Zapasowy obraz systemu</strong> to mechanizm, który zapewnia bezpieczeństwo i stabilność działania urządzenia <strong>podczas aktualizacji oprogramowania</strong> (firmware). Funkcja ta chroni kamerę przed uszkodzeniem systemu w przypadku błędów, przerwania aktualizacji lub w przypadku, gdy w systemie występują częste braki w zasilaniu. Gdy użytkownik inicjuje aktualizację, nowy firmware jest wgrywany do pamięci kamery, co oznacza, że obraz główny (Primary Image) jest nadpisywany nową wersją, jednocześnie w pamięci istnieje obraz zapasowy (Backup Image), który pozostaje nienaruszony. Jeśli aktualizacja zostanie przerwana (np. z powodu awarii zasilania lub problemu z plikiem aktualizacji), kamera automatycznie przełącza się na obraz zapasowy, wykorzystując go do przywrócenia sprawności. Po tej operacji kamera przez <strong>10 minut kamera będzie w trybie obserwacji</strong>, a po tym czasie oba obrazy się zsynchronizują. Korzyści płynące z systemu zapasowego to przede wszystkim <strong>ciągłość w działaniu systemu monitoringu</strong>, bezpieczeństwo np. brak ryzyka "uceglenia" kamery oraz uproszczenie procesu aktualizacji oprogramowania.</p>
-</div>
-<div>
-<p><img alt="Kamera z technologią zapasowego obrazu systemu." src="https://www.napad.pl/data/produkty/IPOX/technologie/zapasowy_obraz_systemu/zapasowy_obraz_systemu_2.jpg" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Bezpieczne przesyłanie danych szyfrowanym połączeniem HTTPS</h3>
-<hr/>
-<p>Wyróżniającą cechą kamery jest obsługa komunikacji klienta z serwerem za pomocą <strong>protokołu HTTPS</strong>, który gwarantuje najwyższy poziom bezpieczeństwa przesyłania danych. <strong>HTTPS</strong> czyli <strong>Hypertext Transfer Protocol Secure</strong> jest <strong>szyfrowaną</strong> wersją protokołu HTTP, który wykorzystywany jest przy przeglądaniu stron internetowych. <strong>Protokół HTTPS </strong>oparty został o standard TLS (Transport Layer Security), będący rozwinięciem protokołu SSL (Secure Socket Layer). Poprzez szyfrowanie i mechanizmy infrastruktury klucza publicznego (PKI - Public Key Infrastructure) protokół ten pozwala zabezpieczyć kanał komunikacyjny między dedykowanymi urządzeniami (np. kamerą a komputerem). <strong>Monitoring z HTTPS</strong> zapewnia zatem bezpieczeństwo poprzez:</p>
-<ul>
-<li>mechanizm certyfikacji, który potwierdza autentyczność serwera, z którym następuje komunikacja;</li>
-<li>integralność przesyłanych danych i brak możliwości jakiejkolwiek manipulacji nimi przez osoby postronne;</li>
-<li>szyfrowanie całej komunikacji pomiędzy urządzeniami.</li>
-</ul>
-<p>Prezentowana <strong>kamera IP z protokołem HTTPS</strong> umożliwia automatyczne utworzenie certyfikatu, wgranie już istniejącego lub wygenerowanie żądania wydania certyfikatu od zewnętrznego podmiotu. Ze względu na wyżej wymienione właściwości <strong>kamera IP z szyfrowanym połączeniem</strong> polecana jest do stosowania w miejscach wymagających silnych zabezpieczeń, takich jak: <strong>banki, areszty śledcze, więzienia lub budynki użyteczności publicznej</strong>.</p>
-</div>
-<div>
-<p><img alt="Kamera z technologią HTTPS." src="https://www.napad.pl/data/produkty/IPOX/technologie/https_ipox_600.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Nowoczesne przesyłanie danych z protokołem RTMP</h3>
-<hr/>
-<p>Kamera udostępnia szeroką gamę rozwiązań związanych z możliwościami przesyłania danych z monitoringu za pomocą różnych dróg transmisji. Jedną z ciekawszych metod dostępnych dla użytkownika jest możliwość strumieniowania obrazu w czasie rzeczywistym z wykorzystaniem nowoczesnego <strong>protokołu RTMP</strong>. Usługa <strong>Real Time Messaging Protocol </strong>umożliwia nie tylko szybkie przesyłanie danych bezpośrednio na serwer zewnętrzny, ale jest łatwa w obsłudze i daje duże możliwości konfiguracyjne, które dostępne są bezpośrednio z menu. System monitoringu oparty o kamery wyposażone w obsługę protokołu RTMP, który dodatkowo zostanie podłączony do zewnętrznego serwera sprawdzi się zwłaszcza w profesjonalnym monitoringu umożliwiającym transmisję różnego rodzaju wydarzeń do szerokiego grona odbiorców.</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Kompresja H.265</h3>
-<hr/>
-<p>Atutem nowoczesnych kamer sieciowych IP jest również wykorzystywanie w archiwizacji wydajnych metod kompresji danych. <strong>Kamera do monitoringu IP</strong> obsługuje standard H.265 zapewniający nagrywanie materiału z monitoringu z zachowaniem wyjściowej jakości obrazu i niewielkiego rozmiaru zapisywanych plików. <strong>Kompresja H.265</strong> to standard kompresji wideo, który zapewnia dwukrotnie lepszy stopień kompresji niż H.264 - zachowując jednocześnie taką samą jakość obrazu. Korzyścią wynikającą z tak wysokiej efektywności kompresji jest dwa razy szybsze pobieranie, dwa razy mniejsze zapotrzebowanie na przepustowość łącza czy na dwa razy mniej miejsca na przechowanie nagrań w rejestratorze. Format kompresji H.265 obsługiwany jest tylko <strong>natywnie </strong>w ramach <strong>jednego </strong>producenta.</p>
-</div>
-<div>
-<p><img alt="Porównanie kompresji H.265 i H.264." src="https://www.napad.pl/data/produkty/IPOX/technologie/h.265_space.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-<div>
-<p><img alt="Porównanie kompresji H.265 i H.264." src="https://www.napad.pl/data/produkty/IPOX/technologie/h.265_stream_6mbps.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<!--
-<div style="border-radius: 25px;" class="col-sm-12 col-md-5 text-center shadow p-3 bg-white border p-4 m-3">
-<a href="https://www.napad.pl/data/produkty/IPOX/PX-DIC2028WL/kamera_ip_dome_color_px_dic2028wl_2mp_2_8mm_zoom1.jpg" title="Kamera IPC z obiektywem 2.8 mm." data-fancybox="gallery" data-caption="Kamera IPC z obiektywem 2.8 mm."><img class="img-fluid p-4 mb-3 img-zoom-1 lazy" src="https://www.napad.pl/data/produkty/IPOX/PX-DIC2028WL/kamera_ip_dome_color_px_dic2028wl_2mp_2_8mm_zoom1_785.png" alt="Kamera IPC z obiektywem 2.8 mm."></a>
-            <h2 class="mt-2 mb-3">Obiektyw stałoogniskowy</h2>
-            <hr class="w-75">
-            <p class="text-center">Kamerę <strong>IPOX PX-DIC2028WL</strong> wyposażono <strong>w stałoogniskowy, światłoczuły obiektyw 2.8 mm z przysłoną F1.0</strong> o kątach widzenia <strong>99°</strong> (poziomo), <strong>53°</strong> (pionowo), <strong>116°</strong> (po przekątnej).</p>
-        </div>
-
-
-<div style="border-radius: 25px;" class="col-sm-12 col-md-5 text-center shadow p-3 bg-white border p-4 m-3">
-<a href="https://www.napad.pl/data/produkty/IPOX/PX-DIC2028WL/kamera_ip_dome_color_px_dic2028wl_2mp_2_8mm__zoom2.jpg" title="Oświetlacz LED." data-fancybox="gallery"><img class="img-fluid p-4 mb-3 img-zoom-1 lazy" src="https://www.napad.pl/data/produkty/IPOX/PX-DIC2028WL/kamera_ip_dome_color_px_dic2028wl_2mp_2_8mm__zoom2_785.png"></a>
-            <h2 class="mt-2 mb-3">Oświetlacz LED</h2>
-            <hr class="w-75">
-<p class="text-center">Kamera wyposażona została <strong>w dwie diody LED</strong> pracujące <strong>w zakresie światła widzialnego</strong>. <strong>Białe światło</strong> ma przyjemną dla oka ludzkiego ciepłą barwę i można dostosowywać jego natężenie lub <strong>zupełnie je wyłączyć</strong>. W praktyce często światło z oświetlacza nie musi być wykorzystywane i do <strong>uzyskania kolorowego obrazu</strong> wystarcza oświetlenie np. z latarni ulicznych.</p>
-        </div>
--->
-<div>
-<img src="https://www.napad.pl/data/produkty/IPOX/PX-DIC2028WL/kamera_ip_dome_color_px_dic2028wl_2mp_2_8mm_zoom3_785.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<h2>Obsługa kart microSD, wbudowany mikrofon</h2>
-<hr/>
-<p>Wyposażenie kamery w <strong>slot microSD i czuły mikrofon</strong> umożliwia bezpośrednie <strong>nagrywanie obrazu i dźwięku</strong> na karcie o maksymalnej pojemności <strong>256 GB</strong>.</p>
-</div>
-<div>
-<img src="https://www.napad.pl/data/produkty/IPOX/PX-DI2028IR3DL/kamera_ip_dual_px_di2028ir3dlw_2mp_przod_z_przew_v2_785.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-<h2>Odporna, wytrzymała obudowa</h2>
-<hr/>
-<p>Obudowa wykazuje szczelność na poziomie <strong>IP67</strong> i odporność mechaniczną na poziomie <strong>IK10</strong>.</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<h2>Rozbudowane wsparcie techniczne, darmowe oprogramowanie</h2>
-<p>Zwiększenie komfortu pracy <strong>z urządzeniami IPOX</strong> zapewnia wykorzystanie dodatkowych możliwości jakie oferuje bezpłatne oprogramowanie zarządzające - <strong>NVMS 2.0 Lite</strong> i aplikacja <strong>IPOX PRO</strong>. Te całkowicie darmowe programy stworzone zostały z myślą o pełnej kontroli nad systemami telewizji przemysłowej przy wykorzystaniu komputera lub urządzenia mobilnego.</p>
-</div>
-<div>
-<div>
-NVMS
-IPOX PRO
-IP PRO Manager
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<h3>Program NVMS</h3>
-<hr/>
-<p><strong>NVMS (Network Video Monitoring System)</strong> to program kliencki, który umożliwia bezproblemową współpracę z urządzeniami marki <strong>IPOX </strong>oraz wspiera zarządzanie produktami <strong>innych producentów</strong> poprzez protokół <strong>ONVIF</strong> m.in. <strong>Dahua i Hikvision</strong>. Czytelny interfejs użytkownika w <strong>języku polskim</strong> zapewnia bezproblemową kontrolę nad dedykowanymi urządzeniami i gwarantuje pełny komfort obsługi wizyjnych systemów zabezpieczeń.</p>
-<p>
-<span><i></i>Zobacz więcej informacji</span>
-</p>
-</div>
-<div>
-<p>
-<img alt="Bezpłatne oprogramowanie NVMS." src="https://www.napad.pl/data/produkty/IPOX/technologie/NVR/oprogramowanie_nvms.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-</p>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Współpraca z produktami producentów m.in. IPOX, Hikvision, Dahua</li>
-<li>Tworzenie alarmów wideo oraz systemów detekcji</li>
-<li>Czytelny przyjazny interfejs w języku polskim</li>
-<li>Obsługa kamer obrotowych PTZ, LPR i AI</li>
-<li>Wyświetlanie wirtualnych map</li>
-<li>Dwukierunkowe audio</li>
-</ul>
-</div>
-<div>
-<ul>
-<li>Zaawansowane funkcje archiwizacji nagrań oraz dzienników zdarzeń</li>
-<li>Elastyczny system tworzenia zadań i harmonogramów</li>
-<li>Windows (x64) i Mac OS (x64)</li>
-<li>Powiadomienia dźwiękowe</li>
-<li>Obsługa protokołu Onvif</li>
-<li>Obsługa wielu ekranów</li>
-</ul>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Aplikacja IPOX PRO</h3>
-<hr/>
-<p><strong>IPOX PRO</strong> to profesjonalna aplikacja stworzona z myślą o zapewnieniu wygodnego i bezpiecznego dostępu do urządzeń <strong>marki IPOX</strong> z poziomu urządzeń mobilnych. Umożliwia zdalny podgląd obrazu z kamer na smartfonach i tabletach z systemem Android oraz iOS, zapewniając szybki dostęp do monitoringu z dowolnego miejsca. Dzięki powiadomieniom PUSH wysłanych w reakcji na zdarzenia aplikacja pozwala na natychmiastową reakcję co zwiększa poziom bezpieczeństwa użytkowników systemu. Standardowo do transmisji wykorzystywany jest dodatkowy strumień, który optymalizuje przesył obrazu i zapewnia płynne działanie na urządzeniach ze słabszą jakością łączą internetowego, ale wspiera również możliwość wyświetlania głównego strumienia, co pozwala uzyskać obraz w pełnej jakości.</p>
-<p>
-<span><i></i>Zobacz więcej informacji</span>
-</p>
-</div>
-<div>
-<p>
-<img alt="Aplikacja do monitoringu CCTV." src="https://www.napad.pl/data/produkty/IPOX/technologie/NVR/aplikacja_ipox_pro_smartphon_1000.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3>Szybka konfiguracja wielu urządzeń jednocześnie</h3>
-<hr/>
-<p>
-                        Program <strong>IPOX PRO Manager</strong> umożliwia łatwe i szybkie wyszukiwanie urządzeń marki IPOX takich jak rejestratory, kamery IP, wideodomofony. Oprogramowanie pozwala na aktywację, zmianę adresów IP, modyfikację haseł dostępowych, aktualizację oprogramowania dla wielu urządzeń jednocześnie co znacząco skraca proces konfiguracji nowych systemów. Program umożliwia również na przywracanie ustawień fabrycznych kamer oraz bieżące odczytywanie informacji podstawowych urządzeń. Program <strong>IPOX PRO MANAGER</strong> dedykowany jest zarówno do małych, jak i dużych systemów monitoringu. Oprogramowanie dostępne jest na systemy operacyjne Windows, a jego aktualną wersje  można pobrać bezpośrednio z naszej strony.
-                    </p>
-<p>
-<span><i></i>Przejdź do pobierania</span>
-</p>
-</div>
-<div>
-<p>
-<img alt="IPOX PRO MANAGER - wygląd interfejsu." src="https://www.napad.pl/data/produkty/IPOX/technologie/NVR/ipox_eco_manager_new2.png" style="max-width:100%;height:auto;display:block;margin:12px auto;"/>
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- Aplikacja NVMS -->
-<div>
-<div>
-<h2>Pobierz aplikację NVMS lub IPOX PRO</h2>
-</div>
-<!--
-    <div class="col-sm-12 col-md-6 col-xl-3 d-flex justify-content-center mb-5 mb-xl-0">
-        <div class="item app">
-            <a title="Program NVMS Lite 2.0 (Windows x32)" target="_blank" href="https://www.napad.pl/programy/nvms_lite_win_2_1_2_30_08_2021_x32.zip"></a>
-            <div class="title">NVMS 2.0 Lite</div>
-            <div class="desc">Wersja: 2.1.2 Data: 11-10-2021 <span class="text-primary">(x32)</span></div>
-            <div class="nvms"></div>
-            <div class="download"></div>
-            <div class="windows"></div>
-        </div>
-    </div>
-    -->
-<div>
-<div>
-
-<div>NVMS 2.0 Lite</div>
-<div>Wersja: 2.1.4 Data: 06-08-2025 <span>(x64)</span></div>
-<div></div>
-<div></div>
-<div></div>
-</div>
-</div>
-<div>
-<div>
-
-<div>NVMS 2.0 Lite</div>
-<div>Wersja: 2.1.4 Data: 21-04-2025 <span>(x64)</span></div>
-<div></div>
-<div></div>
-<div></div>
-</div>
-</div>
-<div>
-<div>
-<div>IPOX PRO</div>
-<span></span><span></span>
-<span></span><span></span>
-</div>
-</div>
-</div>
-<!-- end NVMS -->
-</div>
-<h3>Špecifikácia</h3>
-<div class="col">
-<h3 class="mb-4 h4">Specyfikacja techniczna</h3>
-<div class="table-responsive">
-<div style="overflow-x:auto;margin:10px 0;"><table border="1" cellspacing="0" class="table" style="border-collapse:collapse;border:1px solid #888;width:100%;margin:10px 0;font-size:14px;">
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;" width="25%">Główne</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;" width="75%"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Przetwornik</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1/2.5" 6MP Progressive Scan CMOS</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozdzielczość</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">6Mpx, 3200 × 1800 pikseli</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Czułość</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
-<p>0.008 lux @ F1.6 (AGC ON)</p>
-                    0 lux @ IR LED ON
-                </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obiektyw</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">2.8 mm @ F1.6</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kąt widzenia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Poziomo: 104°; pionowo: 55°; przekątna: 128°</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Migawka</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1/4 ~ 1/100 000 s (automatyczna / ręczna)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zakres regulacji</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Panorama (pan): 0° ~ 360°; nachylenie (tilt): 0° ~ 75°; obrót: 0° ~ 360°</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">DORI</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wykrywanie (25 px/m)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">69 m</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obserwacja (63 px/m)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">28 m</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozpoznanie (125 px/m)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">14 m</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Identyfikacja (250 px/m)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">7 m</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Oświetlacz</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Typ diod</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>IR (podczerwień)</p>
-                    LED (światło białe)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Liczba diod</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>1x IR LED</p>
-                    1x LED</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasięg</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">20 ~ 30 m</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Inteligentny oświetlacz</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak, przełączanie z oświetlacza IR na LED przy wykryciu człowieka / pojazdu / jednośladu (motocykl / rower) dla 4 zdefiniowanych stref</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Czas podtrzymania światła białego</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">10 ~ 300 s</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Smart IR</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Funkcja automatycznej kontroli nadmiernej ekspozycji</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Regulacja natężenia światła białego</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1 ~ 100</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ustawienie oświetlacza*</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p><strong>3 tryby działania oświetlacza</strong> (tylko IR, tylko LED, Smart - IR + LED)</p><br/>
-<p>1. LED (widzialne, światło białe) - w dzień oświetlacz pozostaje wyłączony; włącza się automatycznie po zapadnięciu zmroku; tryb ten zapewnia kolorowy obraz w nocy</p>
-<p>2. IR (niewidzialne, światło podczerwieni) - po zapadnięciu zmroku kamera doświetla obraz podczerwienią; obraz kolorowy w dzień, czarno-biały w nocy</p>
-<p>3. Smart IR + LED (domyślny) - tryb łączący oba typy oświetlaczy; kamera po zapadnięciu zmroku doświetla obraz podczerwienią i dopiero po wykryciu człowieka na obrazie włącza swiatło białe i przełącza się w tryb kolorowy</p><br/>
-                    *Aby zmienić tryb oświetlacza należy w ustawieniach przejść do zakładki Ustawienia -&gt; Strumień -&gt; Wyświetlanie -&gt; Typ oświetlenia i tam wybrać odpowiednią opcję</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obraz</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">System</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">PAL (50 Hz) / NTSC (60 Hz)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompresja wideo</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
-<p>Strumień główny: H.265+ / H.265 / H.264+ / H.264</p>
-<p>Strumień pomocniczy: H.265+ / H.265 / H.264+ / H.264 / MJPEG</p>
-                    Strumień dodatkowy: H.265+ / H.265 / H.264+ / H.264 / MJPEG
-                </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Rozdzielczość przetwarzania</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3200×1800 (6Mpx) / 2688×1520 (4Mpx) / 2560×1440 (4Mpx) / 1920×1080 (2Mpx) / 1280×720 (1Mpx) / 704×576 (D1) / 640×480 (VGA) / 480×240 / 352×288 (CIF)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/> 
-                    (główny strumień)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">50 Hz: 1 ~ 20 kl/s @ 6Mpx
-                    <p style="margin-left: 49px">1 ~ 25 kl/s @ 4Mpx / 1080p</p>
-                    60 Hz: 1 ~ 20 kl/s @ 6Mpx<br/>
-<span style="margin-left: 49px; margin-top: 0px">1 ~ 30 kl/s @ 4Mpx / 1080p</span>
-</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/>
-                    (pomocniczy strumień)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
-<p>50 Hz: 1 ~ 25 kl/s @ 720p / D1 / VGA / CIF</p>
-                    60 Hz: 1 ~ 30 kl/s @ 720p / D1 / VGA / CIF
-                </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Prędkość i rozdzielczość przetwarzania<br/>
-                    (dodatkowy strumień)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">
-<p>50 Hz: 1 ~ 25 kl/s @ D1 / 480×240 / CIF</p>
-                    60 Hz: 1 ~ 30 kl/s @ D1 / 480×240 / CIF
-                </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Bitrate</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">64 Kbps ~ 8 Mbps</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zapis zdjęć na serwer FTP</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Cykliczny zapis zdjęć (co 1 ~ 86 400 s = 1440 min = 24 h)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zapis obrazu na kartę pamięci*</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Nagrywanie obrazu i dźwięku z wybranego strumienia według: harmonogramu (24/7), ze zdarzeń alarmowych (detekcja ruchu), z inteligentnej analizy</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zapis zdjęć na kartę pamięci*</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>Zapis zdjęć ze strumienia pomocniczego według: harmonogramu (24/7), ze zdarzeń alarmowych (detekcja ruchu), z inteligentnej analizy, cykliczny zapis zdjęć (co 1 ~ 3600 s)</p>
-                    *Uwaga, kamera nie posiada wbudowanej baterii. Do poprawnego działania funkcji zapisu na karcie SD kamera musi posiadać dostęp do internetu / serwera NTP lub powinna być podłączona do rejestratora NVR; w celu synchronizacji czasu.</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pobieranie zdjęć</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Z dowolnego strumienia</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ustawienia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">AWB (ręczne 0 ~ 100), AGC (ręczne 0 ~ 100), BLC, HLC, MIR, FLIP, 3D DNR, WDR 120 dB, ROI, tryb korytarzowy (90° / 180° / 270°)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Regulacja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Nasycenie, jasność, kontrast, barwa, ostrość, odszumianie</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Filtr migotania</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">60 Hz / 50 Hz</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Tryb dzień/noc</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3 profile (automatyczny, ręczny, harmonogram), 3 poziomy czułości, opóźnienie przejścia 2 ~ 120 s</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Konfiguracja ustawień wideo</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3 profile (dzień, noc, uniwersalny) z możliwością ustawienia harmonogramu pracy</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Licznik pikseli</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak, przy podglądzie na żywo</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Audio (domyślnie wyłączone)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Kompresja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">G.711A, G.711U</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wbudowany mikrofon</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Poziom głośności mikrofonu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0 ~ 100</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Poziom głośności wejścia liniowego</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">0 ~ 100</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">RTMP</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>Częstotliwość próbkowania: 8000 Hz</p>
-<p>Próbkowanie: 16 bitów</p>
-                    Dźwięk: mono</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Złącza</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ethernet</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x RJ-45 10Base-T/100Base-TX</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Audio</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x wejście (jack 3.5)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Gniazdo pamięci</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x slot microSD/ microSDHC/ microSDXC do 256 GB</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x gniazdo 5,5/2,1 na przewodzie</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Przycisk reset</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">1x</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Funkcje</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wsparcie dla protokołów</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Onvif Profile G, M, S, T (25.06)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Integracja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">API, HTTP POST (np. Satel Integra: ETHM-1 Plus -1 wpis), Long Polling</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Obsługiwane protokoły</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">802.1X, DHCP, DDNS, FTP, FTPS, HTTP, HTTP POST, HTTPS, IPv4, IPv6, Multicast, NTP, P2P, PPPoE, QoS, RTMP, RTSP, SFTP, SMTP (e-mail), SNMP (v1, v2, v3), UPnP, WebSocket</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Języki menu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">angielski, chiński, czeski, francuski, grecki, hiszpański, hiszpański (Ameryka Łacińska), japoński, koreański,  niderlandzki, niemiecki, norweski, polski, portugalski, rumuński, turecki, ukraiński, węgierski, włoski</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">OSD</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Data, nazwa kamery, znak wodny, możliwość ustawienia własnego tekstu (1 linia, 15 znaków)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Użytkownicy online</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Max. 6 połączeń</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Blokada logowania</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak, po 6 nieudanych próbach</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zabezpieczenie hasła</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3 poziomy trudności oraz możliwość ustawienia czasu po którym należy zmienić hasło na nowe (od 30 dni do nigdy)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Możliwość rozłączenia połączenia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak, z poziomu administratora</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Filtrowanie adresów</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IP</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Powiadomienia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Zmiana adresu IP, błędne logowanie, detekcja ruchu, sabotaż, ochrona obiektu, przekroczenie linii, wykrycie wtargnięcia (naruszenia strefy)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Reakcja na zdarzenia</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">e-mail, e-mail ze zdjęciem, zapis zdjęcia na FTP, zapis zdjęcia / nagrania na kartę microSD,<!--wyzwolenie wyjścia alarmowego,--> alarm lokalny, alarm w NVMS</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Czas podtrzymania alarmu ze zdarzeń wideo</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><!--1 ~ 120 s - tego nie ma w S4-C-->
-                    1 s / 3 s / 5 s / 10 s / 20 s / 30 s / 60 s / 2 min
-                </td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Alarmy systemowe</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Zapełniona karta microSD, błąd karty microSD</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Detekcja ruchu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Dowolna liczba stref, regulowana czułość 1 ~ 8, harmonogram działania</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pola detekcji ruchu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">396 (22×18)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Strefy prywatności</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">4 strefy</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">ROI</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">3 obszary (poziom 1 ~ 10)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Profilaktyka</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Automatyczny / ręczny restart</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zapasowy obraz systemu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zarządzanie</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Przeglądarki (Windows / MacOS / Linux)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Edge, Safari, Opera, Chrome, Firefox, itd. - interfejs bezwtyczkowy, Internet Explorer - wymaga instalacji wtyczki</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">CMS (Windows / MacOS)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">NVMS 2.0</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Urządzenia mobilne (Android / iOS)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IPOX PRO</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Funkcje inteligentne (algorytm tradycyjny)</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Podstawowe</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Ochrona obiektów (detekcja pozostawionych / zabranych obiektów; 1 obszar), wykrywanie ruchu, wyjątek (odłączenie sieci, konflikt adresów IP, nielegalne logowanie, pełna karta microSD, błąd karty microSD), sabotaż (wykrywanie zmiany: sceny, koloru, rozmycia)</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Funkcje inteligentne (Deep Learning)*</th>
-<th scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Detekcja ruchu</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wykrywanie ruchu w oparciu o rozpoznanie obiektu (człowiek / pojazd)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Ochrona obwodowa (perymetryczna)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Wykrywanie przekroczenia linii (4 linie), wykrywanie wtargnięcia (4 strefy) - wszystkie w oparciu o rozpoznanie obiektu (człowiek / pojazd)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Filtrowanie fałszywych alarmów</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>Filtrowanie wybranych alarmów inteligentnej analizy w oparciu o rozpoznanie obiektu (człowiek / pojazd)</p>
-<p>Filtr wielkości celu dla ochrony obwodowej ustawiany osobno dla ludzi i pojazdów (min. szerokość / wysokość 1%; maks. szerokość / wysokość 90%). Wartości filtru ustawiane są takie same dla wszystkich aktywnych stref / linii</p>
-                    *Uwaga! Funkcja filtrowania dostępna jest osobno dla detekcji ruchu i tylko dla jednej funkcji analizy ochrony obwodowej (włączenie jednej spowoduje wyłączenie drugiej)</td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" scope="col" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pozostałe</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zgodny z NDAA</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">Tak</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Klasa szczelności</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IP67</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Odporność mechaniczna</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">IK10</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Materiał</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;"><p>Część kulista: metal</p>
-<p>Uchwyt części kulki: metal</p>
-                    Uchwyt montażowy: metal</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Zasilanie</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">12 V DC lub PoE 802.3af</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Pobór mocy</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&lt;6,5 W z włączonym oświetlaczem</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wilgotność</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">&lt;95% (bez kondensacji)</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Temperatura pracy</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">-30°C ~ +60°C</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Waga</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ok. 450 g</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Wymiary (śr./wys.)</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">ø94,6×82,8 mm</td>
-</tr>
-<tr>
-<th scope="row" style="border:1px solid #888;padding:6px 8px;background:#f0f0f0;font-weight:bold;text-align:left;">Gwarancja</th>
-<td style="border:1px solid #888;padding:6px 8px;vertical-align:top;">36 miesięcy</td>
-</tr>
-</tbody>
-</table></div>
-</div>
-</div>
-]]></DESCRIPTION>
-    <MANUFACTURER>IPOX</MANUFACTURER>
-    <CATEGORIES>
-      <DEFAULT_CATEGORY>IP kamery</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <PRICE>193.80</PRICE>
-    <CURRENCY>EUR</CURRENCY>
-    <IMAGES>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_kamera_ip_dual_px_di4028ir3dlw_4mp_2_8mm_biala_glowne_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_kamera_ip_px_di2028ir3dlg_2mpx_glowne_v2_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_kamera_ip_dual_px_di4028ir3dlw_4mp_2_8mm_biala_front_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_kamera_ip_dual_px_di2028ir3dlg_2mp_2_8mm_grafit_6165g_front_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_kamera_ip_dual_px_di4028ir3dlw_4mp_2_8mm_biala_spod_z_przew_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_kamera_ip_px_di2028ir3dlg_2mpx_spod_z_przew_v2_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_ir2_ir3dl_dome_akcesoria_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_kamera_ip_dual_px_di4036ir3dlw_4mp_3_6mm_biala_ipox_box_l_.jpg</IMAGE>
-      <IMAGE>https://www.napad.pl/data/katalog/produkty/duze/13975_kamera_ip_px_di2028ir3dlg_2mpx_box_l_.jpg</IMAGE>
     </IMAGES>
   </SHOPITEM>
 </SHOP>
